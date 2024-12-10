@@ -1,1 +1,12 @@
 /* css styles */
+
+/* Logo placement */
+.navbar-brand {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-brand img {
+  max-height: 50px; /* Adjust as needed */
+  margin-right: 8px; /* Space between logo and title */
+}

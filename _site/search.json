@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Some scrap text below for the page!!!\n\n1 + 1\n\n[1] 2\n\n\nThis is a simple demonstration of generating a plot in an HTML document using Quarto (.qmd) and R.\n\nGenerating a Plot\nWe will create a simple ggplot graph using R’s built-in mtcars dataset.\n\n# Load necessary libraries\nlibrary(ggplot2)\n\n# Create the plot\nggplot(mtcars, aes(x=wt, y=mpg)) +\n  geom_point() +\n  theme_minimal() +\n  ggtitle(\"Scatter Plot of MPG vs. Weight\") +\n  xlab(\"Weight (1000 lbs)\") +\n  ylab(\"Miles/(US) gallon\")"
+    "text": "Some scrap text below for the page!!!\n\n1 + 1\n#&gt; [1] 2\n\nThis is a simple demonstration of generating a plot in an HTML document using Quarto (.qmd) and R.\n\nGenerating a Plot\nWe will create a simple ggplot graph using R’s built-in mtcars dataset.\n\n# Load necessary libraries\nlibrary(ggplot2)\n\n# Create the plot\nggplot(mtcars, aes(x=wt, y=mpg)) +\n  geom_point() +\n  theme_minimal() +\n  ggtitle(\"Scatter Plot of MPG vs. Weight\") +\n  xlab(\"Weight (1000 lbs)\") +\n  ylab(\"Miles/(US) gallon\")"
   },
   {
     "objectID": "index.html",
