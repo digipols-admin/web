@@ -4,17 +4,17 @@ project:
 output-dir: docs
 
 website:
-  title: "Test website"
+  title: "Digipols"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+    logo: images/logo1.png
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
-
