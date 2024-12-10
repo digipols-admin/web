@@ -1,9 +1,14 @@
 ---
-title: "December Update"
-date: "2023-12-01"
+title: "Long post on December Update"
+date: 2023-12-01
 author: "Jane Doe"
-summary: "A look at this month's developments."
-image: "images/home1.png"
+description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore"
+image: "../images/fig-grouped-boxplot-1.png"
 ---
 
-This month's update includes important announcements and highlights.
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+
+Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+
+
+

@@ -64,20 +64,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-sample-listings .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-title','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image','listing-date','listing-author','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
       searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-sample-listings'] = new List('listing-sample-listings', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -97,9 +97,10 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 <meta name="twitter:title" content="DigiPols - News">
 <meta name="twitter:description" content="">
+<meta name="twitter:image" content="./images/fig-grouped-boxplot-1.png">
 <meta name="twitter:creator" content="@dragonstyle">
 <meta name="twitter:site" content="@rstudio">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed">
@@ -168,21 +169,23 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>This page displays a listing of recent posts. Click on an item to view the full article.</p>
-
-
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
+<div id="listing-sample-listings" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1701388800000" data-listing-file-modified-sort="1733855295528" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1701388800000" data-listing-file-modified-sort="1733862389278" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./posts/item5.html"> <img src="./images/fig-grouped-boxplot-1.png" class="thumbnail-image"> </a></p>
+</div>
 <div class="body">
 <a href="./posts/item5.html">
 <h3 class="no-anchor listing-title">
-December Update
+Long post on December Update
 </h3>
 <div class="listing-subtitle">
 
+</div>
+<div class="listing-description">
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore</p>
 </div>
 </a>
 </div>
@@ -191,24 +194,36 @@ December Update
 <div class="listing-date">
 Dec 1, 2023
 </div>
+<div class="listing-author">
+Jane Doe
+</div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1731196800000" data-listing-file-modified-sort="1733855864395" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1731196800000" data-listing-file-modified-sort="1733862521796" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./posts/item1.html"> <img src="./images/fig-plot-smaller-diamonds-1.png" class="thumbnail-image"> </a></p>
+</div>
 <div class="body">
-<a href="./posts/2023-10-01-item1.html">
+<a href="./posts/item1.html">
 <h3 class="no-anchor listing-title">
 Lorem Ipsum: A news item Template2
 </h3>
 <div class="listing-subtitle">
 
 </div>
+<div class="listing-description">
+<p>A placeholder blog post with an image and 300 words of content. And some more content here and there.</p>
+</div>
 </a>
 </div>
 <div class="metadata">
-<a href="./posts/2023-10-01-item1.html">
+<a href="./posts/item1.html">
 <div class="listing-date">
 Nov 10, 2024
+</div>
+<div class="listing-author">
+John Paul
 </div>
 </a>
 </div>
@@ -217,7 +232,13 @@ Nov 10, 2024
 <div class="listing-no-matching d-none">
 No matching items
 </div>
-</div></main> <!-- /main -->
+</div>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+
+
+
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
