@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-Some scrap text for the page.
+Some scrap text below for the page 
 
 ```{r}
 1 + 1
