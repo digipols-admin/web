@@ -3,14 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "Digipols"
+  title: "DigiPols"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - href: news.qmd
+        text: News
       - href: about.qmd
         text: About
     logo: images/logo1.png
+  twitter-card: 
+    creator: "@dragonstyle" 
+    site: "@rstudio"
 
 format:
   html:
@@ -23,3 +28,4 @@ knitr:
      fig.path: "images/"
      comment: "#>"
      collapse: true
+

@@ -1,0 +1,9 @@
+---
+title: "December Update"
+date: "2023-12-01"
+author: "Jane Doe"
+summary: "A look at this month's developments."
+image: "images/home1.png"
+---
+
+This month's update includes important announcements and highlights.

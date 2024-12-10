@@ -10,11 +10,18 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
 Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
 
+![](images/home1.png){.center width="55%" style="border-radius: 8px;"}
+
 :::
   
-::: {.g-col-5}
+::: {.g-col-4}
 
-![](images/home1.png){.center width="80%" style="border-radius: 8px;"}
+
+<!-- Add Twitter Feed -->
+<div>
+  <a class="twitter-timeline" href="https://twitter.com/CyUniTech?ref_src=twsrc%5Etfw">Tweets by CyUniTech</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
 
 :::
   

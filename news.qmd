@@ -1,0 +1,12 @@
+---
+title: "News"
+listing:
+  contents: posts
+  sort: "date"
+  type: default
+  fields: [title, date]
+  #feed: true
+---
+
+This page displays a listing of recent posts. Click on an item to view the full article.
+

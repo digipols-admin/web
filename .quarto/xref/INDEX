@@ -4,5 +4,47 @@
   },
   "about.qmd": {
     "about.html": "f744c450"
+  },
+  "news_item.qmd": {
+    "news_item.html": "4ef7a33e"
+  },
+  "news.qmd": {
+    "news.html": "1628352e"
+  },
+  "news/2024-09-10-item2.qmd": {
+    "2024-09-10-item2.html": "61ff4b54"
+  },
+  "news/2024-12-10-item4.qmd": {
+    "2024-12-10-item4.html": "d8fc9c61"
+  },
+  "news/2024-06-15-item3.qmd": {
+    "2024-06-15-item3.html": "f559b76e"
+  },
+  "news/2023-10-01-item1.qmd": {
+    "2023-10-01-item1.html": "29c69f0a"
+  },
+  "posts/2024-09-10-item2.qmd": {
+    "2024-09-10-item2.html": "1615e09c"
+  },
+  "posts/2024-12-10-item4.qmd": {
+    "2024-12-10-item4.html": "00604df3"
+  },
+  "posts/2024-06-15-item3.qmd": {
+    "2024-06-15-item3.html": "caacd935"
+  },
+  "posts/2023-10-01-item1.qmd": {
+    "2023-10-01-item1.html": "986f5203"
+  },
+  "posts/item5.qmd": {
+    "item5.html": "18f88a61"
+  },
+  "2024-09-10-item2.qmd": {
+    "2024-09-10-item2.html": "bf7783f4"
+  },
+  "2024-12-10-item4.qmd": {
+    "2024-12-10-item4.html": "741303db"
+  },
+  "2024-06-15-item3.qmd": {
+    "2024-06-15-item3.html": "9ceedbf7"
   }
 }
