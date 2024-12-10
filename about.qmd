@@ -1,0 +1,29 @@
+---
+title: "About"
+---
+
+About this site
+
+```{r}
+1 + 1
+```
+
+This is a simple demonstration of generating a plot in an HTML document using Quarto (.qmd) and R.
+
+# Generating a Plot
+
+We will create a simple ggplot graph using R's built-in `mtcars` dataset.
+
+```{r}
+# Load necessary libraries
+library(ggplot2)
+
+# Create the plot
+ggplot(mtcars, aes(x=wt, y=mpg)) +
+  geom_point() +
+  theme_minimal() +
+  ggtitle("Scatter Plot of MPG vs. Weight") +
+  xlab("Weight (1000 lbs)") +
+  ylab("Miles/(US) gallon")
+```
+

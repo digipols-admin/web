@@ -1,0 +1,16 @@
+{
+  "hash": "286d422444f8ee31663ae4b41166cef1",
+  "result": {
+    "markdown": "---\ntitle: \"About\"\n---\n\n\nAbout this site\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n\n\nThis is a simple demonstration of generating a plot in an HTML document using Quarto (.qmd) and R.\n\n# Generating a Plot\n\nWe will create a simple ggplot graph using R's built-in `mtcars` dataset.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# Load necessary libraries\nlibrary(ggplot2)\n\n# Create the plot\nggplot(mtcars, aes(x=wt, y=mpg)) +\n  geom_point() +\n  theme_minimal() +\n  ggtitle(\"Scatter Plot of MPG vs. Weight\") +\n  xlab(\"Weight (1000 lbs)\") +\n  ylab(\"Miles/(US) gallon\")\n```\n\n::: {.cell-output-display}\n![](about_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n:::\n",
+    "supporting": [
+      "about_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
