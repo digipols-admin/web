@@ -20,7 +20,7 @@ Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed 
   
 :::  
 
-::: {.footer style="text-align: left; padding: 1rem; margin-top: 8rem;"}
+::: {.footer style="text-align: left; padding: 1rem; margin-top: 10rem;"}
 
 © 2024 Digipols. All rights reserved. | [Privacy Policy](#) | [Terms of Service](#)
 
