@@ -18,3 +18,9 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+
+knitr:
+   opts_chunk:
+     fig.path: "images/"
+     comment: "#>"
+     collapse: true
