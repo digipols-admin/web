@@ -12,7 +12,7 @@ website:
         text: News
       - href: about.qmd
         text: About
-    logo: images/logo1.png
+    logo: images/logo.png
   twitter-card: 
     creator: "@dragonstyle" 
     site: "@rstudio"

@@ -1,0 +1,88 @@
+---
+title: "Penguins report: An interactive example"
+date: 2023-11-05
+description: "An exmaple of an interactive graphs using observable JS. Useful for interactions etc. Add more description here."
+image: "../images/unnamed-chunk-2-1.png"
+author: "Paul Barry"
+
+format:
+  html:
+    toc: false
+    echo: false
+    keep-hidden: true
+    code-tools: true
+---
+
+A simple example based on Allison Horst's [Palmer Penguins](https://allisonhorst.github.io/palmerpenguins/) dataset. Here we look at how penguin body mass varies across both sex and species (use the provided inputs to filter the dataset by bill length and island):
+
+```{ojs}
+//| panel: input
+viewof bill_length_min = Inputs.range(
+  [32, 50], 
+  {value: 35, step: 1, label: "Bill length (min):"}
+)
+viewof islands = Inputs.checkbox(
+  ["Torgersen", "Biscoe", "Dream"], 
+  { value: ["Torgersen", "Biscoe"], 
+    label: "Islands:"
+  }
+)
+```
+
+::: {.panel-tabset}
+
+## Plot
+
+```{ojs}
+Plot.rectY(filtered, 
+  Plot.binX(
+    {y: "count"}, 
+    {x: "body_mass_g", fill: "species", thresholds: 20}
+  ))
+  .plot({
+    facet: {
+      data: filtered,
+      x: "sex",
+      y: "species",
+      marginRight: 80
+    },
+    marks: [
+      Plot.frame(),
+    ],
+    style: {
+      fontSize: "16px",  // Adjust font size for labels and text
+      labelFontSize: "18px"  // Increase label font size
+    },
+    x: {
+      label: null  // Remove X-axis label
+    },
+    y: {
+      label: null  // Remove Y-axis label
+    }
+  }
+)
+```
+
+## Data
+
+```{ojs}
+Inputs.table(filtered)
+```
+
+:::
+
+```{ojs}
+data = FileAttachment("palmer-penguins.csv").csv({ typed: true })
+```
+
+```{ojs}
+filtered = data.filter(function(penguin) {
+  return bill_length_min < penguin.bill_length_mm &&
+         islands.includes(penguin.island);
+})
+```
+
+## Testing figures
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See for additional discussion of literate programming.
+

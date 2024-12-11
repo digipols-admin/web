@@ -52,5 +52,14 @@
   },
   "posts/item1.qmd": {
     "item1.html": "34653ddf"
+  },
+  "dashboard.qmd": {
+    "dashboard.html": "494f5271"
+  },
+  "posts/dashboard.qmd": {
+    "dashboard.html": "6d08db73"
+  },
+  "posts/long_post.qmd": {
+    "long_post.html": "ae5598c9"
   }
 }

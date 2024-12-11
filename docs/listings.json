@@ -2,7 +2,9 @@
   {
     "listing": "/news.html",
     "items": [
+      "/posts/dashboard.html",
       "/posts/item5.html",
+      "/posts/long_post.html",
       "/posts/item1.html"
     ]
   }
