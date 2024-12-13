@@ -10,6 +10,8 @@ website:
         text: Home
       - href: news.qmd
         text: News
+      - href: team.qmd
+        text: Team
       - href: about.qmd
         text: About
     logo: images/logo.png

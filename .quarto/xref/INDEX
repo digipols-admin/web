@@ -61,5 +61,29 @@
   },
   "posts/long_post.qmd": {
     "long_post.html": "ae5598c9"
+  },
+  "team/person1.qmd": {
+    "person1.html": "3055681d"
+  },
+  "people.qmd": {
+    "people.html": "9c444363"
+  },
+  "team/person2.qmd": {
+    "person2.html": "9ac3c8a6"
+  },
+  "people/person1.qmd": {
+    "person1.html": "959b7df0"
+  },
+  "people/person2.qmd": {
+    "person2.html": "a3b68c74"
+  },
+  "team.qmd": {
+    "team.html": "909b036b"
+  },
+  "team/person3.qmd": {
+    "person3.html": "e2bc5963"
+  },
+  "scrap.qmd": {
+    "scrap.html": "13649990"
   }
 }

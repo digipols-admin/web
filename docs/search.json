@@ -7,32 +7,32 @@
     "text": "Some scrap text below for the page!!!\n\n1 + 1\n#&gt; [1] 2\n\nThis is a simple demonstration of generating a plot in an HTML document using Quarto (.qmd) and R.\n\nGenerating a Plot\nWe will create a simple ggplot graph using R’s built-in mtcars dataset.\n\n# Load necessary libraries\nlibrary(ggplot2)\n\n# Create the plot\nggplot(mtcars, aes(x=wt, y=mpg)) +\n  geom_point() +\n  theme_minimal() +\n  ggtitle(\"Scatter Plot of MPG vs. Weight\") +\n  xlab(\"Weight (1000 lbs)\") +\n  ylab(\"Miles/(US) gallon\")"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome",
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team members",
     "section": "",
-    "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt Nemo enim ipsam.\n\n\n\n\n\nTweets by CyUniTech\n\n\n\n\n\n© 2024 Digipols. All rights reserved. | Privacy Policy | Terms of Service"
+    "text": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.\n\n\n\n\n  \n\n\n\n\nNelli Stella\n\n\nPost-Doctoral researchers\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nStella Nelli\n\n\nDoctoral researchers\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nVicky Triga\n\n\nDirector\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n\n\n\n \n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/dashboard.html",
-    "href": "posts/dashboard.html",
-    "title": "Penguins report: An interactive example",
+    "objectID": "posts/item1.html",
+    "href": "posts/item1.html",
+    "title": "Lorem Ipsum: A news item Template2",
     "section": "",
-    "text": "A simple example based on Allison Horst’s Palmer Penguins dataset. Here we look at how penguin body mass varies across both sex and species (use the provided inputs to filter the dataset by bill length and island):\nviewof bill_length_min = Inputs.range(\n  [32, 50], \n  {value: 35, step: 1, label: \"Bill length (min):\"}\n)\nviewof islands = Inputs.checkbox(\n  [\"Torgersen\", \"Biscoe\", \"Dream\"], \n  { value: [\"Torgersen\", \"Biscoe\"], \n    label: \"Islands:\"\n  }\n)\ndata = FileAttachment(\"palmer-penguins.csv\").csv({ typed: true })\nfiltered = data.filter(function(penguin) {\n  return bill_length_min &lt; penguin.bill_length_mm &&\n         islands.includes(penguin.island);\n})"
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See for additional discussion of literate programming. BBC."
   },
   {
-    "objectID": "posts/dashboard.html#testing-figures",
-    "href": "posts/dashboard.html#testing-figures",
-    "title": "Penguins report: An interactive example",
+    "objectID": "posts/item1.html#incididunt-ut-labore",
+    "href": "posts/item1.html#incididunt-ut-labore",
+    "title": "Lorem Ipsum: A news item Template2",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See for additional discussion of literate programming. BBC."
+  },
+  {
+    "objectID": "posts/item1.html#testing-figures",
+    "href": "posts/item1.html#testing-figures",
+    "title": "Lorem Ipsum: A news item Template2",
     "section": "Testing figures",
     "text": "Testing figures\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See for additional discussion of literate programming."
-  },
-  {
-    "objectID": "posts/item5.html",
-    "href": "posts/item5.html",
-    "title": "Long post on December Update",
-    "section": "",
-    "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
   },
   {
     "objectID": "posts/long_post.html",
@@ -63,25 +63,95 @@
     "text": "Testing tables\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See @knuth84 for additional discussion of literate programming.\n\n\nCode\nmtcars |&gt; \n  head() |&gt; \n  kbl() |&gt; \n  kable_styling(full_width = F,position = \"left\",\n                bootstrap_options = c(\"striped\", \"hover\"))\n\n\n\n\nTable 1: Add a long table caption here\n\n\n\nmpg\ncyl\ndisp\nhp\ndrat\nwt\nqsec\nvs\nam\ngear\ncarb\n\n\n\n\nMazda RX4\n21.0\n6\n160\n110\n3.90\n2.620\n16.46\n0\n1\n4\n4\n\n\nMazda RX4 Wag\n21.0\n6\n160\n110\n3.90\n2.875\n17.02\n0\n1\n4\n4\n\n\nDatsun 710\n22.8\n4\n108\n93\n3.85\n2.320\n18.61\n1\n1\n4\n1\n\n\nHornet 4 Drive\n21.4\n6\n258\n110\n3.08\n3.215\n19.44\n1\n0\n3\n1\n\n\nHornet Sportabout\n18.7\n8\n360\n175\n3.15\n3.440\n17.02\n0\n0\n3\n2\n\n\nValiant\n18.1\n6\n225\n105\n2.76\n3.460\n20.22\n1\n0\n3\n1\n\n\n\n\n\n\n\n\n\nTesting a mermaid flow chart\nEt harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.\n\n\n\n\n\nflowchart LR\n  A[qmd] --&gt; B(Knitr)\n  A[qmd] --&gt; C(Jupyter)\n  B(Knitr) --&gt; D[md]\n  C(Jupyter) --&gt; D[md]\n  D[md] --&gt; E(pandoc)\n  E(pandoc) --&gt; F(HTML)\n  E(pandoc) --&gt; G(PDF)\n  E(pandoc) --&gt; H(Word)\n  E(pandoc) --&gt; I{and more}\n  I{and more} --&gt; A[qmd]\n\n\nFigure 3: How Quarto orchestrates rendering of documents: start with a qmd file, use the Knitr or Jupyter engine to perform the computations and convert it to an md file, then use Pandoc to convert to various file formats including HTML, PDF, and Word.\n\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n\nAdd another flowchart\n\n\n\n\n\ngraph TD\nclassDef k1 fill:#f30;\nclassDef k2 fill:#FFD70f;\nclassDef k3 fill:#00800f;\n    A[Transform each English URL&lt;br&gt; to point to a different language] --&gt; B(Ping each URL)\n    B --&gt; |If a valid webpage is&lt;br&gt;returned| C(Extract content)\n    B --&gt; |If an error code is returned|D{{Label as missing 998}}:::k2\n    C --&gt; |If content can be&lt;br&gt;extracted|E(Apply language detection)\n    C --&gt; |If content cannot&lt;br&gt; be extracted|F{{Label as missing 999}}:::k2\n    E --&gt; H[Correct&lt;br&gt;language]\n    style H fill:#00800f,stroke:#00800f,color:#fff\n    E --&gt; I[Incorrect&lt;br&gt;language]\n    style I fill:#f20,stroke:#f20,stroke-width:2px,color:#fff\n\n\nFigure 4: Another long figure explanation. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\n\n\n\nAt vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat\n\n\nTesting two side by side tables\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\n\nCode\ncars |&gt;\n  head() |&gt;\n  mykable()\n\npressure |&gt;\n  head() |&gt;\n  mykable()\n\n\n\nTable 2: Example\n\n\n\n\n(a) Cars\n\n\nspeed\ndist\n\n\n\n\n4\n2\n\n\n4\n10\n\n\n7\n4\n\n\n7\n22\n\n\n8\n16\n\n\n9\n10\n\n\n\n\n\n\n\n\n\n\n\n\n(b) Pressure\n\n\ntemperature\npressure\n\n\n\n\n0\n0.0002\n\n\n20\n0.0012\n\n\n40\n0.0060\n\n\n60\n0.0300\n\n\n80\n0.0900\n\n\n100\n0.2700\n\n\n\n\n\n\n\n\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\n\nExample of a long grouped table\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\n\nCode\nlibrary(reactable)\nd1 &lt;- read_csv(here(\"data/definitionInstrumentItem.csv\"))\n#&gt; Rows: 447 Columns: 4\n#&gt; ── Column specification ────────────────────────────────────────────────────────\n#&gt; Delimiter: \",\"\n#&gt; chr (3): Item, Definition, Instrument\n#&gt; dbl (1): ID\n#&gt; \n#&gt; ℹ Use `spec()` to retrieve the full column specification for this data.\n#&gt; ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.\nd1 %&gt;% \n  reactable(groupBy = \"Instrument\",\n            #selection = \"multiple\", \n            onClick = \"select\",\n            pagination = FALSE, \n            searchable = FALSE,\n            striped = TRUE,\n            columns = list(Definition = colDef(minWidth =250), ID = colDef(maxWidth = 40))\n            )"
   },
   {
-    "objectID": "posts/item1.html",
-    "href": "posts/item1.html",
-    "title": "Lorem Ipsum: A news item Template2",
+    "objectID": "team/person3.html",
+    "href": "team/person3.html",
+    "title": "Stella Nelli",
     "section": "",
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See for additional discussion of literate programming. BBC."
   },
   {
-    "objectID": "posts/item1.html#incididunt-ut-labore",
-    "href": "posts/item1.html#incididunt-ut-labore",
-    "title": "Lorem Ipsum: A news item Template2",
+    "objectID": "team/person3.html#incididunt-ut-labore",
+    "href": "team/person3.html#incididunt-ut-labore",
+    "title": "Stella Nelli",
     "section": "",
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See for additional discussion of literate programming. BBC."
   },
   {
-    "objectID": "posts/item1.html#testing-figures",
-    "href": "posts/item1.html#testing-figures",
-    "title": "Lorem Ipsum: A news item Template2",
+    "objectID": "team/person3.html#testing-figures",
+    "href": "team/person3.html#testing-figures",
+    "title": "Stella Nelli",
     "section": "Testing figures",
     "text": "Testing figures\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See for additional discussion of literate programming."
+  },
+  {
+    "objectID": "team/person1.html",
+    "href": "team/person1.html",
+    "title": "Vicky Triga",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See for additional discussion of literate programming. BBC."
+  },
+  {
+    "objectID": "team/person1.html#incididunt-ut-labore",
+    "href": "team/person1.html#incididunt-ut-labore",
+    "title": "Vicky Triga",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See for additional discussion of literate programming. BBC."
+  },
+  {
+    "objectID": "team/person1.html#testing-figures",
+    "href": "team/person1.html#testing-figures",
+    "title": "Vicky Triga",
+    "section": "Testing figures",
+    "text": "Testing figures\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See for additional discussion of literate programming."
+  },
+  {
+    "objectID": "team/person2.html",
+    "href": "team/person2.html",
+    "title": "Nelli Stella",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See for additional discussion of literate programming. BBC."
+  },
+  {
+    "objectID": "team/person2.html#incididunt-ut-labore",
+    "href": "team/person2.html#incididunt-ut-labore",
+    "title": "Nelli Stella",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See for additional discussion of literate programming. BBC."
+  },
+  {
+    "objectID": "team/person2.html#testing-figures",
+    "href": "team/person2.html#testing-figures",
+    "title": "Nelli Stella",
+    "section": "Testing figures",
+    "text": "Testing figures\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See for additional discussion of literate programming."
+  },
+  {
+    "objectID": "posts/item5.html",
+    "href": "posts/item5.html",
+    "title": "Long post on December Update",
+    "section": "",
+    "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "objectID": "posts/dashboard.html",
+    "href": "posts/dashboard.html",
+    "title": "Penguins report: An interactive example",
+    "section": "",
+    "text": "A simple example based on Allison Horst’s Palmer Penguins dataset. Here we look at how penguin body mass varies across both sex and species (use the provided inputs to filter the dataset by bill length and island):\nviewof bill_length_min = Inputs.range(\n  [32, 50], \n  {value: 35, step: 1, label: \"Bill length (min):\"}\n)\nviewof islands = Inputs.checkbox(\n  [\"Torgersen\", \"Biscoe\", \"Dream\"], \n  { value: [\"Torgersen\", \"Biscoe\"], \n    label: \"Islands:\"\n  }\n)\ndata = FileAttachment(\"palmer-penguins.csv\").csv({ typed: true })\nfiltered = data.filter(function(penguin) {\n  return bill_length_min &lt; penguin.bill_length_mm &&\n         islands.includes(penguin.island);\n})"
+  },
+  {
+    "objectID": "posts/dashboard.html#testing-figures",
+    "href": "posts/dashboard.html#testing-figures",
+    "title": "Penguins report: An interactive example",
+    "section": "Testing figures",
+    "text": "Testing figures\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See for additional discussion of literate programming."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt Nemo enim ipsam.\n\n\n\n\n\nTweets by CyUniTech\n\n\n\n\n\n© 2024 Digipols. All rights reserved. | Privacy Policy | Terms of Service"
   },
   {
     "objectID": "news.html",

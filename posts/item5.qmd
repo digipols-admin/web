@@ -3,7 +3,7 @@ title: "Long post on December Update"
 date: 2023-12-01
 author: "Jane Doe"
 description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore"
-image: "../images/fig-grouped-boxplot-1.png"
+image: images_posts/fig-grouped-boxplot-1.png
 ---
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 

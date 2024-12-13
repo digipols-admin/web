@@ -1,5 +1,13 @@
 [
   {
+    "listing": "/team.html",
+    "items": [
+      "/team/person2.html",
+      "/team/person3.html",
+      "/team/person1.html"
+    ]
+  },
+  {
     "listing": "/news.html",
     "items": [
       "/posts/dashboard.html",

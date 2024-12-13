@@ -1,0 +1,17 @@
+---
+title: "Team members"
+listing:
+  id: sample-listings
+  contents: team
+  sort: "title"
+  type: default
+  image-align: left
+  fields: [image, title, substitle, description]
+---
+
+Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+
+::: {#sample-listings}
+:::
+
+

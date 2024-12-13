@@ -1,14 +1,8 @@
 ---
-title: "Lorem Ipsum: A news item Template2"
-date: 2024-11-10
-description: "A placeholder blog post with an image and 300 words of content. And some more content here and there."
-image: images_posts/fig-plot-smaller-diamonds-1.png
-author: "John Paul"
-format:
-  html:
-    toc: true
-    toc-depth: 2
-    code-fold: true
+title: "Stella Nelli"
+subtitle: "Doctoral researchers"
+description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+image: images_team/person3.png
 ---
 
 ## Incididunt ut labore
