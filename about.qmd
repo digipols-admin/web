@@ -1,29 +1,41 @@
 ---
-title: "About"
+title: " "
+format: html
 ---
 
-Some scrap text below for the page!!!
+## Who We Are
 
-```{r}
-1 + 1
-```
+::: {.grid}
 
-This is a simple demonstration of generating a plot in an HTML document using Quarto (.qmd) and R.
+::: {.g-col-6}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non felis in magna venenatis varius. Aenean eu leo at purus dignissim tempus. Sed sollicitudin volutpat ipsum, at dignissim sapien egestas a. Curabitur auctor justo id nulla ullamcorper, sed fermentum neque facilisis. Sed sollicitudin volutpat ipsum, at dignissim sapien egestas a. 
+:::
 
-# Generating a Plot
+::: {.g-col-6}
+![](images/about.png){style="border-radius: 8px;"}
+:::
 
-We will create a simple ggplot graph using R's built-in `mtcars` dataset.
+:::
 
-```{r}
-# Load necessary libraries
-library(ggplot2)
+## Our Mission
 
-# Create the plot
-ggplot(mtcars, aes(x=wt, y=mpg)) +
-  geom_point() +
-  theme_minimal() +
-  ggtitle("Scatter Plot of MPG vs. Weight") +
-  xlab("Weight (1000 lbs)") +
-  ylab("Miles/(US) gallon")
-```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non felis in magna venenatis varius. Aenean eu leo at purus dignissim tempus. Sed sollicitudin volutpat ipsum, at dignissim sapien egestas a. Curabitur auctor justo id nulla ullamcorper, sed fermentum neque facilisis.
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a nunc sit amet lorem fermentum lacinia. Phasellus vulputate erat vel magna consequat, non viverra libero vehicula. Quisque euismod, odio nec elementum posuere, tortor eros egestas magna, a rutrum erat velit at metus.
+
+## Our Values
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Aenean eget urna vitae eros sollicitudin viverra.
+- Curabitur dignissim, justo a facilisis aliquet, elit orci tempor arcu, sit amet molestie libero enim sit amet metus.
+
+## Our Team
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at quam ac sapien fermentum tincidunt. Suspendisse potenti. Proin id ligula nec velit dictum aliquam in in ligula. Nullam ut lectus id justo malesuada condimentum.
+
+## Contact Us
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed augue id nunc venenatis pharetra. Nulla facilisi. Ut a varius nunc. Nunc feugiat metus a est accumsan scelerisque. Donec vel ligula sit amet enim cursus cursus at et magna.
+
+- **Email:** lorem.ipsum@placeholder.com
+- **Phone:** +123 456 7890
+- **Address:** 123 Lorem Ipsum Street, Dolor City, Ametland
+
+Stay connected with us for the latest updates and insights into our research initiatives!

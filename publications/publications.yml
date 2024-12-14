@@ -1,0 +1,17 @@
+- name: Research Article 1
+  href: "https://example.com/article1"
+  authors: "Author A, Author B"
+  year: 2023
+  publisher: "Journal XYZ"
+  type: "Journal Article"
+  abstract: "This is a placeholder abstract for research article 1."
+  image_path: "images/home1.png"
+
+- name: Research Article 2
+  href: "https://example.com/article2"
+  authors: "Author C, Author D"
+  year: 2022
+  publisher: "Publisher ABC"
+  type: "Book"
+  abstract: "This is a placeholder abstract for research article 2."
+  image_path: "images/home1.png"

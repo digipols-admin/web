@@ -1,0 +1,21 @@
+---
+title: "Publications"
+listing:
+  contents:
+    -  publications/publications.yml
+  template: _templates/publications.ejs
+  sort-ui: true
+  filter-ui: true
+  page-size: 10
+  field-display-names:
+    name: "Title"
+    authors: "Authors"
+    year: "Year"
+    publisher: "Publisher"
+    type: "Type"
+format:
+  html:
+    css: styles.css
+
+---
+

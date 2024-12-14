@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>DigiPols - Welcome</title>
+<title>DigiPols - Research</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -59,14 +59,17 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script src="site_libs/quarto-diagram/mermaid.min.js"></script>
+<script src="site_libs/quarto-diagram/mermaid-init.js"></script>
+<link href="site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 
 
 <link rel="stylesheet" href="styles.css">
-<meta name="twitter:title" content="DigiPols - Welcome">
-<meta name="twitter:image" content="images/home1.png">
+<meta name="twitter:title" content="DigiPols - Research">
+<meta name="twitter:description" content="">
 <meta name="twitter:creator" content="@dragonstyle">
 <meta name="twitter:site" content="@rstudio">
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:card" content="summary">
 </head>
 
 <body class="nav-fixed">
@@ -90,7 +93,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="./index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -98,7 +101,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research.html" rel="" target="">
+    <a class="nav-link active" href="./research.html" rel="" target="" aria-current="page">
  <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
@@ -125,14 +128,23 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#cluster-1-proin-vehicula" id="toc-cluster-1-proin-vehicula" class="nav-link active" data-scroll-target="#cluster-1-proin-vehicula">Cluster 1: Proin vehicula</a></li>
+  <li><a href="#cluster-2-integer-euismod" id="toc-cluster-2-integer-euismod" class="nav-link" data-scroll-target="#cluster-2-integer-euismod">Cluster 2: Integer euismod</a></li>
+  <li><a href="#cluster-3-vivamus-ultricies" id="toc-cluster-3-vivamus-ultricies" class="nav-link" data-scroll-target="#cluster-3-vivamus-ultricies">Cluster 3: Vivamus ultricies</a></li>
+  <li><a href="#cluster-4-donec-eget" id="toc-cluster-4-donec-eget" class="nav-link" data-scroll-target="#cluster-4-donec-eget">Cluster 4: Donec eget</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Welcome</h1>
+<h1 class="title">Research</h1>
 </div>
 
 
@@ -147,25 +159,53 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<div class="grid">
-<div class="g-col-7">
 <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
-<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt Nemo enim ipsam.</p>
-<p><img src="images/home1.png" class="center img-fluid" style="border-radius: 8px;;width:55.0%"></p>
-</div>
-<div class="g-col-4">
-<!-- Add Twitter Feed -->
+<div class="cell" data-fig-width="6">
+<div class="cell-output-display">
+<div id="fig-mermaid" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
 <div>
-<a class="twitter-timeline" href="https://twitter.com/CyUniTech?ref_src=twsrc%5Etfw">Tweets by CyUniTech</a>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<pre class="mermaid mermaid-js" data-label="fig-mermaid">flowchart LR
+  A[qmd] --&gt; B(Knitr)
+  A[qmd] --&gt; C(Jupyter)
+  B(Knitr) --&gt; D[md]
+  C(Jupyter) --&gt; D[md]
+  D[md] --&gt; E(pandoc)
+  E(pandoc) --&gt; F(HTML)
+  E(pandoc) --&gt; G(PDF)
+  E(pandoc) --&gt; H(Word)
+  E(pandoc) --&gt; I{and more}
+  I{and more} --&gt; A[qmd]
+</pre>
+</div>
+<figcaption class="figure-caption">Figure&nbsp;1: Overview of organisation X research clusters</figcaption>
+</figure>
 </div>
 </div>
 </div>
-<div class="footer" style="text-align: left; padding: 1rem; margin-top: 10rem;">
-<p>© 2024 Digipols. All rights reserved. | <a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a></p>
-</div>
+<section id="cluster-1-proin-vehicula" class="level2">
+<h2 class="anchored" data-anchor-id="cluster-1-proin-vehicula">Cluster 1: Proin vehicula</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vehicula purus vel orci malesuada, nec feugiat lacus commodo. Sed dictum risus ac ligula commodo, non pulvinar eros iaculis.</p>
+<p>Focus areas include: - Citizen engagement in digital spaces - E-participation tools and platforms - Impacts of social media on democratic processes</p>
+</section>
+<section id="cluster-2-integer-euismod" class="level2">
+<h2 class="anchored" data-anchor-id="cluster-2-integer-euismod">Cluster 2: Integer euismod</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer euismod purus non metus sollicitudin, a viverra enim facilisis. Phasellus vel mi a urna tincidunt dictum.</p>
+<p>Focus areas include: - Text analysis of political discourse - Network analysis of policy communities - Survey design and data analysis</p>
+</section>
+<section id="cluster-3-vivamus-ultricies" class="level2">
+<h2 class="anchored" data-anchor-id="cluster-3-vivamus-ultricies">Cluster 3: Vivamus ultricies</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies sapien vel sapien varius, id pretium ligula scelerisque. Cras pellentesque massa a leo elementum tristique.</p>
+<p>Focus areas include: - Media framing of political issues - Public opinion dynamics - Communication strategies in campaigns</p>
+</section>
+<section id="cluster-4-donec-eget" class="level2">
+<h2 class="anchored" data-anchor-id="cluster-4-donec-eget">Cluster 4: Donec eget</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Quisque nec consequat leo, sed consectetur mi. Donec eget mauris fringilla, vestibulum nulla et, dictum dolor.</p>
+<p>Focus areas include: - Design and evaluation of public policies - Behavioral insights in policy-making - Comparative studies of policy innovations</p>
+<p>Stay tuned for detailed projects and publications under each cluster as we continue to expand our work.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

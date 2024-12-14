@@ -1,0 +1,61 @@
+---
+title: "Research"
+format: html
+---
+  
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+
+
+```{mermaid}
+%%| label: fig-mermaid
+%%| fig-width: 6
+%%| fig-cap: "Overview of organisation X research clusters"
+
+flowchart LR
+  A[qmd] --> B(Knitr)
+  A[qmd] --> C(Jupyter)
+  B(Knitr) --> D[md]
+  C(Jupyter) --> D[md]
+  D[md] --> E(pandoc)
+  E(pandoc) --> F(HTML)
+  E(pandoc) --> G(PDF)
+  E(pandoc) --> H(Word)
+  E(pandoc) --> I{and more}
+  I{and more} --> A[qmd]
+```
+
+
+
+## Cluster 1: Proin vehicula
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vehicula purus vel orci malesuada, nec feugiat lacus commodo. Sed dictum risus ac ligula commodo, non pulvinar eros iaculis.
+
+Focus areas include:
+- Citizen engagement in digital spaces
+- E-participation tools and platforms
+- Impacts of social media on democratic processes
+
+## Cluster 2: Integer euismod
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer euismod purus non metus sollicitudin, a viverra enim facilisis. Phasellus vel mi a urna tincidunt dictum.
+
+Focus areas include:
+- Text analysis of political discourse
+- Network analysis of policy communities
+- Survey design and data analysis
+
+## Cluster 3: Vivamus ultricies
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies sapien vel sapien varius, id pretium ligula scelerisque. Cras pellentesque massa a leo elementum tristique.
+
+Focus areas include:
+- Media framing of political issues
+- Public opinion dynamics
+- Communication strategies in campaigns
+
+## Cluster 4: Donec eget
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Quisque nec consequat leo, sed consectetur mi. Donec eget mauris fringilla, vestibulum nulla et, dictum dolor.
+
+Focus areas include:
+- Design and evaluation of public policies
+- Behavioral insights in policy-making
+- Comparative studies of policy innovations
+
+Stay tuned for detailed projects and publications under each cluster as we continue to expand our work.

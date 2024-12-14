@@ -85,5 +85,14 @@
   },
   "scrap.qmd": {
     "scrap.html": "13649990"
+  },
+  "research.qmd": {
+    "research.html": "4e33aeae"
+  },
+  "publications.qmd": {
+    "publications.html": "2843e0c9"
+  },
+  "test.qmd": {
+    "test.html": "c9271d8f"
   }
 }

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>DigiPols - Welcome</title>
+<title>DigiPols - Publications</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -59,14 +61,45 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-name','listing-href','listing-authors','listing-year','listing-publisher','listing-type','listing-abstract','listing-image_path',{ data: ['index'] },{ data: ['categories'] }],
+      
+      searchColumns: ["listing-name","listing-href","listing-authors","listing-year","listing-publisher","listing-type","listing-abstract","listing-image_path"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
-<meta name="twitter:title" content="DigiPols - Welcome">
-<meta name="twitter:image" content="images/home1.png">
+<meta name="twitter:title" content="DigiPols - Publications">
+<meta name="twitter:description" content="">
 <meta name="twitter:creator" content="@dragonstyle">
 <meta name="twitter:site" content="@rstudio">
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:card" content="summary">
 </head>
 
 <body class="nav-fixed">
@@ -90,7 +123,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="./index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -132,7 +165,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Welcome</h1>
+<h1 class="title">Publications</h1>
 </div>
 
 
@@ -147,27 +180,86 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<div class="grid">
-<div class="g-col-7">
-<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
-<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt Nemo enim ipsam.</p>
-<p><img src="images/home1.png" class="center img-fluid" style="border-radius: 8px;;width:55.0%"></p>
+
+<p>:::{#quarto-listing-pipeline .hidden} <span class="hidden" data-render-id="quarto-enable-math-inline"><span class="math inline">\(e = mC^2\)</span></span></p>
+<p>:::{.hidden render-id=“pipeline-listing-listing”}</p>
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-name" data-direction="asc">
+          Title
+        </option>
+         <option value="listing-href" data-direction="asc">
+          href
+        </option>
+         <option value="listing-authors" data-direction="asc">
+          Authors
+        </option>
+         <option value="listing-year" data-direction="asc">
+          Year
+        </option>
+         <option value="listing-publisher" data-direction="asc">
+          Publisher
+        </option>
+         <option value="listing-type" data-direction="asc">
+          Type
+        </option>
+         <option value="listing-abstract" data-direction="asc">
+          abstract
+        </option>
+         <option value="listing-image_path" data-direction="asc">
+          image_path
+        </option>
+     </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
 </div>
-<div class="g-col-4">
-<!-- Add Twitter Feed -->
-<div>
-<a class="twitter-timeline" href="https://twitter.com/CyUniTech?ref_src=twsrc%5Etfw">Tweets by CyUniTech</a>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<ul class="pub-list">
+<li class="pub-item">
+<div class="pub-item-grid">
+<pre><code>  &lt;div class="pub-image-container"&gt;
+    &lt;img src="images/home1.png" alt="Cover image for Research Article 1" class="pub-image"&gt;
+  &lt;/div&gt;
+  &lt;div class="pub-text-container"&gt;
+    &lt;a href="https://example.com/article1" class="pub-title"&gt;Research Article 1&lt;/a&gt;
+    &lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Author A, Author B&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Year:&lt;/strong&gt; 2023&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Publisher:&lt;/strong&gt; Journal XYZ&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt; Journal Article&lt;/p&gt;
+    &lt;p&gt;This is a placeholder abstract for research article 1.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</code></pre>
+</div></li>
+<li class="pub-item">
+<div class="pub-item-grid">
+<pre><code>  &lt;div class="pub-image-container"&gt;
+    &lt;img src="images/home1.png" alt="Cover image for Research Article 2" class="pub-image"&gt;
+  &lt;/div&gt;
+  &lt;div class="pub-text-container"&gt;
+    &lt;a href="https://example.com/article2" class="pub-title"&gt;Research Article 2&lt;/a&gt;
+    &lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Author C, Author D&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Year:&lt;/strong&gt; 2022&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Publisher:&lt;/strong&gt; Publisher ABC&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt; Book&lt;/p&gt;
+    &lt;p&gt;This is a placeholder abstract for research article 2.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</code></pre>
+</div></li>
+</ul>
+<div class="listing-no-matching d-none">
+No matching items
 </div>
-</div>
-</div>
-<div class="footer" style="text-align: left; padding: 1rem; margin-top: 10rem;">
-<p>© 2024 Digipols. All rights reserved. | <a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a></p>
-</div>
+<p>:::</p>
+<p>:::</p>
 
 
-
-</main> <!-- /main -->
+<div class="quarto-listing quarto-listing-container-custom" id="listing-listing"></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

@@ -1,6 +1,6 @@
 ---
-title: "Stella Nelli"
-subtitle: "Doctoral researchers"
+title: "Xristina Seabright"
+subtitle: "Doctoral researcher"
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 image: images_team/person3.png
 ---

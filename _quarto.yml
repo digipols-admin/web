@@ -8,13 +8,19 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: news.qmd
-        text: News
-      - href: team.qmd
-        text: Team
       - href: about.qmd
         text: About
-    logo: images/logo.png
+      - href: research.qmd
+        text: Research
+      - href: news.qmd
+        text: News
+#      - href: publications.qmd
+#        text: Publications      
+      - href: team.qmd
+        text: Team
+      - href: test.qmd
+        text: Test      
+    logo: images/logo1.png
   twitter-card: 
     creator: "@dragonstyle" 
     site: "@rstudio"

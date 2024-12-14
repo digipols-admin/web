@@ -1,17 +1,52 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "test.html",
+    "href": "test.html",
+    "title": "DigiPols",
     "section": "",
-    "text": "Some scrap text below for the page!!!\n\n1 + 1\n#&gt; [1] 2\n\nThis is a simple demonstration of generating a plot in an HTML document using Quarto (.qmd) and R.\n\nGenerating a Plot\nWe will create a simple ggplot graph using R’s built-in mtcars dataset.\n\n# Load necessary libraries\nlibrary(ggplot2)\n\n# Create the plot\nggplot(mtcars, aes(x=wt, y=mpg)) +\n  geom_point() +\n  theme_minimal() +\n  ggtitle(\"Scatter Plot of MPG vs. Weight\") +\n  xlab(\"Weight (1000 lbs)\") +\n  ylab(\"Miles/(US) gallon\")"
+    "text": "Here is a list of publications\n\n\n\n\n\n\n\nFirst Item A custom value\n\n\nSecond Item A second custom value\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.\nflowchart LR\n  A[qmd] --&gt; B(Knitr)\n  A[qmd] --&gt; C(Jupyter)\n  B(Knitr) --&gt; D[md]\n  C(Jupyter) --&gt; D[md]\n  D[md] --&gt; E(pandoc)\n  E(pandoc) --&gt; F(HTML)\n  E(pandoc) --&gt; G(PDF)\n  E(pandoc) --&gt; H(Word)\n  E(pandoc) --&gt; I{and more}\n  I{and more} --&gt; A[qmd]\n\n\nFigure 1: Overview of organisation X research clusters"
+  },
+  {
+    "objectID": "research.html#cluster-1-proin-vehicula",
+    "href": "research.html#cluster-1-proin-vehicula",
+    "title": "Research",
+    "section": "Cluster 1: Proin vehicula",
+    "text": "Cluster 1: Proin vehicula\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vehicula purus vel orci malesuada, nec feugiat lacus commodo. Sed dictum risus ac ligula commodo, non pulvinar eros iaculis.\nFocus areas include: - Citizen engagement in digital spaces - E-participation tools and platforms - Impacts of social media on democratic processes"
+  },
+  {
+    "objectID": "research.html#cluster-2-integer-euismod",
+    "href": "research.html#cluster-2-integer-euismod",
+    "title": "Research",
+    "section": "Cluster 2: Integer euismod",
+    "text": "Cluster 2: Integer euismod\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer euismod purus non metus sollicitudin, a viverra enim facilisis. Phasellus vel mi a urna tincidunt dictum.\nFocus areas include: - Text analysis of political discourse - Network analysis of policy communities - Survey design and data analysis"
+  },
+  {
+    "objectID": "research.html#cluster-3-vivamus-ultricies",
+    "href": "research.html#cluster-3-vivamus-ultricies",
+    "title": "Research",
+    "section": "Cluster 3: Vivamus ultricies",
+    "text": "Cluster 3: Vivamus ultricies\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies sapien vel sapien varius, id pretium ligula scelerisque. Cras pellentesque massa a leo elementum tristique.\nFocus areas include: - Media framing of political issues - Public opinion dynamics - Communication strategies in campaigns"
+  },
+  {
+    "objectID": "research.html#cluster-4-donec-eget",
+    "href": "research.html#cluster-4-donec-eget",
+    "title": "Research",
+    "section": "Cluster 4: Donec eget",
+    "text": "Cluster 4: Donec eget\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Quisque nec consequat leo, sed consectetur mi. Donec eget mauris fringilla, vestibulum nulla et, dictum dolor.\nFocus areas include: - Design and evaluation of public policies - Behavioral insights in policy-making - Comparative studies of policy innovations\nStay tuned for detailed projects and publications under each cluster as we continue to expand our work."
   },
   {
     "objectID": "team.html",
     "href": "team.html",
     "title": "Team members",
     "section": "",
-    "text": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.\n\n\n\n\n  \n\n\n\n\nNelli Stella\n\n\nPost-Doctoral researchers\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nStella Nelli\n\n\nDoctoral researchers\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nVicky Triga\n\n\nDirector\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n\n\n\n \n\n\n\n\nNo matching items"
+    "text": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.\n\n\n\n\n  \n\n\n\n\nVicky Triga\n\n\nDirector\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nXristina Seabright\n\n\nDoctoral researcher\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nZach Stelling\n\n\nPost-Doctoral researchers\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n\n\n\n \n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/item1.html",
@@ -65,21 +100,21 @@
   {
     "objectID": "team/person3.html",
     "href": "team/person3.html",
-    "title": "Stella Nelli",
+    "title": "Xristina Seabright",
     "section": "",
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See for additional discussion of literate programming. BBC."
   },
   {
     "objectID": "team/person3.html#incididunt-ut-labore",
     "href": "team/person3.html#incididunt-ut-labore",
-    "title": "Stella Nelli",
+    "title": "Xristina Seabright",
     "section": "",
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See for additional discussion of literate programming. BBC."
   },
   {
     "objectID": "team/person3.html#testing-figures",
     "href": "team/person3.html#testing-figures",
-    "title": "Stella Nelli",
+    "title": "Xristina Seabright",
     "section": "Testing figures",
     "text": "Testing figures\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See for additional discussion of literate programming."
   },
@@ -105,23 +140,30 @@
     "text": "Testing figures\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See for additional discussion of literate programming."
   },
   {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": ":::{#quarto-listing-pipeline .hidden} \\(e = mC^2\\)\n:::{.hidden render-id=“pipeline-listing-listing”}\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          href\n        \n         \n          Authors\n        \n         \n          Year\n        \n         \n          Publisher\n        \n         \n          Type\n        \n         \n          abstract\n        \n         \n          image_path\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  &lt;div class=\"pub-image-container\"&gt;\n    &lt;img src=\"images/home1.png\" alt=\"Cover image for Research Article 1\" class=\"pub-image\"&gt;\n  &lt;/div&gt;\n  &lt;div class=\"pub-text-container\"&gt;\n    &lt;a href=\"https://example.com/article1\" class=\"pub-title\"&gt;Research Article 1&lt;/a&gt;\n    &lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Author A, Author B&lt;/p&gt;\n    &lt;p&gt;&lt;strong&gt;Year:&lt;/strong&gt; 2023&lt;/p&gt;\n    &lt;p&gt;&lt;strong&gt;Publisher:&lt;/strong&gt; Journal XYZ&lt;/p&gt;\n    &lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt; Journal Article&lt;/p&gt;\n    &lt;p&gt;This is a placeholder abstract for research article 1.&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n\n\n\n  &lt;div class=\"pub-image-container\"&gt;\n    &lt;img src=\"images/home1.png\" alt=\"Cover image for Research Article 2\" class=\"pub-image\"&gt;\n  &lt;/div&gt;\n  &lt;div class=\"pub-text-container\"&gt;\n    &lt;a href=\"https://example.com/article2\" class=\"pub-title\"&gt;Research Article 2&lt;/a&gt;\n    &lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Author C, Author D&lt;/p&gt;\n    &lt;p&gt;&lt;strong&gt;Year:&lt;/strong&gt; 2022&lt;/p&gt;\n    &lt;p&gt;&lt;strong&gt;Publisher:&lt;/strong&gt; Publisher ABC&lt;/p&gt;\n    &lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt; Book&lt;/p&gt;\n    &lt;p&gt;This is a placeholder abstract for research article 2.&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n\n\n\nNo matching items\n\n:::\n:::"
+  },
+  {
     "objectID": "team/person2.html",
     "href": "team/person2.html",
-    "title": "Nelli Stella",
+    "title": "Zach Stelling",
     "section": "",
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See for additional discussion of literate programming. BBC."
   },
   {
     "objectID": "team/person2.html#incididunt-ut-labore",
     "href": "team/person2.html#incididunt-ut-labore",
-    "title": "Nelli Stella",
+    "title": "Zach Stelling",
     "section": "",
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See for additional discussion of literate programming. BBC."
   },
   {
     "objectID": "team/person2.html#testing-figures",
     "href": "team/person2.html#testing-figures",
-    "title": "Nelli Stella",
+    "title": "Zach Stelling",
     "section": "Testing figures",
     "text": "Testing figures\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See for additional discussion of literate programming."
   },
@@ -159,5 +201,47 @@
     "title": "News",
     "section": "",
     "text": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.\n\n\n\n\n  \n\n\n\n\nPenguins report: An interactive example\n\n\n\n\n\nAn exmaple of an interactive graphs using observable JS. Useful for interactions etc. Add more description here.\n\n\n\n\n\n\nNov 5, 2023\n\n\nPaul Barry\n\n\n\n\n\n\n  \n\n\n\n\nLong post on December Update\n\n\n\n\n\nSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore\n\n\n\n\n\n\nDec 1, 2023\n\n\nJane Doe\n\n\n\n\n\n\n  \n\n\n\n\nA long posting item template\n\n\n\n\n\nA placeholder blog post that is long and has quite a lot of images including mermaid graphs\n\n\n\n\n\n\nJun 10, 2024\n\n\nFreddy Mercury\n\n\n\n\n\n\n  \n\n\n\n\nLorem Ipsum: A news item Template2\n\n\n\n\n\nA placeholder blog post with an image and 300 words of content. And some more content here and there.\n\n\n\n\n\n\nNov 10, 2024\n\n\nJohn Paul\n\n\n\n\n\n\nNo matching items\n\n\nSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "DigiPols",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non felis in magna venenatis varius. Aenean eu leo at purus dignissim tempus. Sed sollicitudin volutpat ipsum, at dignissim sapien egestas a. Curabitur auctor justo id nulla ullamcorper, sed fermentum neque facilisis. Sed sollicitudin volutpat ipsum, at dignissim sapien egestas a."
+  },
+  {
+    "objectID": "about.html#who-we-are",
+    "href": "about.html#who-we-are",
+    "title": "DigiPols",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non felis in magna venenatis varius. Aenean eu leo at purus dignissim tempus. Sed sollicitudin volutpat ipsum, at dignissim sapien egestas a. Curabitur auctor justo id nulla ullamcorper, sed fermentum neque facilisis. Sed sollicitudin volutpat ipsum, at dignissim sapien egestas a."
+  },
+  {
+    "objectID": "about.html#our-mission",
+    "href": "about.html#our-mission",
+    "title": "DigiPols",
+    "section": "Our Mission",
+    "text": "Our Mission\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non felis in magna venenatis varius. Aenean eu leo at purus dignissim tempus. Sed sollicitudin volutpat ipsum, at dignissim sapien egestas a. Curabitur auctor justo id nulla ullamcorper, sed fermentum neque facilisis.\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a nunc sit amet lorem fermentum lacinia. Phasellus vulputate erat vel magna consequat, non viverra libero vehicula. Quisque euismod, odio nec elementum posuere, tortor eros egestas magna, a rutrum erat velit at metus."
+  },
+  {
+    "objectID": "about.html#our-values",
+    "href": "about.html#our-values",
+    "title": "DigiPols",
+    "section": "Our Values",
+    "text": "Our Values\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nAenean eget urna vitae eros sollicitudin viverra.\nCurabitur dignissim, justo a facilisis aliquet, elit orci tempor arcu, sit amet molestie libero enim sit amet metus."
+  },
+  {
+    "objectID": "about.html#our-team",
+    "href": "about.html#our-team",
+    "title": "DigiPols",
+    "section": "Our Team",
+    "text": "Our Team\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at quam ac sapien fermentum tincidunt. Suspendisse potenti. Proin id ligula nec velit dictum aliquam in in ligula. Nullam ut lectus id justo malesuada condimentum."
+  },
+  {
+    "objectID": "about.html#contact-us",
+    "href": "about.html#contact-us",
+    "title": "DigiPols",
+    "section": "Contact Us",
+    "text": "Contact Us\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed augue id nunc venenatis pharetra. Nulla facilisi. Ut a varius nunc. Nunc feugiat metus a est accumsan scelerisque. Donec vel ligula sit amet enim cursus cursus at et magna.\n\nEmail: lorem.ipsum@placeholder.com\nPhone: +123 456 7890\nAddress: 123 Lorem Ipsum Street, Dolor City, Ametland\n\nStay connected with us for the latest updates and insights into our research initiatives!"
   }
 ]

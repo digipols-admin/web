@@ -1,0 +1,19 @@
+<ul class="pub-list">
+<% for (const item of items) { %>
+  <li class="pub-item">
+    <div class="pub-item-grid">
+      <div class="pub-image-container">
+        <img src="<%= item.image_path %>" alt="Cover image for <%= item.name %>" class="pub-image">
+      </div>
+      <div class="pub-text-container">
+        <a href="<%= item.href %>" class="pub-title"><%= item.name %></a>
+        <p><strong>Authors:</strong> <%= item.authors %></p>
+        <p><strong>Year:</strong> <%= item.year %></p>
+        <p><strong>Publisher:</strong> <%= item.publisher %></p>
+        <p><strong>Type:</strong> <%= item.type %></p>
+        <p><%= item.abstract %></p>
+      </div>
+    </div>
+  </li>
+<% } %>
+</ul>
