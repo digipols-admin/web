@@ -14,8 +14,8 @@ website:
         text: Research
       - href: news.qmd
         text: News
-#      - href: publications.qmd
-#        text: Publications      
+      - href: publications.qmd
+        text: Publications      
       - href: team.qmd
         text: Team
       - href: test.qmd

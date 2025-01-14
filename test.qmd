@@ -3,6 +3,6 @@ listing:
   template: _templates/gallery.ejs
   contents:
     - test/items.yml
+  template-params:
+    param1: "param-value"
 ---
-
-Here is a list of publications

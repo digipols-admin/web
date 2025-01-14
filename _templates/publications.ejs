@@ -6,7 +6,7 @@
         <img src="<%= item.image_path %>" alt="Cover image for <%= item.name %>" class="pub-image">
       </div>
       <div class="pub-text-container">
-        <a href="<%= item.href %>" class="pub-title"><%= item.name %></a>
+        <a href="<%- item.href %>" class="pub-title"><%= item.name %></a>
         <p><strong>Authors:</strong> <%= item.authors %></p>
         <p><strong>Year:</strong> <%= item.year %></p>
         <p><strong>Publisher:</strong> <%= item.publisher %></p>

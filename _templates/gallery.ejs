@@ -1,8 +1,8 @@
-<ul>
-<% for (const item of items) { %>
-  <li>
-    <a href="<%- item.href %>"><%= item.name %></a><br/>
-    <%= item['custom-field'] %>
-  </li>
-<% } %>
+<h3><%= templateParams.param1 %></h3>
+<ul class="pub-list list">
+  <% for (const item of items) { %>
+      <li <%= metadataAttrs(item) %>>
+        <span class="listing-title"><%= item.title %>.</span>
+      </li>
+  <% } %>
 </ul>
