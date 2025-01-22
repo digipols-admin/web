@@ -19,7 +19,9 @@ website:
       - href: team.qmd
         text: Team
       - href: test.qmd
-        text: Test      
+        text: Test
+      - href: dashboard.qmd
+        text: Dashboard  
     logo: images/logo1.png
   twitter-card: 
     creator: "@dragonstyle" 
