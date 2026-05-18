@@ -12,7 +12,7 @@ page-layout: full
   <div class="hero-eyebrow">The Digital Politics &amp; Political Communication Research Lab</div>
   <h1 class="hero-title">Studying how politics moves through <em>digital space</em>.</h1>
   <p class="hero-lede">
-    DigiPols is an inter-departmental research lab at the Cyprus University of Technology investigating the increasingly digitalised links between politicians, the media, civil society and citizens — through experimentation, Voting Advice Applications and bespoke data platforms.
+    DigiPols is an inter-departmental research lab at the Cyprus University of Technology investigating the increasingly digitalised links between politicians, the media, civil society and citizens — through experimentation, Voting Advice Applications, media monitoring platforms and computational data analysis.
   </p>
   <div style="margin-top:2rem; display:flex; gap:0.6rem; flex-wrap:wrap;">
     <a href="research.html" class="btn btn-primary">Read the research →</a>

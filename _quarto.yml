@@ -34,7 +34,7 @@ website:
     background: light
     border: true
     left: |
-      © 2026 DigiPols · Department of Communication & Internet Studies, Cyprus University of Technology
+      © 2026 DigiPols Lab · Department of Communication & Internet Studies, Cyprus University of Technology
     right: |
       Built with [Quarto](https://quarto.org)
 
