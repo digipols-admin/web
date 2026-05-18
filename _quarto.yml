@@ -22,8 +22,6 @@ website:
     logo-alt: "DigiPols"
     title: false
     left:
-      - href: index.qmd
-        text: Home
       - href: research.qmd
         text: Research
       - href: publications.qmd
@@ -32,8 +30,6 @@ website:
         text: Highlights
       - href: team.qmd
         text: Team
-      - href: about.qmd
-        text: About
   page-footer:
     background: light
     border: true

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Publications — DigiPols – DigiPols</title>
+<title>About — DigiPols – DigiPols</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,8 +31,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./assets/digipols-beacon-mark.svg" rel="icon" type="image/svg+xml">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -71,68 +69,10 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
-<link rel="alternate" type="application/rss+xml" title="DigiPols" href="publications.xml" data-external="1"></head>
+</head>
 
 <body class="nav-fixed quarto-light">
 
@@ -157,7 +97,7 @@ window.Quarto = {
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./publications.html" aria-current="page"> 
+    <a class="nav-link" href="./publications.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
@@ -180,13 +120,23 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(12)</span></div><div class="category" data-category="QXBwbGllZCUyMFBvbGl0aWNhbCUyMENvbW11bmljYXRpb24=">Applied Political Communication <span class="quarto-category-count">(6)</span></div><div class="category" data-category="TWVkaWElMjBhbmQlMjBTb2NpYWwlMjBNZWRpYSUyME1vbml0b3Jpbmc=">Media and Social Media Monitoring <span class="quarto-category-count">(6)</span></div><div class="category" data-category="UHVibGljJTIwT3BpbmlvbiUyMGFuZCUyMEFyZ3VtZW50JTIwTWluaW5n">Public Opinion and Argument Mining <span class="quarto-category-count">(6)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#mission" id="toc-mission" class="nav-link active" data-scroll-target="#mission">Mission</a></li>
+  <li><a href="#host-institution" id="toc-host-institution" class="nav-link" data-scroll-target="#host-institution">Host institution</a></li>
+  <li><a href="#contact" id="toc-contact" class="nav-link" data-scroll-target="#contact">Contact</a></li>
+  <li><a href="#funding" id="toc-funding" class="nav-link" data-scroll-target="#funding">Funding</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Publications</h1>
+<h1 class="title">About</h1>
 </div>
 
 
@@ -204,353 +154,35 @@ window.Quarto = {
 
 
 <div class="page-header">
-  <div class="eyebrow">Publications</div>
-  <h1 style="font-size: clamp(2.4rem, 5vw, 3.6rem); line-height: 1.02; letter-spacing: -0.03em; font-weight: 500; max-width: 22ch; margin: 0;">Peer-reviewed papers &amp; reports from DigiPols.</h1>
-  <p class="lede">A growing body of work across the four clusters — political communication, monitoring, public opinion and argument mining, and the Forum. Filter by cluster or sort by date.</p>
+  <div class="eyebrow">About the lab</div>
+  <h1 style="font-size: clamp(2.4rem, 5vw, 3.6rem); line-height: 1.02; letter-spacing: -0.03em; font-weight: 500; max-width: 22ch; margin: 0;">An inter-departmental research lab at the Cyprus University of Technology.</h1>
+  <p class="lede">DigiPols pursues an interdisciplinary approach that brings together social scientists and computer scientists conducting complementary research on the intersection of digital technologies and politics.</p>
 </div>
+<section id="mission" class="level2">
+<h2 class="anchored" data-anchor-id="mission">Mission</h2>
+<p>DigiPols provides a research environment for pursuing cutting-edge, theory-driven empirical research for advancing the study of how digital technologies are impacting our institutions of governance — and how politics shapes the development of these technologies.</p>
+<p>The lab’s researchers are brought together in the <strong>DigiPols Forum</strong>, which meets regularly to exchange ideas, discuss best practices and offer strategic input to the four research clusters.</p>
+</section>
+<section id="host-institution" class="level2">
+<h2 class="anchored" data-anchor-id="host-institution">Host institution</h2>
+<p>DigiPols is hosted by the Department of Communication and Internet Studies and the Department of Public Communication at the <a href="https://www.cut.ac.cy/">Cyprus University of Technology</a>, Limassol, Cyprus.</p>
+</section>
+<section id="contact" class="level2">
+<h2 class="anchored" data-anchor-id="contact">Contact</h2>
+<ul>
+<li>Email: <a href="mailto:digipols@cut.ac.cy">digipols@cut.ac.cy</a></li>
+<li>Address: Cyprus University of Technology, 30 Archbishop Kyprianos Str., 3036 Limassol, Cyprus</li>
+<li>GitHub: <a href="https://github.com/">github.com/digipols</a></li>
+</ul>
+</section>
+<section id="funding" class="level2">
+<h2 class="anchored" data-anchor-id="funding">Funding</h2>
+<p>Work at DigiPols has been supported by Horizon Europe, the European Parliament, INTERREG, the Cyprus Research and Innovation Foundation and the Recovery and Resilience Plan of the Republic of Cyprus.</p>
 
 
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-    <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-      <option value="" disabled="" selected="" hidden="">Order By</option>
-      <option value="index" data-direction="asc">Default</option>
-      <option value="listing-date-sort" data-direction="asc">
-        Date - Oldest
-      </option>
-      <option value="listing-date-sort" data-direction="desc">
-        Date - Newest
-      </option>
-      <option value="listing-title" data-direction="asc">
-        Title
-      </option>
-    </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
-</div>
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="TWVkaWElMjBhbmQlMjBTb2NpYWwlMjBNZWRpYSUyME1vbml0b3JpbmclMkNQdWJsaWMlMjBPcGluaW9uJTIwYW5kJTIwQXJndW1lbnQlMjBNaW5pbmc=" data-listing-date-sort="1640988000000" data-listing-file-modified-sort="1779091836000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./publications/pub-2022-multilingualism.html" class="no-external">The European Union’s Approach to Multilingualism in its Own Communication Policy</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('TWVkaWElMjBhbmQlMjBTb2NpYWwlMjBNZWRpYSUyME1vbml0b3Jpbmc='); return false;">Media and Social Media Monitoring</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('UHVibGljJTIwT3BpbmlvbiUyMGFuZCUyMEFyZ3VtZW50JTIwTWluaW5n'); return false;">Public Opinion and Argument Mining</div>
-
-</div>
-<div class="delink listing-description"><a href="./publications/pub-2022-multilingualism.html" class="no-external">
-<p>Research for CULT Committee — European Parliament. IPOL_STU(2022)699648</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./publications/pub-2022-multilingualism.html" class="no-external">
-<div class="listing-date">
-2022
-</div>
-<div class="listing-author">
-Mendez, C., Gazzola, M., Clement-Wilz, L., Triga, V., Mendez, F., Djouvas, C., Charalampous, A. and Bachtler, J.
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="TWVkaWElMjBhbmQlMjBTb2NpYWwlMjBNZWRpYSUyME1vbml0b3JpbmclMkNQdWJsaWMlMjBPcGluaW9uJTIwYW5kJTIwQXJndW1lbnQlMjBNaW5pbmc=" data-listing-date-sort="1577829600000" data-listing-file-modified-sort="1779091836000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./publications/pub-2020-cohesion-media.html" class="no-external">EU Cohesion Policy under the Media Spotlight: Exploring Territorial and Temporal Patterns in News Coverage and Tone</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('TWVkaWElMjBhbmQlMjBTb2NpYWwlMjBNZWRpYSUyME1vbml0b3Jpbmc='); return false;">Media and Social Media Monitoring</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('UHVibGljJTIwT3BpbmlvbiUyMGFuZCUyMEFyZ3VtZW50JTIwTWluaW5n'); return false;">Public Opinion and Argument Mining</div>
-
-</div>
-<div class="delink listing-description"><a href="./publications/pub-2020-cohesion-media.html" class="no-external">
-<p>Journal of Common Market Studies. doi: 10.1111/jcms.13016</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./publications/pub-2020-cohesion-media.html" class="no-external">
-<div class="listing-date">
-2020
-</div>
-<div class="listing-author">
-Mendez, C., Mendez, F., Triga, V. and Carrascosa, J. M.
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="TWVkaWElMjBhbmQlMjBTb2NpYWwlMjBNZWRpYSUyME1vbml0b3JpbmclMkNQdWJsaWMlMjBPcGluaW9uJTIwYW5kJTIwQXJndW1lbnQlMjBNaW5pbmc=" data-listing-date-sort="1559336400000" data-listing-file-modified-sort="1779091836000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./publications/pub-2019-cohesion-online.html" class="no-external">The Visibility and Communication of Cohesion Policy in Online Media</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('TWVkaWElMjBhbmQlMjBTb2NpYWwlMjBNZWRpYSUyME1vbml0b3Jpbmc='); return false;">Media and Social Media Monitoring</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('UHVibGljJTIwT3BpbmlvbiUyMGFuZCUyMEFyZ3VtZW50JTIwTWluaW5n'); return false;">Public Opinion and Argument Mining</div>
-
-</div>
-<div class="delink listing-description"><a href="./publications/pub-2019-cohesion-online.html" class="no-external">
-<p>Report</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./publications/pub-2019-cohesion-online.html" class="no-external">
-<div class="listing-date">
-2019
-</div>
-<div class="listing-author">
-Mendez, C., Triga, V., Bachtler, J., Djouvas, C., Mendez, F. and Stier, S.
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="TWVkaWElMjBhbmQlMjBTb2NpYWwlMjBNZWRpYSUyME1vbml0b3JpbmclMkNQdWJsaWMlMjBPcGluaW9uJTIwYW5kJTIwQXJndW1lbnQlMjBNaW5pbmc=" data-listing-date-sort="1546293600000" data-listing-file-modified-sort="1779091836000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./publications/pub-2019-instagram-hashtags.html" class="no-external">Filtering Instagram hashtags through crowd tagging and the HITS algorithm</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('TWVkaWElMjBhbmQlMjBTb2NpYWwlMjBNZWRpYSUyME1vbml0b3Jpbmc='); return false;">Media and Social Media Monitoring</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('UHVibGljJTIwT3BpbmlvbiUyMGFuZCUyMEFyZ3VtZW50JTIwTWluaW5n'); return false;">Public Opinion and Argument Mining</div>
-
-</div>
-<div class="delink listing-description"><a href="./publications/pub-2019-instagram-hashtags.html" class="no-external">
-<p>IEEE Transactions on Computational Social Systems, 6(3): 592–603. doi: 10.1109/TCSS.2019.2914080</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./publications/pub-2019-instagram-hashtags.html" class="no-external">
-<div class="listing-date">
-2019
-</div>
-<div class="listing-author">
-Giannoulakis, S. and Tsapatsoulis, N.
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="TWVkaWElMjBhbmQlMjBTb2NpYWwlMjBNZWRpYSUyME1vbml0b3JpbmclMkNQdWJsaWMlMjBPcGluaW9uJTIwYW5kJTIwQXJndW1lbnQlMjBNaW5pbmc=" data-listing-date-sort="1527800400000" data-listing-file-modified-sort="1779091836000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./publications/pub-2018-greek-referendum.html" class="no-external">Framing the Greek Bailout Referendum: A Crisis-Inducing or a Crisis-Resolving Mechanism?</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('TWVkaWElMjBhbmQlMjBTb2NpYWwlMjBNZWRpYSUyME1vbml0b3Jpbmc='); return false;">Media and Social Media Monitoring</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('UHVibGljJTIwT3BpbmlvbiUyMGFuZCUyMEFyZ3VtZW50JTIwTWluaW5n'); return false;">Public Opinion and Argument Mining</div>
-
-</div>
-<div class="delink listing-description"><a href="./publications/pub-2018-greek-referendum.html" class="no-external">
-<p>Participations, 1: 111–140</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./publications/pub-2018-greek-referendum.html" class="no-external">
-<div class="listing-date">
-2018
-</div>
-<div class="listing-author">
-Milioni, D. L., Triga, V. and Spyridou, L.-P.
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-categories="QXBwbGllZCUyMFBvbGl0aWNhbCUyMENvbW11bmljYXRpb24=" data-listing-date-sort="1514757600000" data-listing-file-modified-sort="1779091836000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./publications/pub-2018-presidential-elections.html" class="no-external">Post-crisis normalisation? The 2018 Presidential Elections</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('QXBwbGllZCUyMFBvbGl0aWNhbCUyMENvbW11bmljYXRpb24='); return false;">Applied Political Communication</div>
-
-</div>
-<div class="delink listing-description"><a href="./publications/pub-2018-presidential-elections.html" class="no-external">
-<p>Southern European Society and Politics. doi: 10.1080/13608746.2018.1511347</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./publications/pub-2018-presidential-elections.html" class="no-external">
-<div class="listing-date">
-2018
-</div>
-<div class="listing-author">
-Triga, V., Mendez, F. and Tziouvas, C.
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="6" data-categories="QXBwbGllZCUyMFBvbGl0aWNhbCUyMENvbW11bmljYXRpb24=" data-listing-date-sort="1483221600000" data-listing-file-modified-sort="1779091836000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./publications/pub-2017-parliamentary-elections.html" class="no-external">Parties and Change in Post-bailout Cyprus: The May 2016 Parliamentary Elections</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('QXBwbGllZCUyMFBvbGl0aWNhbCUyMENvbW11bmljYXRpb24='); return false;">Applied Political Communication</div>
-
-</div>
-<div class="delink listing-description"><a href="./publications/pub-2017-parliamentary-elections.html" class="no-external">
-<p>Southern European Society and Politics. doi: 10.1080/13608746.2017.1312768</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./publications/pub-2017-parliamentary-elections.html" class="no-external">
-<div class="listing-date">
-2017
-</div>
-<div class="listing-author">
-Triga, V.
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="7" data-categories="TWVkaWElMjBhbmQlMjBTb2NpYWwlMjBNZWRpYSUyME1vbml0b3JpbmclMkNQdWJsaWMlMjBPcGluaW9uJTIwYW5kJTIwQXJndW1lbnQlMjBNaW5pbmc=" data-listing-date-sort="1451599200000" data-listing-file-modified-sort="1779091836000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./publications/pub-2016-instagram-descriptive.html" class="no-external">Evaluating the descriptive power of Instagram hashtags</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('TWVkaWElMjBhbmQlMjBTb2NpYWwlMjBNZWRpYSUyME1vbml0b3Jpbmc='); return false;">Media and Social Media Monitoring</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('UHVibGljJTIwT3BpbmlvbiUyMGFuZCUyMEFyZ3VtZW50JTIwTWluaW5n'); return false;">Public Opinion and Argument Mining</div>
-
-</div>
-<div class="delink listing-description"><a href="./publications/pub-2016-instagram-descriptive.html" class="no-external">
-<p>Journal of Innovation in Digital Ecosystems, 3(2): 114–129</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./publications/pub-2016-instagram-descriptive.html" class="no-external">
-<div class="listing-date">
-2016
-</div>
-<div class="listing-author">
-Giannoulakis, S. and Tsapatsoulis, N.
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="8" data-categories="QXBwbGllZCUyMFBvbGl0aWNhbCUyMENvbW11bmljYXRpb24=" data-listing-date-sort="1433106000000" data-listing-file-modified-sort="1779091836000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./publications/pub-2015-spatial-maps.html" class="no-external">Spatial Maps in Voting Advice Applications: The Case for Dynamic Scale Validation</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('QXBwbGllZCUyMFBvbGl0aWNhbCUyMENvbW11bmljYXRpb24='); return false;">Applied Political Communication</div>
-
-</div>
-<div class="delink listing-description"><a href="./publications/pub-2015-spatial-maps.html" class="no-external">
-<p>Acta Politica, 50(2): 214–238</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./publications/pub-2015-spatial-maps.html" class="no-external">
-<div class="listing-date">
-2015
-</div>
-<div class="listing-author">
-Germann, M., Mendez, F., Wheatley, J. and Serdült, U.
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="9" data-categories="QXBwbGllZCUyMFBvbGl0aWNhbCUyMENvbW11bmljYXRpb24=" data-listing-date-sort="1425160800000" data-listing-file-modified-sort="1779091836000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./publications/pub-2015-internet-voters.html" class="no-external">Who Are the Internet Voters?</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('QXBwbGllZCUyMFBvbGl0aWNhbCUyMENvbW11bmljYXRpb24='); return false;">Applied Political Communication</div>
-
-</div>
-<div class="delink listing-description"><a href="./publications/pub-2015-internet-voters.html" class="no-external">
-<p>In: Tambouris et al.&nbsp;(eds.), Electronic Government and Electronic Participation, pp.&nbsp;27–41. IOS Press</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./publications/pub-2015-internet-voters.html" class="no-external">
-<div class="listing-date">
-2015
-</div>
-<div class="listing-author">
-Serdült, U., Germann, M., Harris, M., Mendez, F. and Portenier, A.
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="10" data-categories="QXBwbGllZCUyMFBvbGl0aWNhbCUyMENvbW11bmljYXRpb24=" data-listing-date-sort="1420063200000" data-listing-file-modified-sort="1779091836000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./publications/pub-2015-social-voting-apps.html" class="no-external">On the design of Social Voting Recommendation Applications</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('QXBwbGllZCUyMFBvbGl0aWNhbCUyMENvbW11bmljYXRpb24='); return false;">Applied Political Communication</div>
-
-</div>
-<div class="delink listing-description"><a href="./publications/pub-2015-social-voting-apps.html" class="no-external">
-<p>International Journal on Artificial Intelligence Tools, 24(3): 1550009</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./publications/pub-2015-social-voting-apps.html" class="no-external">
-<div class="listing-date">
-2015
-</div>
-<div class="listing-author">
-Tsapatsoulis, N., Agathokleous, M., Djouvas, C. and Mendez, F.
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="11" data-categories="QXBwbGllZCUyMFBvbGl0aWNhbCUyMENvbW11bmljYXRpb24=" data-listing-date-sort="1388527200000" data-listing-file-modified-sort="1779091836000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./publications/pub-2014-social-voting-advice.html" class="no-external">Social voting advice applications — definitions, challenges, datasets and evaluation</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('QXBwbGllZCUyMFBvbGl0aWNhbCUyMENvbW11bmljYXRpb24='); return false;">Applied Political Communication</div>
-
-</div>
-<div class="delink listing-description"><a href="./publications/pub-2014-social-voting-advice.html" class="no-external">
-<p>IEEE Transactions on Cybernetics, 44(7): 1039–1052</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./publications/pub-2014-social-voting-advice.html" class="no-external">
-<div class="listing-date">
-2014
-</div>
-<div class="listing-author">
-Katakis, N., Tsapatsoulis, N., Mendez, F., Triga, V. and Djouvas, C.
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

@@ -77,3 +77,24 @@ Peer-reviewed papers, reports and book chapters from the lab.
 :::
 
 :::
+
+```{=html}
+<section class="digipols-contact">
+  <p class="section-eyebrow">↳ Contact</p>
+  <h2 style="margin:0 0 2rem; font-weight:500; letter-spacing:-0.025em;">Get in touch.</h2>
+  <div class="contact-grid">
+    <div class="contact-item">
+      <span class="contact-label">Email</span>
+      <a href="mailto:digipols@cut.ac.cy">digipols@cut.ac.cy</a>
+    </div>
+    <div class="contact-item">
+      <span class="contact-label">Address</span>
+      <span>Department of Communication &amp; Internet Studies<br>Cyprus University of Technology<br>30 Archbishop Kyprianos Str., 3036 Limassol, Cyprus</span>
+    </div>
+    <div class="contact-item">
+      <span class="contact-label">GitHub</span>
+      <a href="https://github.com/digipols" target="_blank" rel="noopener">github.com/digipols</a>
+    </div>
+  </div>
+</section>
+```

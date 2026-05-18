@@ -67,7 +67,7 @@
     "href": "index.html",
     "title": "Studying how politics moves through digital signal.",
     "section": "",
-    "text": "The Digital Politics & Political Communication Research Lab\n  Studying how politics moves through digital signal.\n  \n    DigiPols is an inter-departmental research lab at the Cyprus University of Technology investigating the increasingly digitalised links between politicians, the media, civil society and citizens — through experimentation, Voting Advice Applications and bespoke data platforms.\n  \n  \n    Read the research →\n    Meet the lab\n  \n\n\n↳ Research clusters\nFour clusters, one forum.\n\n\n  \n    \n    cluster.01\n    Applied Political Communication\n    Experimental work on how political information moves between political actors, media and citizens — including pioneering research on Voting Advice Applications.\n    explore →\n  \n  \n    \n    cluster.02\n    Media & Social Media Monitoring\n    Bespoke data-collection platforms that track political communication across news media and social media in real time, during election campaigns and beyond.\n    explore →\n  \n  \n    \n    cluster.03\n    Public Opinion & Argument Mining\n    Techniques and tools for the analysis of public opinion, combining surveys with computational methods and argument mining from computational linguistics.\n    explore →\n  \n  \n    \n    cluster.04\n    The DigiPols Forum\n    Umbrella organisation that convenes DigiPols researchers to exchange ideas, share state-of-the-art practice and set strategic direction for the lab.\n    explore →\n  \n\n\n↳ Latest\nRecent highlights & publications\n\n\nHighlights →\nRead the latest news, project launches and lab events.\nView highlights\n\n\nPublications →\nPeer-reviewed papers, reports and book chapters from the lab.\nView publications"
+    "text": "The Digital Politics & Political Communication Research Lab\n  Studying how politics moves through digital signal.\n  \n    DigiPols is an inter-departmental research lab at the Cyprus University of Technology investigating the increasingly digitalised links between politicians, the media, civil society and citizens — through experimentation, Voting Advice Applications and bespoke data platforms.\n  \n  \n    Read the research →\n    Meet the lab\n  \n\n\n↳ Research clusters\nFour clusters, one forum.\n\n\n  \n    \n    cluster.01\n    Applied Political Communication\n    Experimental work on how political information moves between political actors, media and citizens — including pioneering research on Voting Advice Applications.\n    explore →\n  \n  \n    \n    cluster.02\n    Media & Social Media Monitoring\n    Bespoke data-collection platforms that track political communication across news media and social media in real time, during election campaigns and beyond.\n    explore →\n  \n  \n    \n    cluster.03\n    Public Opinion & Argument Mining\n    Techniques and tools for the analysis of public opinion, combining surveys with computational methods and argument mining from computational linguistics.\n    explore →\n  \n  \n    \n    cluster.04\n    The DigiPols Forum\n    Umbrella organisation that convenes DigiPols researchers to exchange ideas, share state-of-the-art practice and set strategic direction for the lab.\n    explore →\n  \n\n\n↳ Latest\nRecent highlights & publications\n\n\nHighlights →\nRead the latest news, project launches and lab events.\nView highlights\n\n\nPublications →\nPeer-reviewed papers, reports and book chapters from the lab.\nView publications\n\n\n\n  ↳ Contact\n  Get in touch.\n  \n    \n      Email\n      digipols@cut.ac.cy\n    \n    \n      Address\n      Department of Communication & Internet StudiesCyprus University of Technology30 Archbishop Kyprianos Str., 3036 Limassol, Cyprus\n    \n    \n      GitHub\n      github.com/digipols"
   },
   {
     "objectID": "highlights.html",
@@ -166,5 +166,40 @@
     "title": "Vasiliki Triga",
     "section": "",
     "text": "Associate Professor at the Department of Public Communication, Cyprus University of Technology (CUT). Ph.D. in Social and Political Sciences from the European University Institute, Florence. Published in IEEE Transactions on Cybernetics, Southern European Society and Politics, Journal of Common Market Studies, and Public Management. Co-author of Referendums and the European Union: A Comparative Inquiry (Cambridge University Press, 2014).\nResearch interests: Political Communication, Media and Social Media, Political Parties, Electoral Campaigns.\nEmail: vasiliki.triga@cut.ac.cy"
+  },
+  {
+    "objectID": "about copy.html",
+    "href": "about copy.html",
+    "title": "About",
+    "section": "",
+    "text": "About the lab\n  \n  DigiPols pursues an interdisciplinary approach that brings together social scientists and computer scientists conducting complementary research on the intersection of digital technologies and politics."
+  },
+  {
+    "objectID": "about copy.html#mission",
+    "href": "about copy.html#mission",
+    "title": "About",
+    "section": "Mission",
+    "text": "Mission\nDigiPols provides a research environment for pursuing cutting-edge, theory-driven empirical research for advancing the study of how digital technologies are impacting our institutions of governance — and how politics shapes the development of these technologies.\nThe lab’s researchers are brought together in the DigiPols Forum, which meets regularly to exchange ideas, discuss best practices and offer strategic input to the four research clusters."
+  },
+  {
+    "objectID": "about copy.html#host-institution",
+    "href": "about copy.html#host-institution",
+    "title": "About",
+    "section": "Host institution",
+    "text": "Host institution\nDigiPols is hosted by the Department of Communication and Internet Studies and the Department of Public Communication at the Cyprus University of Technology, Limassol, Cyprus."
+  },
+  {
+    "objectID": "about copy.html#contact",
+    "href": "about copy.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\n\nEmail: digipols@cut.ac.cy\nAddress: Cyprus University of Technology, 30 Archbishop Kyprianos Str., 3036 Limassol, Cyprus\nGitHub: github.com/digipols"
+  },
+  {
+    "objectID": "about copy.html#funding",
+    "href": "about copy.html#funding",
+    "title": "About",
+    "section": "Funding",
+    "text": "Funding\nWork at DigiPols has been supported by Horizon Europe, the European Parliament, INTERREG, the Cyprus Research and Innovation Foundation and the Recovery and Resilience Plan of the Republic of Cyprus."
   }
 ]

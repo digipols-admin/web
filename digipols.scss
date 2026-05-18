@@ -496,6 +496,46 @@ h1, h2, h3, h4, h5, h6,
   }
 }
 
+// --- Contact (home page) -------------------------------------------
+.digipols-contact {
+  margin-top: 4rem;
+  padding-top: 2rem;
+  border-top: 1px solid $line;
+
+  .contact-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+    @media (max-width: 768px) { grid-template-columns: 1fr; gap: 1.5rem; }
+  }
+
+  .contact-item {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+
+    .contact-label {
+      font-family: $font-family-monospace;
+      font-size: 0.72rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: $ink-3;
+    }
+
+    a, span {
+      font-size: 0.95rem;
+      line-height: 1.55;
+      color: $ink-2;
+    }
+
+    a {
+      color: $signal;
+      text-decoration: none;
+      &:hover { color: $signal-ink; }
+    }
+  }
+}
+
 // --- Footer --------------------------------------------------------
 .nav-footer {
   background: $paper-2;
