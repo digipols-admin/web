@@ -6,3 +6,5 @@
 docs/_site/
 .Rhistory
 .RData
+
+**/*.quarto_ipynb
