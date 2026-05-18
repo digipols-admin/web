@@ -2,7 +2,7 @@
 title: "Nelly Sergidou"
 subtitle: "PhD Student — Research Associate"
 description: "PhD student, Cyprus University of Technology. Research interests: News Media and Social Media, Referendum Campaigns, Electoral Campaigns."
-image: images_team/person1.png
+image: images_team/sergidou.png
 order: 7
 categories: [Research Associates]
 ---
