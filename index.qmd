@@ -18,10 +18,6 @@ page-layout: full
     <a href="research.html" class="btn btn-primary">Read the research →</a>
     <a href="team.html" class="btn btn-outline-primary">Meet the lab</a>
   </div>
-  <div class="hero-meta">
-    <span>fig 01 · monitoring panels, live</span>
-    <span>4 clusters · est. 2018</span>
-  </div>
 </section>
 
 <p class="section-eyebrow">↳ Research clusters</p>
@@ -29,24 +25,28 @@ page-layout: full
 
 <div class="cluster-grid">
   <a class="cluster" href="research.html#applied-political-communication">
+    <img class="cluster-art" src="images/clusters/cluster-01-applied.svg" alt="" aria-hidden="true" width="64" height="64" />
     <span class="cluster-code">cluster.01</span>
     <h3 class="cluster-title">Applied Political Communication</h3>
     <p class="cluster-blurb">Experimental work on how political information moves between political actors, media and citizens — including pioneering research on Voting Advice Applications.</p>
     <span class="cluster-cta">explore →</span>
   </a>
   <a class="cluster" href="research.html#media-and-social-media-monitoring">
+    <img class="cluster-art" src="images/clusters/cluster-02-monitoring.svg" alt="" aria-hidden="true" width="64" height="64" />
     <span class="cluster-code">cluster.02</span>
     <h3 class="cluster-title">Media &amp; Social Media Monitoring</h3>
     <p class="cluster-blurb">Bespoke data-collection platforms that track political communication across news media and social media in real time, during election campaigns and beyond.</p>
     <span class="cluster-cta">explore →</span>
   </a>
   <a class="cluster" href="research.html#public-opinion-argument-mining">
+    <img class="cluster-art" src="images/clusters/cluster-03-opinion.svg" alt="" aria-hidden="true" width="64" height="64" />
     <span class="cluster-code">cluster.03</span>
     <h3 class="cluster-title">Public Opinion &amp; Argument Mining</h3>
     <p class="cluster-blurb">Techniques and tools for the analysis of public opinion, combining surveys with computational methods and argument mining from computational linguistics.</p>
     <span class="cluster-cta">explore →</span>
   </a>
   <a class="cluster" href="research.html#digipols-forum">
+    <img class="cluster-art" src="images/clusters/cluster-04-forum.svg" alt="" aria-hidden="true" width="64" height="64" />
     <span class="cluster-code">cluster.04</span>
     <h3 class="cluster-title">The DigiPols Forum</h3>
     <p class="cluster-blurb">Umbrella organisation that convenes DigiPols researchers to exchange ideas, share state-of-the-art practice and set strategic direction for the lab.</p>

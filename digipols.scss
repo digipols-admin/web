@@ -194,6 +194,15 @@ h1, h2, h3, h4, h5, h6,
     color: inherit;
     &:hover { background: $paper-2; }
 
+    .cluster-art {
+      width: 56px;
+      height: 56px;
+      display: block;
+      margin: 0 0 0.4rem;
+      transition: transform 160ms ease;
+    }
+    &:hover .cluster-art { transform: translateY(-1px); }
+
     .cluster-code {
       font-family: $font-family-monospace;
       font-size: 0.75rem;
