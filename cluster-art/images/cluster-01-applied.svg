@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Applied Political Communication">
+  <title>Applied Political Communication</title>
+  <g fill="none" stroke="#2E6FE0" stroke-width="1.2">
+    <line x1="10" y1="48" x2="48" y2="48"></line>
+    <line x1="48" y1="48" x2="86" y2="48"></line>
+    <path d="M10 48 Q48 14 86 48"></path>
+    <path d="M10 48 Q48 82 86 48"></path>
+  </g>
+  <g fill="#2E6FE0">
+    <circle cx="10" cy="48" r="3.5"></circle>
+    <circle cx="86" cy="48" r="3.5"></circle>
+    <circle cx="48" cy="48" r="4.5"></circle>
+  </g>
+  <g fill="none" stroke="#2E6FE0" stroke-width="1" opacity="0.35">
+    <circle cx="48" cy="48" r="14"></circle>
+    <circle cx="48" cy="48" r="22"></circle>
+  </g>
+</svg>
