@@ -7,53 +7,7 @@ page-layout: full
 
 ```{=html}
 <section class="digipols-hero">
-  <!-- Signal background: concentric beacon rings + a faint sampled waveform -->
-  <svg class="hero-bg" viewBox="0 0 1440 720" preserveAspectRatio="xMaxYMid slice" aria-hidden="true">
-    <defs>
-      <radialGradient id="beaconFade" cx="0.5" cy="0.5" r="0.5">
-        <stop offset="0%" stop-color="#2E6FE0" stop-opacity="0.22"/>
-        <stop offset="60%" stop-color="#2E6FE0" stop-opacity="0.06"/>
-        <stop offset="100%" stop-color="#2E6FE0" stop-opacity="0"/>
-      </radialGradient>
-    </defs>
-    <!-- emanating rings, anchored right -->
-    <g transform="translate(1180 360)" fill="none" stroke="#0E1014">
-      <circle r="80"  stroke-width="1.2" opacity="0.7"/>
-      <circle r="140" stroke-width="1"   opacity="0.45"/>
-      <circle r="210" stroke-width="1"   opacity="0.28"/>
-      <circle r="290" stroke-width="1"   opacity="0.17"/>
-      <circle r="380" stroke-width="1"   opacity="0.10"/>
-      <circle r="480" stroke-width="1"   opacity="0.06"/>
-    </g>
-    <circle cx="1180" cy="360" r="280" fill="url(#beaconFade)"/>
-    <circle cx="1180" cy="360" r="14"  fill="#2E6FE0"/>
-    <!-- discrete signal at the very bottom -->
-    <g transform="translate(0 690)" fill="#0E1014" opacity="0.55">
-      <!-- bars generated with a sin-mix; widths/heights chosen for rhythm -->
-      <rect x="0"    width="3" height="6"/>  <rect x="14"  width="3" height="12"/>
-      <rect x="28"   width="3" height="22"/> <rect x="42"  width="3" height="9"/>
-      <rect x="56"   width="3" height="5"/>  <rect x="70"  width="3" height="16"/>
-      <rect x="84"   width="3" height="26"/> <rect x="98"  width="3" height="18"/>
-      <rect x="112"  width="3" height="8"/>  <rect x="126" width="3" height="6"/>
-      <rect x="140"  width="3" height="14"/> <rect x="154" width="3" height="22"/>
-      <rect x="168"  width="3" height="11"/> <rect x="182" width="3" height="7"/>
-      <rect x="196"  width="3" height="4"/>  <rect x="210" width="3" height="10"/>
-      <rect x="224"  width="3" height="19"/> <rect x="238" width="3" height="13"/>
-      <rect x="252"  width="3" height="8"/>  <rect x="266" width="3" height="5"/>
-      <rect x="280"  width="3" height="12"/> <rect x="294" width="3" height="21"/>
-      <rect x="308"  width="3" height="14"/> <rect x="322" width="3" height="9"/>
-      <rect x="336"  width="3" height="6"/>  <rect x="350" width="3" height="11"/>
-      <rect x="364"  width="3" height="20"/> <rect x="378" width="3" height="15"/>
-      <rect x="392"  width="3" height="10"/> <rect x="406" width="3" height="6"/>
-      <rect x="420"  width="3" height="13"/> <rect x="434" width="3" height="22"/>
-      <rect x="448"  width="3" height="16"/> <rect x="462" width="3" height="11"/>
-      <rect x="476"  width="3" height="7"/>  <rect x="490" width="3" height="14"/>
-      <rect x="504"  width="3" height="24"/> <rect x="518" width="3" height="17"/>
-      <rect x="532"  width="3" height="12"/> <rect x="546" width="3" height="8"/>
-      <rect x="560"  width="3" height="15"/> <rect x="574" width="3" height="23"/>
-      <rect x="588"  width="3" height="18"/> <rect x="602" width="3" height="13"/>
-    </g>
-  </svg>
+  <img class="hero-bg" src="images/hero-dashboard.svg" alt="" aria-hidden="true">
 
   <div class="hero-eyebrow">The Digital Politics &amp; Political Communication Research Lab</div>
   <h1 class="hero-title">Studying how politics moves through <em>digital signal</em>.</h1>
@@ -65,7 +19,7 @@ page-layout: full
     <a href="team.html" class="btn btn-outline-primary">Meet the lab</a>
   </div>
   <div class="hero-meta">
-    <span>fig 01 · communication flow, sampled</span>
+    <span>fig 01 · monitoring panels, live</span>
     <span>4 clusters · est. 2018</span>
   </div>
 </section>
