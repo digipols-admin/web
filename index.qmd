@@ -10,7 +10,7 @@ page-layout: full
   <img class="hero-bg" src="images/hero-dashboard.svg" alt="" aria-hidden="true">
 
   <div class="hero-eyebrow">The Digital Politics &amp; Political Communication Research Lab</div>
-  <h1 class="hero-title">Studying how politics moves through <em>digital signal</em>.</h1>
+  <h1 class="hero-title">Studying how politics moves through <em>digital space</em>.</h1>
   <p class="hero-lede">
     DigiPols is an inter-departmental research lab at the Cyprus University of Technology investigating the increasingly digitalised links between politicians, the media, civil society and citizens — through experimentation, Voting Advice Applications and bespoke data platforms.
   </p>
@@ -83,6 +83,9 @@ Peer-reviewed papers, reports and book chapters from the lab.
   <p class="section-eyebrow">↳ Contact</p>
   <h2 style="margin:0 0 2rem; font-weight:500; letter-spacing:-0.025em;">Get in touch.</h2>
   <div class="contact-grid">
+    <div class="contact-item contact-item--logo">
+      <img src="images/cutlogo.png" alt="Cyprus University of Technology" style="max-width:100%; height:auto; opacity:0.6;">
+    </div>
     <div class="contact-item">
       <span class="contact-label">Email</span>
       <a href="mailto:digipols@cut.ac.cy">digipols@cut.ac.cy</a>
@@ -92,8 +95,8 @@ Peer-reviewed papers, reports and book chapters from the lab.
       <span>Department of Communication &amp; Internet Studies<br>Cyprus University of Technology<br>30 Archbishop Kyprianos Str., 3036 Limassol, Cyprus</span>
     </div>
     <div class="contact-item">
-      <span class="contact-label">GitHub</span>
-      <a href="https://github.com/digipols" target="_blank" rel="noopener">github.com/digipols</a>
+      <span class="contact-label">Telephone</span>
+      <span>+357 25002444</span>
     </div>
   </div>
 </section>

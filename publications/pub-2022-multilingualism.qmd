@@ -3,6 +3,7 @@ title: "The European Union's Approach to Multilingualism in its Own Communicatio
 author: "Mendez, C., Gazzola, M., Clement-Wilz, L., Triga, V., Mendez, F., Djouvas, C., Charalampous, A. and Bachtler, J."
 date: 2022-01-01
 description: "Research for CULT Committee — European Parliament. IPOL_STU(2022)699648"
-categories: [Media and Social Media Monitoring, Public Opinion and Argument Mining]
-image: images_publications/placeholder.png
+categories:
+  [Media and Social Media Monitoring, Public Opinion and Argument Mining]
+image: images_publications/multilingo.png
 ---

@@ -6,7 +6,7 @@ listing:
   contents: publications
   sort: "date desc"
   type: default
-  fields: [date, title, author, description, categories]
+  fields: [date, title, author, description, categories, image]
   date-format: "YYYY"
   sort-ui: [date, title]
   filter-ui: true

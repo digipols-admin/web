@@ -3,6 +3,7 @@ title: "EU Cohesion Policy under the Media Spotlight: Exploring Territorial and 
 author: "Mendez, C., Mendez, F., Triga, V. and Carrascosa, J. M."
 date: 2020-01-01
 description: "Journal of Common Market Studies. doi: 10.1111/jcms.13016"
-categories: [Media and Social Media Monitoring, Public Opinion and Argument Mining]
-image: images_publications/placeholder.png
+categories:
+  [Media and Social Media Monitoring, Public Opinion and Argument Mining]
+image: images_publications/visibility-jcms.png
 ---
