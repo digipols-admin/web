@@ -6,6 +6,7 @@ project:
     - "**/*.qmd"
   resources:
     - "images/"
+    - "assets/"
     - "publications/images_publications/"
     - "highlights/images_highlights/"
 
@@ -13,12 +14,13 @@ website:
   title: "DigiPols"
   description: "The Digital Politics & Political Communication Research Lab — Cyprus University of Technology"
   site-url: "https://digipols.com"
-  favicon: images/favicon.svg
+  favicon: assets/digipols-beacon-mark.svg
   navbar:
     background: light
-    logo: images/logo.svg
+    logo: assets/digipols-beacon.svg
+    logo-dark: assets/digipols-beacon-dark.svg
     logo-alt: "DigiPols"
-    title: true
+    title: false
     left:
       - href: index.qmd
         text: Home
