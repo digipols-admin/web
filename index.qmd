@@ -1,5 +1,5 @@
 ---
-title: "Welcome Digipols"
+title: "Welcome to Digipols"
 ---
 
 ::: {.grid}

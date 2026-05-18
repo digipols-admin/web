@@ -4,14 +4,6 @@
     "items": []
   },
   {
-    "listing": "/team.html",
-    "items": [
-      "/team/person1.html",
-      "/team/person3.html",
-      "/team/person2.html"
-    ]
-  },
-  {
     "listing": "/publications.html",
     "items": []
   },
@@ -22,6 +14,14 @@
       "/posts/item5.html",
       "/posts/long_post.html",
       "/posts/item1.html"
+    ]
+  },
+  {
+    "listing": "/team.html",
+    "items": [
+      "/team/person1.html",
+      "/team/person3.html",
+      "/team/person2.html"
     ]
   }
 ]
