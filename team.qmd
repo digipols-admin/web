@@ -1,17 +1,17 @@
 ---
-title: "Team members"
+title: "Team"
+toc: false
 listing:
-  id: sample-listings
+  id: team-listing
   contents: team
-  sort: "title"
+  sort: "order"
   type: default
   image-align: left
-  fields: [image, title, substitle, description]
+  fields: [image, title, subtitle, description]
+  categories: true
 ---
 
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+DIGIPOLS brings together social scientists and computer scientists from the Cyprus University of Technology. The lab is coordinated by the Board of Directors and includes a growing group of research associates.
 
-::: {#sample-listings}
+::: {#team-listing}
 :::
-
-

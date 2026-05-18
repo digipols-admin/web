@@ -1,27 +1,37 @@
 [
   {
-    "listing": "/test.html",
-    "items": []
+    "listing": "/highlights.html",
+    "items": [
+      "/highlights/highlight-2025-placeholder.html"
+    ]
   },
   {
     "listing": "/publications.html",
-    "items": []
-  },
-  {
-    "listing": "/news.html",
     "items": [
-      "/posts/dashboard.html",
-      "/posts/item5.html",
-      "/posts/long_post.html",
-      "/posts/item1.html"
+      "/publications/pub-2022-multilingualism.html",
+      "/publications/pub-2020-cohesion-media.html",
+      "/publications/pub-2019-cohesion-online.html",
+      "/publications/pub-2019-instagram-hashtags.html",
+      "/publications/pub-2018-greek-referendum.html",
+      "/publications/pub-2018-presidential-elections.html",
+      "/publications/pub-2017-parliamentary-elections.html",
+      "/publications/pub-2016-instagram-descriptive.html",
+      "/publications/pub-2015-spatial-maps.html",
+      "/publications/pub-2015-internet-voters.html",
+      "/publications/pub-2015-social-voting-apps.html",
+      "/publications/pub-2014-social-voting-advice.html"
     ]
   },
   {
     "listing": "/team.html",
     "items": [
-      "/team/person1.html",
-      "/team/person3.html",
-      "/team/person2.html"
+      "/team/triga.html",
+      "/team/tsapatsoulis.html",
+      "/team/djouvas.html",
+      "/team/gemenis.html",
+      "/team/ioannides.html",
+      "/team/charalampous.html",
+      "/team/sergidou.html"
     ]
   }
 ]

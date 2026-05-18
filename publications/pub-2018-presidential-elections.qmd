@@ -1,0 +1,8 @@
+---
+title: "Post-crisis normalisation? The 2018 Presidential Elections"
+author: "Triga, V., Mendez, F. and Tziouvas, C."
+date: 2018-01-01
+description: "Southern European Society and Politics. doi: 10.1080/13608746.2018.1511347"
+categories: [Applied Political Communication]
+image: images_publications/placeholder.png
+---

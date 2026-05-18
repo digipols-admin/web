@@ -1,0 +1,8 @@
+---
+title: "Who Are the Internet Voters?"
+author: "Serdült, U., Germann, M., Harris, M., Mendez, F. and Portenier, A."
+date: 2015-03-01
+description: "In: Tambouris et al. (eds.), Electronic Government and Electronic Participation, pp. 27–41. IOS Press"
+categories: [Applied Political Communication]
+image: images_publications/placeholder.png
+---

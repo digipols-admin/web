@@ -1,0 +1,9 @@
+---
+title: "Placeholder Highlight"
+date: 2025-01-01
+description: "This is a placeholder item. Replace with real news or event content."
+categories: [News]
+image: images_highlights/placeholder.png
+---
+
+Placeholder content. Replace this with the actual news item or event description.

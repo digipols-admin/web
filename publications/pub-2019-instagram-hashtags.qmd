@@ -1,0 +1,8 @@
+---
+title: "Filtering Instagram hashtags through crowd tagging and the HITS algorithm"
+author: "Giannoulakis, S. and Tsapatsoulis, N."
+date: 2019-01-01
+description: "IEEE Transactions on Computational Social Systems, 6(3): 592–603. doi: 10.1109/TCSS.2019.2914080"
+categories: [Media and Social Media Monitoring, Public Opinion and Argument Mining]
+image: images_publications/placeholder.png
+---

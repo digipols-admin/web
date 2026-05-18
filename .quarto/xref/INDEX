@@ -97,5 +97,74 @@
   },
   "DigiPolsWebsiteContent.md": {
     "DigiPolsWebsiteContent.html": "9ab3af82"
+  },
+  "publications/pub-2015-social-voting-apps.qmd": {
+    "pub-2015-social-voting-apps.html": "cb0658b3"
+  },
+  "publications/pub-2015-internet-voters.qmd": {
+    "pub-2015-internet-voters.html": "59f8b309"
+  },
+  "publications/pub-2018-presidential-elections.qmd": {
+    "pub-2018-presidential-elections.html": "a2e5e3a8"
+  },
+  "publications/pub-2016-instagram-descriptive.qmd": {
+    "pub-2016-instagram-descriptive.html": "5b30c6d6"
+  },
+  "publications/pub-2015-spatial-maps.qmd": {
+    "pub-2015-spatial-maps.html": "42257711"
+  },
+  "publications/pub-2014-social-voting-advice.qmd": {
+    "pub-2014-social-voting-advice.html": "5982cba1"
+  },
+  "publications/pub-2018-greek-referendum.qmd": {
+    "pub-2018-greek-referendum.html": "f1c512b0"
+  },
+  "publications/pub-2022-multilingualism.qmd": {
+    "pub-2022-multilingualism.html": "34cd92ea"
+  },
+  "publications/pub-2020-cohesion-media.qmd": {
+    "pub-2020-cohesion-media.html": "565fc0ef"
+  },
+  "publications/pub-2017-parliamentary-elections.qmd": {
+    "pub-2017-parliamentary-elections.html": "fd12a259"
+  },
+  "publications/pub-2019-instagram-hashtags.qmd": {
+    "pub-2019-instagram-hashtags.html": "b68a23d6"
+  },
+  "publications/pub-2019-cohesion-online.qmd": {
+    "pub-2019-cohesion-online.html": "671d60dc"
+  },
+  "implementation-plan.md": {
+    "implementation-plan.html": "26300164"
+  },
+  "team/djouvas.qmd": {
+    "djouvas.html": "85103202"
+  },
+  "team/ioannides.qmd": {
+    "ioannides.html": "1a0e4b57"
+  },
+  "team/tsapatsoulis.qmd": {
+    "tsapatsoulis.html": "f957fd78"
+  },
+  "team/charalampous.qmd": {
+    "charalampous.html": "ff9b4a43"
+  },
+  "team/triga.qmd": {
+    "triga.html": "e81637de"
+  },
+  "team/sergidou.qmd": {
+    "sergidou.html": "e997fcd6"
+  },
+  "team/gemenis.qmd": {
+    "gemenis.html": "061bc0a1"
+  },
+  "item1.qmd": {
+    "item1.html": "6cf916fb"
+  },
+  "highlights.qmd": {
+    "highlights.html": "9c3cf1a2"
+  },
+  "highlights/highlight-2025-placeholder.qmd": {
+    "highlight-2025-placeholder.html": "31665984"
   }
 }

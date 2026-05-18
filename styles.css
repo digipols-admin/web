@@ -7,7 +7,11 @@
 }
 
 .navbar-brand img {
-  max-height: 40px; /* Adjust as needed */
-  margin-right: 8px; /* Space between logo and title */
+  max-height: 40px;
+  margin-right: 8px;
 }
 
+/* Carousel spacing */
+.carousel {
+  margin-bottom: 2rem;
+}

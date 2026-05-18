@@ -1,41 +1,20 @@
 ---
-title: " "
-format: html
+title: "About"
+toc: false
 ---
 
-## Who We Are
+DIGIPOLS focuses on the intersection of digital technologies and politics. Its mission is to provide a research environment for pursuing cutting-edge, theory-driven empirical research for advancing the study of how digital technologies are impacting our institutions of governance and how politics shapes the development of these technologies.
 
-::: {.grid}
+As an inter-departmental entity, DIGIPOLS pursues an interdisciplinary approach that brings together social scientists and computer scientists conducting complementary research in areas related to DIGIPOLS thematic interests. The lab's researchers are brought together in the DIGIPOLS Forum, which meets regularly to exchange ideas, discuss best practices and offer strategic input to the four DIGIPOLS research clusters.
 
-::: {.g-col-6}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non felis in magna venenatis varius. Aenean eu leo at purus dignissim tempus. Sed sollicitudin volutpat ipsum, at dignissim sapien egestas a. Curabitur auctor justo id nulla ullamcorper, sed fermentum neque facilisis. Sed sollicitudin volutpat ipsum, at dignissim sapien egestas a. 
-:::
+## Research Areas
 
-::: {.g-col-6}
-![](images/about.png){style="border-radius: 8px;"}
-:::
+DIGIPOLS research is organised around four clusters:
 
-:::
+**Applied Political Communication** — Research on how political information is exchanged between political actors and citizens, with a focus on experimental approaches and Voting Advice Applications.
 
-## Our Mission
+**Media and Social Media Monitoring** — Development of data collection platforms that track political communication across news media and social media, including real-time monitoring during election campaigns.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non felis in magna venenatis varius. Aenean eu leo at purus dignissim tempus. Sed sollicitudin volutpat ipsum, at dignissim sapien egestas a. Curabitur auctor justo id nulla ullamcorper, sed fermentum neque facilisis.
+**Public Opinion & Argument Mining** — Development of techniques and tools for the analysis of public opinion, combining traditional survey approaches with computational methods and argument mining.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a nunc sit amet lorem fermentum lacinia. Phasellus vulputate erat vel magna consequat, non viverra libero vehicula. Quisque euismod, odio nec elementum posuere, tortor eros egestas magna, a rutrum erat velit at metus.
-
-## Our Values
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Aenean eget urna vitae eros sollicitudin viverra.
-- Curabitur dignissim, justo a facilisis aliquet, elit orci tempor arcu, sit amet molestie libero enim sit amet metus.
-
-## Our Team
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at quam ac sapien fermentum tincidunt. Suspendisse potenti. Proin id ligula nec velit dictum aliquam in in ligula. Nullam ut lectus id justo malesuada condimentum.
-
-## Contact Us
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed augue id nunc venenatis pharetra. Nulla facilisi. Ut a varius nunc. Nunc feugiat metus a est accumsan scelerisque. Donec vel ligula sit amet enim cursus cursus at et magna.
-
-- **Email:** lorem.ipsum@placeholder.com
-- **Phone:** +123 456 7890
-- **Address:** 123 Lorem Ipsum Street, Dolor City, Ametland
-
-Stay connected with us for the latest updates and insights into our research initiatives!
+**DIGIPOLS Forum** — An umbrella organisation that periodically brings together DIGIPOLS researchers to exchange ideas and provide strategic input to the research clusters.

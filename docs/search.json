@@ -1,310 +1,142 @@
 [
   {
-    "objectID": "test.html",
-    "href": "test.html",
-    "title": "DigiPols",
+    "objectID": "team/tsapatsoulis.html",
+    "href": "team/tsapatsoulis.html",
+    "title": "Nikos Tsapatsoulis",
     "section": "",
-    "text": "param-value\n\n\n\n.\n\n\n.\n\n\n\nNo matching items"
+    "text": "Professor at the Department of Public Communication, Cyprus University of Technology (CUT). Ph.D. in Image Analysis and Synthesis from the School of Electrical and Computer Engineering, National Technical University of Athens (2000). His research has been recognised by the international research community through more than 4000 independent citations.\nResearch interests: Multimedia Information Retrieval, Web Data Mining, Recommender Systems, Collective Intelligence, Affective Computing.\nEmail: nicolas.tsapatsoulis@cut.ac.cy"
   },
   {
-    "objectID": "team/person3.html",
-    "href": "team/person3.html",
-    "title": "Xristina Seabright",
+    "objectID": "team/sergidou.html",
+    "href": "team/sergidou.html",
+    "title": "Nelly Sergidou",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See for additional discussion of literate programming. BBC."
+    "text": "PhD student at the Cyprus University of Technology under the supervision of Associate Professor Vasiliki Triga. Her research focuses on news media and social media agenda in the context of referendum campaigns. Has been involved in European and Horizon projects investigating how European societies deal with their troubled pasts through the analysis of conflict discourses and their impact on European integration.\nResearch interests: News Media and Social Media, Referendum Campaigns, Electoral Campaigns."
   },
   {
-    "objectID": "team/person3.html#incididunt-ut-labore",
-    "href": "team/person3.html#incididunt-ut-labore",
-    "title": "Xristina Seabright",
+    "objectID": "team/gemenis.html",
+    "href": "team/gemenis.html",
+    "title": "Kostas Gemenis",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See for additional discussion of literate programming. BBC."
+    "text": "Assistant Professor of Politics and the Internet in the Department of Communication and Internet Studies, Cyprus University of Technology. Ph.D. in Politics and International Relations from Keele University, UK. Published in Political Communication, Communication Methods and Measures, and Electoral Studies. Co-designed a module to study conspiracy theories related to the COVID-19 pandemic for the 10th Round of the European Social Survey (ESS).\nResearch interests: Voting Advice Applications, Political Communication, Quantitative Text Analysis, Social Media and Conspiracy Beliefs."
   },
   {
-    "objectID": "team/person3.html#testing-figures",
-    "href": "team/person3.html#testing-figures",
-    "title": "Xristina Seabright",
-    "section": "Testing figures",
-    "text": "Testing figures\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See for additional discussion of literate programming."
-  },
-  {
-    "objectID": "DigiPolsWebsiteContent.html#research-areas",
-    "href": "DigiPolsWebsiteContent.html#research-areas",
-    "title": "DigiPols Website Content",
-    "section": "Research Areas",
-    "text": "Research Areas\n\nApplied political communication\nPolitical communication is concerned with how information is exchanged between political actors, from politicians and governments to civil society and citizens, and the role played by intermediary actors, such as the news media, in this transmission. The communication linkages are multi-faceted and increasingly digitalized. This cluster is focused on ‘applied’ aspects of political communication that involve experimentation, such as lab experiments and field experiments. Most of the ongoing research is associated with the pioneering work of DIGIPOLS researchers on Voting Advice Applications\n\n\nMedia and Social Media Monitoring\nThis research area is mainly centred on the development of data collection platforms that track particular domains of interest. Work has been conducted on building real-time data collection during election campaigns, for the evaluation of the communication of policy by the EU, as well as monitoring the latter’s linguistic communication practices.\n\n\nPublic Opinion & Argument Mining\nThis research area is concerned with developing techniques and tools for the analysis of public opinion. It includes both traditional forms of public opinion, such as surveys, and more recent big data approaches to opinion mining. A complementary area of research is focused on argument mining, which draws inspiration from computational linguistics.\n\n\nDIGIPOLS Forum\nThe Forum is an umbrella organization that periodically brings together DIGIPOLS researchers. The Forum keeps researchers abreast of the state-of-the-art and serves as a venue for the exchange of ideas. Crucially, the Forum provides strategic input and guidance to DIGIPOLS more specialized research clusters. It is also responsible for organizing DIGIPOLS events."
-  },
-  {
-    "objectID": "DigiPolsWebsiteContent.html#vasiliki-triga",
-    "href": "DigiPolsWebsiteContent.html#vasiliki-triga",
-    "title": "DigiPols Website Content",
-    "section": "Vasiliki Triga",
-    "text": "Vasiliki Triga\nAssociate Professor\nvasiliki.triga@cut.ac.cy\nAssociate Professor at Department of Public Communication (CUT). Ph.D degree in Social and Political Sciences from the European University Institute in Florence. She has published in various journals such as IEEE Transactions on Cybernetics, Southern European Society and Politics, Journal of Common Market Studies, Public Management etc. She is co-author of the book “Referendums and the European Union: A Comparative Inquiry”, published by Cambridge University Press in 2014.\nResearch interests:\nPolitical Communication, Media and Social Media, Political parties, Electoral campaigns."
-  },
-  {
-    "objectID": "DigiPolsWebsiteContent.html#nikos-tsapatsoulis",
-    "href": "DigiPolsWebsiteContent.html#nikos-tsapatsoulis",
-    "title": "DigiPols Website Content",
-    "section": "Nikos Tsapatsoulis",
-    "text": "Nikos Tsapatsoulis\nProfessor\nnicolas.tsapatsoulis@cut.ac.cy\nProfessor at Department of Public Communication (CUT). Ph.D degree in Image Analysis and Synthesis from the School of Electrical and Computer Eng. of the National Technical University of Athens (2000). His research has been recognised by the international research community through more than 4000 independent citations.\nResearch interests:\nMultimedia information retrieval, Web data mining, Recommender systems, Collective intelligence and Affective computing."
-  },
-  {
-    "objectID": "DigiPolsWebsiteContent.html#constantinos-djouvas",
-    "href": "DigiPolsWebsiteContent.html#constantinos-djouvas",
-    "title": "DigiPols Website Content",
-    "section": "Constantinos Djouvas",
-    "text": "Constantinos Djouvas\nAssociate Professor\ncostas.tziouvas@cut.ac.cy\nAssistant Professor at the Department of Communication and Internet Studies (CUT). Ph.D. degree in Computer Networks from the City University of New York. He has participated in numerous EU-funded research projects and published in various journals related to Computer Science and Social and Political Science.\nResearch interests:\nBig Data, Argument Mining, Social Media Analysis"
-  },
-  {
-    "objectID": "DigiPolsWebsiteContent.html#researchers",
-    "href": "DigiPolsWebsiteContent.html#researchers",
-    "title": "DigiPols Website Content",
-    "section": "Researchers",
-    "text": "Researchers\n\nKostas Gemenis\nAssociate Professor\nAssistant Professor of Politics and the Internet in the Department of Communication and Internet Studies. PhD. degree in Politics and International Relations from Keele University, UK. Published in various journals such as Political Communication, Communication Methods and Measures, Electoral Studies. Co-designed a module to study conspiracy theories related to the COVID-19 pandemic for the 10th Round of the European Social Survey (ESS).\nResearch interests:\nVoting Advice Applications, Political Communication, Quantitative Text Analysis, Social Media and Conspiracy Beliefs\n\n\n\nNikandros Ioannides\nPhD Student\nPhD student at Pompeu Fabra University in Barcelona under the supervision of Professor Toni Rodon. He holds a master’s degree in Democracy and Comparative Politics from University College London (UCL) and a bachelor’s degree in Communication and Internet Studies from the Cyprus University of Technology (CUT)\nResearch interests:\nContemporary Democracies, Party Politics, Political Participation, Voter-Party Congruence, Public Opinion\n\n\n\nAntonis Charalampous\nPhD Student\nag.charalampous@cut.ac.cy\nPhD student at the Department of Communication and Internet Studies, at the Cyprus University of Technology under the supervision of Assistant Professor Constantinos Tziouvas. His research focuses on developing new techniques and systems for analyzing online discourse.\nResearch interests:\nPhD student at the Department of Communication and Internet Studies, at the Cyprus University of Technology under the supervision of Assistant Professor Constantinos Tziouvas. His research focuses on developing new techniques and systems for analyzing online discourse.\n\n\n\nNelly Sergidou\nPhD Student\nPhD student at the Cyprus University of Technology under the supervision of associate professor Vasiliki Triga. Her research focuses on news media and social media agenda in the context of referendum campaigns. She has been involved in European projects and Horizon projects, gaining experience in the investigation of how European societies deal with their troubled pasts nowadays through the analysis of conflict discourses rooted in those pasts, with a view on the impact of those discourses on European integration.\nResearch interests:\nNews Media and Social Media, Referendum campaigns and Electoral campaigns"
-  },
-  {
-    "objectID": "DigiPolsWebsiteContent.html#applied-political-communication-1",
-    "href": "DigiPolsWebsiteContent.html#applied-political-communication-1",
-    "title": "DigiPols Website Content",
-    "section": "Applied political communication",
-    "text": "Applied political communication\n\nTriga, V., Mendez, F. and Tziouvas, C. (2018). “Post-crisis normalisation? The 2018 Presidential Elections”. Southern European Society and Politics, doi: 10.1080/13608746.2018.1511347\nTriga, V. (2017). “Parties and Change in Post-bailout Cyprus: The May 2016 Parliamentary Elections”. Southern European Society and Politics, doi: http://dx.doi.org/10.1080/13608746.2017.1312768\nTsapatsoulis, N., Agathokleous, M., Djouvas, C. and Mendez, F. (2015). “On the design of Social Voting Recommendation Applications”, International Journal on Artificial Intelligence Tools, 24(3): 1550009\nGermann, M., Mendez, F., Wheatley, J. and Serdült, U. (2015). “Spatial Maps in Voting Advice Applications: The Case for Dynamic Scale Validation”. Acta Politica, 50(2):214-238.\nSerdült, U., Germann, M., Harris, M., Mendez, F. and Portenier, A. (2015). “Who Are the Internet Voters?”. In: Efthimios Tambouris et al. (eds.), Electronic Government and Electronic Participation, pp. 27-41. Amsterdam: IOS Press.\nKatakis, N. Tsapatsoulis, N., Mendez, F., Triga, V. and Djouvas, C. (2014). “Social voting advice applications-definitions, challenges, datasets and evaluation,” IEEE Transactions on Cybernetics, 44(7): 1039-1052."
-  },
-  {
-    "objectID": "DigiPolsWebsiteContent.html#media-and-social-media-monitoring-1",
-    "href": "DigiPolsWebsiteContent.html#media-and-social-media-monitoring-1",
-    "title": "DigiPols Website Content",
-    "section": "Media and Social Media Monitoring",
-    "text": "Media and Social Media Monitoring\n\nMendez, C., Gazzola, M., Clement-Wilz, L., Triga, V., Mendez, F., Djouvas, C. Charambous, A. and Bachtler, J. (2022). Research for CULT Committee – The European Union’s Approach to Multilingualism in its Own Communication Policy. [Report] (https://www.europarl.europa.eu/thinktank/en/document/IPOL_STU(2022)699648)\nMendez, C., Mendez, F., Triga, V. and Carrascosa, J. M. (2020). “EU Cohesion Policy under the Media Spotlight: Exploring Territorial and Temporal Patterns in News Coverage and Tone”. Journal of Common Market Studies, https://doi.org/10.1111/jcms.13016\nGiannoulakis, S. and Tsapatsoulis, N. (2019). “Filtering Instagram hashtags through crowd tagging and the HITS algorithm”. IEEE Transactions on Computational Social Systems, 6(3), pp. 592-603, DOI: 10.1109/TCSS.2019.2914080\nMendez, C., Triga, V., Bachtler, J., Djouvas, C., Mendez, F. and Stier, S. (2019). The Visibility and Communication of Cohesion Policy in Online Media. [Report]\nMilioni, D. L., Triga, V. and Spyridou, L.-P. (2018). “Cadrages Médiatiques de la Consultation Grecque sur le Plan d’aide Européen: Le Référendum Cause ou Solution de la Crise?”. Participations, 1: 111-140. (translated from English by Xavier Blandin, original title: “Framing the Greek Bailout Referendum: A Crisis-Inducing or a Crisis-Resolving Mechanism?”)\nGiannoulakis, S. and Tsapatsoulis, N. (2016). “Evaluating the descriptive power of Instagram hashtags”. Journal of Innovation in Digital Ecosystems, 3(2), pp. 114-129, link"
-  },
-  {
-    "objectID": "DigiPolsWebsiteContent.html#public-opinion-argument-mining-1",
-    "href": "DigiPolsWebsiteContent.html#public-opinion-argument-mining-1",
-    "title": "DigiPols Website Content",
-    "section": "Public Opinion & Argument Mining",
-    "text": "Public Opinion & Argument Mining\n\nMendez, C., Gazzola, M., Clement-Wilz, L., Triga, V., Mendez, F., Djouvas, C. Charambous, A. and Bachtler, J. (2022). Research for CULT Committee – The European Union’s Approach to Multilingualism in its Own Communication Policy. [Report] (https://www.europarl.europa.eu/thinktank/en/document/IPOL_STU(2022)699648)\nMendez, C., Mendez, F., Triga, V. and Carrascosa, J. M. (2020). “EU Cohesion Policy under the Media Spotlight: Exploring Territorial and Temporal Patterns in News Coverage and Tone”. Journal of Common Market Studies, https://doi.org/10.1111/jcms.13016\nGiannoulakis, S. and Tsapatsoulis, N. (2019). “Filtering Instagram hashtags through crowd tagging and the HITS algorithm”. IEEE Transactions on Computational Social Systems, 6(3), pp. 592-603, DOI: 10.1109/TCSS.2019.2914080\nMendez, C., Triga, V., Bachtler, J., Djouvas, C., Mendez, F. and Stier, S. (2019). The Visibility and Communication of Cohesion Policy in Online Media. [Report]\nMilioni, D. L., Triga, V. and Spyridou, L.-P. (2018). “Cadrages Médiatiques de la Consultation Grecque sur le Plan d’aide Européen: Le Référendum Cause ou Solution de la Crise?”. Participations, 1: 111-140. (translated from English by Xavier Blandin, original title: “Framing the Greek Bailout Referendum: A Crisis-Inducing or a Crisis-Resolving Mechanism?”)\nGiannoulakis, S. and Tsapatsoulis, N. (2016). “Evaluating the descriptive power of Instagram hashtags”. Journal of Innovation in Digital Ecosystems, 3(2), pp. 114-129, link"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "team/charalampous.html",
+    "href": "team/charalampous.html",
+    "title": "Antonis Charalampous",
     "section": "",
-    "text": ":::{#quarto-listing-pipeline .hidden} \\(e = mC^2\\)\n:::{.hidden render-id=“pipeline-listing-listing”}\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          href\n        \n         \n          Authors\n        \n         \n          Year\n        \n         \n          Publisher\n        \n         \n          Type\n        \n         \n          abstract\n        \n         \n          image_path\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  &lt;div class=\"pub-image-container\"&gt;\n    &lt;img src=\"images/home1.png\" alt=\"Cover image for Research Article 1\" class=\"pub-image\"&gt;\n  &lt;/div&gt;\n  &lt;div class=\"pub-text-container\"&gt;\n    &lt;a href=\"https://example.com/article1\" class=\"pub-title\"&gt;Research Article 1&lt;/a&gt;\n    &lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Author A, Author B&lt;/p&gt;\n    &lt;p&gt;&lt;strong&gt;Year:&lt;/strong&gt; 2023&lt;/p&gt;\n    &lt;p&gt;&lt;strong&gt;Publisher:&lt;/strong&gt; Journal XYZ&lt;/p&gt;\n    &lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt; Journal Article&lt;/p&gt;\n    &lt;p&gt;This is a placeholder abstract for research article 1.&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n\n\n\n  &lt;div class=\"pub-image-container\"&gt;\n    &lt;img src=\"images/home1.png\" alt=\"Cover image for Research Article 2\" class=\"pub-image\"&gt;\n  &lt;/div&gt;\n  &lt;div class=\"pub-text-container\"&gt;\n    &lt;a href=\"https://example.com/article2\" class=\"pub-title\"&gt;Research Article 2&lt;/a&gt;\n    &lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Author C, Author D&lt;/p&gt;\n    &lt;p&gt;&lt;strong&gt;Year:&lt;/strong&gt; 2022&lt;/p&gt;\n    &lt;p&gt;&lt;strong&gt;Publisher:&lt;/strong&gt; Publisher ABC&lt;/p&gt;\n    &lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt; Book&lt;/p&gt;\n    &lt;p&gt;This is a placeholder abstract for research article 2.&lt;/p&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n\n\n\nNo matching items\n\n:::\n:::"
-  },
-  {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "News",
-    "section": "",
-    "text": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.\n\n\n\n\n  \n\n\n\n\nPenguins report: An interactive example\n\n\n\n\n\nAn exmaple of an interactive graphs using observable JS. Useful for interactions etc. Add more description here.\n\n\n\n\n\n\nNov 5, 2023\n\n\nPaul Barry\n\n\n\n\n\n\n  \n\n\n\n\nLong post on December Update\n\n\n\n\n\nSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore\n\n\n\n\n\n\nDec 1, 2023\n\n\nJane Doe\n\n\n\n\n\n\n  \n\n\n\n\nA long posting item template\n\n\n\n\n\nA placeholder blog post that is long and has quite a lot of images including mermaid graphs\n\n\n\n\n\n\nJun 10, 2024\n\n\nFreddy Mercury\n\n\n\n\n\n\n  \n\n\n\n\nLorem Ipsum: A news item Template2\n\n\n\n\n\nA placeholder blog post with an image and 300 words of content. And some more content here and there.\n\n\n\n\n\n\nNov 10, 2024\n\n\nJohn Paul\n\n\n\n\n\n\nNo matching items\n\n\nSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
-  },
-  {
-    "objectID": "dashboard.html",
-    "href": "dashboard.html",
-    "title": "DigiPols",
-    "section": "",
-    "text": "Loading…"
-  },
-  {
-    "objectID": "posts/item5.html",
-    "href": "posts/item5.html",
-    "title": "Long post on December Update",
-    "section": "",
-    "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
-  },
-  {
-    "objectID": "posts/dashboard.html",
-    "href": "posts/dashboard.html",
-    "title": "Penguins report: An interactive example",
-    "section": "",
-    "text": "A simple example based on Allison Horst’s Palmer Penguins dataset. Here we look at how penguin body mass varies across both sex and species (use the provided inputs to filter the dataset by bill length and island):\nviewof bill_length_min = Inputs.range(\n  [32, 50], \n  {value: 35, step: 1, label: \"Bill length (min):\"}\n)\nviewof islands = Inputs.checkbox(\n  [\"Torgersen\", \"Biscoe\", \"Dream\"], \n  { value: [\"Torgersen\", \"Biscoe\"], \n    label: \"Islands:\"\n  }\n)\ndata = FileAttachment(\"palmer-penguins.csv\").csv({ typed: true })\nfiltered = data.filter(function(penguin) {\n  return bill_length_min &lt; penguin.bill_length_mm &&\n         islands.includes(penguin.island);\n})"
-  },
-  {
-    "objectID": "posts/dashboard.html#testing-figures",
-    "href": "posts/dashboard.html#testing-figures",
-    "title": "Penguins report: An interactive example",
-    "section": "Testing figures",
-    "text": "Testing figures\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See for additional discussion of literate programming."
+    "text": "PhD student at the Department of Communication and Internet Studies, Cyprus University of Technology, under the supervision of Associate Professor Constantinos Djouvas. His research focuses on developing new techniques and systems for analysing online discourse.\nResearch interests: Online Discourse Analysis, Argumentation, Social Media.\nEmail: ag.charalampous@cut.ac.cy"
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.\nflowchart LR\n  A[qmd] --&gt; B(Knitr)\n  A[qmd] --&gt; C(Jupyter)\n  B(Knitr) --&gt; D[md]\n  C(Jupyter) --&gt; D[md]\n  D[md] --&gt; E(pandoc)\n  E(pandoc) --&gt; F(HTML)\n  E(pandoc) --&gt; G(PDF)\n  E(pandoc) --&gt; H(Word)\n  E(pandoc) --&gt; I{and more}\n  I{and more} --&gt; A[qmd]\n\n\nFigure 1: Overview of organisation X research clusters"
+    "text": "DIGIPOLS research is organised around four clusters that bring together social scientists and computer scientists working on complementary areas."
   },
   {
-    "objectID": "research.html#cluster-1-proin-vehicula",
-    "href": "research.html#cluster-1-proin-vehicula",
+    "objectID": "research.html#applied-political-communication",
+    "href": "research.html#applied-political-communication",
     "title": "Research",
-    "section": "Cluster 1: Proin vehicula",
-    "text": "Cluster 1: Proin vehicula\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vehicula purus vel orci malesuada, nec feugiat lacus commodo. Sed dictum risus ac ligula commodo, non pulvinar eros iaculis.\nFocus areas include: - Citizen engagement in digital spaces - E-participation tools and platforms - Impacts of social media on democratic processes"
+    "section": "Applied Political Communication",
+    "text": "Applied Political Communication\nPolitical communication is concerned with how information is exchanged between political actors, from politicians and governments to civil society and citizens, and the role played by intermediary actors, such as the news media, in this transmission. The communication linkages are multi-faceted and increasingly digitalised. This cluster is focused on ‘applied’ aspects of political communication that involve experimentation, such as lab experiments and field experiments. Most of the ongoing research is associated with the pioneering work of DIGIPOLS researchers on Voting Advice Applications."
   },
   {
-    "objectID": "research.html#cluster-2-integer-euismod",
-    "href": "research.html#cluster-2-integer-euismod",
+    "objectID": "research.html#media-and-social-media-monitoring",
+    "href": "research.html#media-and-social-media-monitoring",
     "title": "Research",
-    "section": "Cluster 2: Integer euismod",
-    "text": "Cluster 2: Integer euismod\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer euismod purus non metus sollicitudin, a viverra enim facilisis. Phasellus vel mi a urna tincidunt dictum.\nFocus areas include: - Text analysis of political discourse - Network analysis of policy communities - Survey design and data analysis"
+    "section": "Media and Social Media Monitoring",
+    "text": "Media and Social Media Monitoring\nThis research area is mainly centred on the development of data collection platforms that track particular domains of interest. Work has been conducted on building real-time data collection during election campaigns, for the evaluation of the communication of policy by the EU, as well as monitoring the latter’s linguistic communication practices."
   },
   {
-    "objectID": "research.html#cluster-3-vivamus-ultricies",
-    "href": "research.html#cluster-3-vivamus-ultricies",
+    "objectID": "research.html#public-opinion-argument-mining",
+    "href": "research.html#public-opinion-argument-mining",
     "title": "Research",
-    "section": "Cluster 3: Vivamus ultricies",
-    "text": "Cluster 3: Vivamus ultricies\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies sapien vel sapien varius, id pretium ligula scelerisque. Cras pellentesque massa a leo elementum tristique.\nFocus areas include: - Media framing of political issues - Public opinion dynamics - Communication strategies in campaigns"
+    "section": "Public Opinion & Argument Mining",
+    "text": "Public Opinion & Argument Mining\nThis research area is concerned with developing techniques and tools for the analysis of public opinion. It includes both traditional forms of public opinion, such as surveys, and more recent big data approaches to opinion mining. A complementary area of research is focused on argument mining, which draws inspiration from computational linguistics."
   },
   {
-    "objectID": "research.html#cluster-4-donec-eget",
-    "href": "research.html#cluster-4-donec-eget",
+    "objectID": "research.html#digipols-forum",
+    "href": "research.html#digipols-forum",
     "title": "Research",
-    "section": "Cluster 4: Donec eget",
-    "text": "Cluster 4: Donec eget\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Quisque nec consequat leo, sed consectetur mi. Donec eget mauris fringilla, vestibulum nulla et, dictum dolor.\nFocus areas include: - Design and evaluation of public policies - Behavioral insights in policy-making - Comparative studies of policy innovations\nStay tuned for detailed projects and publications under each cluster as we continue to expand our work."
-  },
-  {
-    "objectID": "posts/item1.html",
-    "href": "posts/item1.html",
-    "title": "Lorem Ipsum: A news item Template2",
-    "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See for additional discussion of literate programming. BBC."
-  },
-  {
-    "objectID": "posts/item1.html#incididunt-ut-labore",
-    "href": "posts/item1.html#incididunt-ut-labore",
-    "title": "Lorem Ipsum: A news item Template2",
-    "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See for additional discussion of literate programming. BBC."
-  },
-  {
-    "objectID": "posts/item1.html#testing-figures",
-    "href": "posts/item1.html#testing-figures",
-    "title": "Lorem Ipsum: A news item Template2",
-    "section": "Testing figures",
-    "text": "Testing figures\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See for additional discussion of literate programming."
-  },
-  {
-    "objectID": "posts/long_post.html",
-    "href": "posts/long_post.html",
-    "title": "A long posting item template",
-    "section": "",
-    "text": "Code\n# Load libraries ----------------------------------------------------------\nlibrary(tidyverse)\n#&gt; ── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──\n#&gt; ✔ ggplot2 3.4.0     ✔ purrr   1.0.1\n#&gt; ✔ tibble  3.2.1     ✔ dplyr   1.1.2\n#&gt; ✔ tidyr   1.3.0     ✔ stringr 1.5.0\n#&gt; ✔ readr   2.1.3     ✔ forcats 1.0.0\n#&gt; ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n#&gt; ✖ dplyr::filter() masks stats::filter()\n#&gt; ✖ dplyr::lag()    masks stats::lag()\nlibrary(kableExtra)\n#&gt; \n#&gt; Attaching package: 'kableExtra'\n#&gt; \n#&gt; The following object is masked from 'package:dplyr':\n#&gt; \n#&gt;     group_rows\nlibrary(ggplot2)\nlibrary(ggpubr)\nlibrary(here)\n#&gt; here() starts at /Users/fernando/Dropbox/Work_Folder/wrk/web\nlibrary(conflicted)\n\n\n# Load helper functions ---------------------------------------------------\ncomma &lt;- function(x) format(x, digits = 2, big.mark = \",\")\n\nmykable &lt;- function(df, caption = NULL) {\n    df %&gt;%\n        kbl(caption = caption) %&gt;%\n        kable_styling(full_width = F,\n                      position = \"left\",\n                      bootstrap_options = c(\"striped\"))\n}"
-  },
-  {
-    "objectID": "posts/long_post.html#incididunt-ut-labore",
-    "href": "posts/long_post.html#incididunt-ut-labore",
-    "title": "A long posting item template",
-    "section": "Incididunt ut labore",
-    "text": "Incididunt ut labore\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See for additional discussion of literate programming. BBC."
-  },
-  {
-    "objectID": "posts/long_post.html#testing-figures",
-    "href": "posts/long_post.html#testing-figures",
-    "title": "A long posting item template",
-    "section": "Testing figures",
-    "text": "Testing figures\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See for additional discussion of literate programming.\n\n\nCode\n# set parameters\npar(mar = c(4, 4, 0.1, 0.1))\nplot(pressure, pch = 19, type = \"b\")\n\n\n\n\n\nFigure 1: Air Quality lets add a very long explanatory figure that has complicated clauses etc. And we go into a lot of details in the figure description\n\n\n\n\nEt harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.\n\n\nCode\ndata(\"ToothGrowth\")\ndf &lt;- ToothGrowth\n\nggboxplot(df, x = \"dose\", y = \"len\",\n                color = \"dose\", palette =\"jco\",\n                add = \"jitter\", shape = \"dose\")\n\n\n\n\n\nFigure 2: Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus\n\n\n\n\nNam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus."
-  },
-  {
-    "objectID": "posts/long_post.html#testing-tables",
-    "href": "posts/long_post.html#testing-tables",
-    "title": "A long posting item template",
-    "section": "Testing tables",
-    "text": "Testing tables\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See @knuth84 for additional discussion of literate programming.\n\n\nCode\nmtcars |&gt; \n  head() |&gt; \n  kbl() |&gt; \n  kable_styling(full_width = F,position = \"left\",\n                bootstrap_options = c(\"striped\", \"hover\"))\n\n\n\n\nTable 1: Add a long table caption here\n\n\n\nmpg\ncyl\ndisp\nhp\ndrat\nwt\nqsec\nvs\nam\ngear\ncarb\n\n\n\n\nMazda RX4\n21.0\n6\n160\n110\n3.90\n2.620\n16.46\n0\n1\n4\n4\n\n\nMazda RX4 Wag\n21.0\n6\n160\n110\n3.90\n2.875\n17.02\n0\n1\n4\n4\n\n\nDatsun 710\n22.8\n4\n108\n93\n3.85\n2.320\n18.61\n1\n1\n4\n1\n\n\nHornet 4 Drive\n21.4\n6\n258\n110\n3.08\n3.215\n19.44\n1\n0\n3\n1\n\n\nHornet Sportabout\n18.7\n8\n360\n175\n3.15\n3.440\n17.02\n0\n0\n3\n2\n\n\nValiant\n18.1\n6\n225\n105\n2.76\n3.460\n20.22\n1\n0\n3\n1\n\n\n\n\n\n\n\n\n\nTesting a mermaid flow chart\nEt harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.\n\n\n\n\n\nflowchart LR\n  A[qmd] --&gt; B(Knitr)\n  A[qmd] --&gt; C(Jupyter)\n  B(Knitr) --&gt; D[md]\n  C(Jupyter) --&gt; D[md]\n  D[md] --&gt; E(pandoc)\n  E(pandoc) --&gt; F(HTML)\n  E(pandoc) --&gt; G(PDF)\n  E(pandoc) --&gt; H(Word)\n  E(pandoc) --&gt; I{and more}\n  I{and more} --&gt; A[qmd]\n\n\nFigure 3: How Quarto orchestrates rendering of documents: start with a qmd file, use the Knitr or Jupyter engine to perform the computations and convert it to an md file, then use Pandoc to convert to various file formats including HTML, PDF, and Word.\n\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n\nAdd another flowchart\n\n\n\n\n\ngraph TD\nclassDef k1 fill:#f30;\nclassDef k2 fill:#FFD70f;\nclassDef k3 fill:#00800f;\n    A[Transform each English URL&lt;br&gt; to point to a different language] --&gt; B(Ping each URL)\n    B --&gt; |If a valid webpage is&lt;br&gt;returned| C(Extract content)\n    B --&gt; |If an error code is returned|D{{Label as missing 998}}:::k2\n    C --&gt; |If content can be&lt;br&gt;extracted|E(Apply language detection)\n    C --&gt; |If content cannot&lt;br&gt; be extracted|F{{Label as missing 999}}:::k2\n    E --&gt; H[Correct&lt;br&gt;language]\n    style H fill:#00800f,stroke:#00800f,color:#fff\n    E --&gt; I[Incorrect&lt;br&gt;language]\n    style I fill:#f20,stroke:#f20,stroke-width:2px,color:#fff\n\n\nFigure 4: Another long figure explanation. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\n\n\n\nAt vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat\n\n\nTesting two side by side tables\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\n\nCode\ncars |&gt;\n  head() |&gt;\n  mykable()\n\npressure |&gt;\n  head() |&gt;\n  mykable()\n\n\n\nTable 2: Example\n\n\n\n\n(a) Cars\n\n\nspeed\ndist\n\n\n\n\n4\n2\n\n\n4\n10\n\n\n7\n4\n\n\n7\n22\n\n\n8\n16\n\n\n9\n10\n\n\n\n\n\n\n\n\n\n\n\n\n(b) Pressure\n\n\ntemperature\npressure\n\n\n\n\n0\n0.0002\n\n\n20\n0.0012\n\n\n40\n0.0060\n\n\n60\n0.0300\n\n\n80\n0.0900\n\n\n100\n0.2700\n\n\n\n\n\n\n\n\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\n\nExample of a long grouped table\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\n\nCode\nlibrary(reactable)\nd1 &lt;- read_csv(here(\"data/definitionInstrumentItem.csv\"))\n#&gt; Rows: 447 Columns: 4\n#&gt; ── Column specification ────────────────────────────────────────────────────────\n#&gt; Delimiter: \",\"\n#&gt; chr (3): Item, Definition, Instrument\n#&gt; dbl (1): ID\n#&gt; \n#&gt; ℹ Use `spec()` to retrieve the full column specification for this data.\n#&gt; ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.\nd1 %&gt;% \n  reactable(groupBy = \"Instrument\",\n            #selection = \"multiple\", \n            onClick = \"select\",\n            pagination = FALSE, \n            searchable = FALSE,\n            striped = TRUE,\n            columns = list(Definition = colDef(minWidth =250), ID = colDef(maxWidth = 40))\n            )"
-  },
-  {
-    "objectID": "team.html",
-    "href": "team.html",
-    "title": "Team members",
-    "section": "",
-    "text": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.\n\n\n\n\n  \n\n\n\n\nVicky Triga\n\n\nDirector\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nXristina Seabright\n\n\nDoctoral researcher\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nZach Stelling\n\n\nPost-Doctoral researchers\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n\n\n\n \n\n\n\n\nNo matching items"
+    "section": "DIGIPOLS Forum",
+    "text": "DIGIPOLS Forum\nThe Forum is an umbrella organisation that periodically brings together DIGIPOLS researchers. The Forum keeps researchers abreast of the state-of-the-art and serves as a venue for the exchange of ideas. Crucially, the Forum provides strategic input and guidance to DIGIPOLS more specialised research clusters. It is also responsible for organising DIGIPOLS events."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to Digipols",
+    "title": "DigiPols",
     "section": "",
-    "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Bla, Bla.\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt Nemo enim ipsam.\n\n\n\n\n\nTweets by CyUniTech\n\n\n\n\n\n© 2024 Digipols. All rights reserved. | Privacy Policy | Terms of Service"
+    "text": "DIGIPOLS focuses on the intersection of digital technologies and politics. Our mission is to provide a research environment for pursuing cutting-edge, theory-driven empirical research on how digital technologies are impacting our institutions of governance and how politics shapes the development of these technologies."
+  },
+  {
+    "objectID": "index.html#spotlight",
+    "href": "index.html#spotlight",
+    "title": "DigiPols",
+    "section": "Spotlight",
+    "text": "Spotlight\n\n  \n    \n    \n    \n  \n  \n    \n      \n      \n        Voting Advice Applications\n        Pioneering research on digital tools that help citizens make informed voting decisions.\n      \n    \n    \n      \n      \n        EU Media Monitoring\n        Real-time data collection and analysis of political communication across European media.\n      \n    \n    \n      \n      \n        Public Opinion Research\n        Advanced techniques for analysing public opinion using surveys and computational methods.\n      \n    \n  \n  \n    \n    Previous\n  \n  \n    \n    Next"
+  },
+  {
+    "objectID": "highlights.html",
+    "href": "highlights.html",
+    "title": "Highlights",
+    "section": "",
+    "text": "Placeholder Highlight\n\n\n\n\n\n\n\nNews\n\n\n\n\nThis is a placeholder item. Replace with real news or event content.\n\n\n\n\n\n\nJan 1, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "DigiPols",
+    "title": "About",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non felis in magna venenatis varius. Aenean eu leo at purus dignissim tempus. Sed sollicitudin volutpat ipsum, at dignissim sapien egestas a. Curabitur auctor justo id nulla ullamcorper, sed fermentum neque facilisis. Sed sollicitudin volutpat ipsum, at dignissim sapien egestas a."
+    "text": "DIGIPOLS focuses on the intersection of digital technologies and politics. Its mission is to provide a research environment for pursuing cutting-edge, theory-driven empirical research for advancing the study of how digital technologies are impacting our institutions of governance and how politics shapes the development of these technologies.\nAs an inter-departmental entity, DIGIPOLS pursues an interdisciplinary approach that brings together social scientists and computer scientists conducting complementary research in areas related to DIGIPOLS thematic interests. The lab’s researchers are brought together in the DIGIPOLS Forum, which meets regularly to exchange ideas, discuss best practices and offer strategic input to the four DIGIPOLS research clusters."
   },
   {
-    "objectID": "about.html#who-we-are",
-    "href": "about.html#who-we-are",
-    "title": "DigiPols",
+    "objectID": "about.html#research-areas",
+    "href": "about.html#research-areas",
+    "title": "About",
+    "section": "Research Areas",
+    "text": "Research Areas\nDIGIPOLS research is organised around four clusters:\nApplied Political Communication — Research on how political information is exchanged between political actors and citizens, with a focus on experimental approaches and Voting Advice Applications.\nMedia and Social Media Monitoring — Development of data collection platforms that track political communication across news media and social media, including real-time monitoring during election campaigns.\nPublic Opinion & Argument Mining — Development of techniques and tools for the analysis of public opinion, combining traditional survey approaches with computational methods and argument mining.\nDIGIPOLS Forum — An umbrella organisation that periodically brings together DIGIPOLS researchers to exchange ideas and provide strategic input to the research clusters."
+  },
+  {
+    "objectID": "highlights/highlight-2025-placeholder.html",
+    "href": "highlights/highlight-2025-placeholder.html",
+    "title": "Placeholder Highlight",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non felis in magna venenatis varius. Aenean eu leo at purus dignissim tempus. Sed sollicitudin volutpat ipsum, at dignissim sapien egestas a. Curabitur auctor justo id nulla ullamcorper, sed fermentum neque facilisis. Sed sollicitudin volutpat ipsum, at dignissim sapien egestas a."
+    "text": "Placeholder content. Replace this with the actual news item or event description."
   },
   {
-    "objectID": "about.html#our-mission",
-    "href": "about.html#our-mission",
-    "title": "DigiPols",
-    "section": "Our Mission",
-    "text": "Our Mission\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non felis in magna venenatis varius. Aenean eu leo at purus dignissim tempus. Sed sollicitudin volutpat ipsum, at dignissim sapien egestas a. Curabitur auctor justo id nulla ullamcorper, sed fermentum neque facilisis.\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a nunc sit amet lorem fermentum lacinia. Phasellus vulputate erat vel magna consequat, non viverra libero vehicula. Quisque euismod, odio nec elementum posuere, tortor eros egestas magna, a rutrum erat velit at metus."
-  },
-  {
-    "objectID": "about.html#our-values",
-    "href": "about.html#our-values",
-    "title": "DigiPols",
-    "section": "Our Values",
-    "text": "Our Values\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nAenean eget urna vitae eros sollicitudin viverra.\nCurabitur dignissim, justo a facilisis aliquet, elit orci tempor arcu, sit amet molestie libero enim sit amet metus."
-  },
-  {
-    "objectID": "about.html#our-team",
-    "href": "about.html#our-team",
-    "title": "DigiPols",
-    "section": "Our Team",
-    "text": "Our Team\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at quam ac sapien fermentum tincidunt. Suspendisse potenti. Proin id ligula nec velit dictum aliquam in in ligula. Nullam ut lectus id justo malesuada condimentum."
-  },
-  {
-    "objectID": "about.html#contact-us",
-    "href": "about.html#contact-us",
-    "title": "DigiPols",
-    "section": "Contact Us",
-    "text": "Contact Us\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed augue id nunc venenatis pharetra. Nulla facilisi. Ut a varius nunc. Nunc feugiat metus a est accumsan scelerisque. Donec vel ligula sit amet enim cursus cursus at et magna.\n\nEmail: lorem.ipsum@placeholder.com\nPhone: +123 456 7890\nAddress: 123 Lorem Ipsum Street, Dolor City, Ametland\n\nStay connected with us for the latest updates and insights into our research initiatives!"
-  },
-  {
-    "objectID": "team/person2.html",
-    "href": "team/person2.html",
-    "title": "Zach Stelling",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See for additional discussion of literate programming. BBC."
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nThe European Union’s Approach to Multilingualism in its Own Communication Policy\n\n\n\n\n\n\n\nMedia and Social Media Monitoring\n\n\nPublic Opinion and Argument Mining\n\n\n\n\nResearch for CULT Committee — European Parliament. IPOL_STU(2022)699648\n\n\n\n\n\n\n2022\n\n\nMendez, C., Gazzola, M., Clement-Wilz, L., Triga, V., Mendez, F., Djouvas, C., Charalampous, A. and Bachtler, J.\n\n\n\n\n\n\n\n\nEU Cohesion Policy under the Media Spotlight: Exploring Territorial and Temporal Patterns in News Coverage and Tone\n\n\n\n\n\n\n\nMedia and Social Media Monitoring\n\n\nPublic Opinion and Argument Mining\n\n\n\n\nJournal of Common Market Studies. doi: 10.1111/jcms.13016\n\n\n\n\n\n\n2020\n\n\nMendez, C., Mendez, F., Triga, V. and Carrascosa, J. M.\n\n\n\n\n\n\n\n\nThe Visibility and Communication of Cohesion Policy in Online Media\n\n\n\n\n\n\n\nMedia and Social Media Monitoring\n\n\nPublic Opinion and Argument Mining\n\n\n\n\nReport\n\n\n\n\n\n\n2019\n\n\nMendez, C., Triga, V., Bachtler, J., Djouvas, C., Mendez, F. and Stier, S.\n\n\n\n\n\n\n\n\nFiltering Instagram hashtags through crowd tagging and the HITS algorithm\n\n\n\n\n\n\n\nMedia and Social Media Monitoring\n\n\nPublic Opinion and Argument Mining\n\n\n\n\nIEEE Transactions on Computational Social Systems, 6(3): 592–603. doi: 10.1109/TCSS.2019.2914080\n\n\n\n\n\n\n2019\n\n\nGiannoulakis, S. and Tsapatsoulis, N.\n\n\n\n\n\n\n\n\nFraming the Greek Bailout Referendum: A Crisis-Inducing or a Crisis-Resolving Mechanism?\n\n\n\n\n\n\n\nMedia and Social Media Monitoring\n\n\nPublic Opinion and Argument Mining\n\n\n\n\nParticipations, 1: 111–140\n\n\n\n\n\n\n2018\n\n\nMilioni, D. L., Triga, V. and Spyridou, L.-P.\n\n\n\n\n\n\n\n\nPost-crisis normalisation? The 2018 Presidential Elections\n\n\n\n\n\n\n\nApplied Political Communication\n\n\n\n\nSouthern European Society and Politics. doi: 10.1080/13608746.2018.1511347\n\n\n\n\n\n\n2018\n\n\nTriga, V., Mendez, F. and Tziouvas, C.\n\n\n\n\n\n\n\n\nParties and Change in Post-bailout Cyprus: The May 2016 Parliamentary Elections\n\n\n\n\n\n\n\nApplied Political Communication\n\n\n\n\nSouthern European Society and Politics. doi: 10.1080/13608746.2017.1312768\n\n\n\n\n\n\n2017\n\n\nTriga, V.\n\n\n\n\n\n\n\n\nEvaluating the descriptive power of Instagram hashtags\n\n\n\n\n\n\n\nMedia and Social Media Monitoring\n\n\nPublic Opinion and Argument Mining\n\n\n\n\nJournal of Innovation in Digital Ecosystems, 3(2): 114–129\n\n\n\n\n\n\n2016\n\n\nGiannoulakis, S. and Tsapatsoulis, N.\n\n\n\n\n\n\n\n\nSpatial Maps in Voting Advice Applications: The Case for Dynamic Scale Validation\n\n\n\n\n\n\n\nApplied Political Communication\n\n\n\n\nActa Politica, 50(2): 214–238\n\n\n\n\n\n\n2015\n\n\nGermann, M., Mendez, F., Wheatley, J. and Serdült, U.\n\n\n\n\n\n\n\n\nWho Are the Internet Voters?\n\n\n\n\n\n\n\nApplied Political Communication\n\n\n\n\nIn: Tambouris et al. (eds.), Electronic Government and Electronic Participation, pp. 27–41. IOS Press\n\n\n\n\n\n\n2015\n\n\nSerdült, U., Germann, M., Harris, M., Mendez, F. and Portenier, A.\n\n\n\n\n\n\n\n\nOn the design of Social Voting Recommendation Applications\n\n\n\n\n\n\n\nApplied Political Communication\n\n\n\n\nInternational Journal on Artificial Intelligence Tools, 24(3): 1550009\n\n\n\n\n\n\n2015\n\n\nTsapatsoulis, N., Agathokleous, M., Djouvas, C. and Mendez, F.\n\n\n\n\n\n\n\n\nSocial voting advice applications — definitions, challenges, datasets and evaluation\n\n\n\n\n\n\n\nApplied Political Communication\n\n\n\n\nIEEE Transactions on Cybernetics, 44(7): 1039–1052\n\n\n\n\n\n\n2014\n\n\nKatakis, N., Tsapatsoulis, N., Mendez, F., Triga, V. and Djouvas, C.\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "team/person2.html#incididunt-ut-labore",
-    "href": "team/person2.html#incididunt-ut-labore",
-    "title": "Zach Stelling",
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See for additional discussion of literate programming. BBC."
+    "text": "DIGIPOLS brings together social scientists and computer scientists from the Cyprus University of Technology. The lab is coordinated by the Board of Directors and includes a growing group of research associates.\n\n\n\n\n  \n\n\n\n\nVasiliki Triga\n\n\nAssociate Professor — Board of Directors\n\n\nAssociate Professor, Department of Public Communication, Cyprus University of Technology. Research interests: Political Communication, Media and Social Media, Political Parties, Electoral Campaigns.\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nNikos Tsapatsoulis\n\n\nProfessor — Board of Directors\n\n\nProfessor, Department of Public Communication, Cyprus University of Technology. Research interests: Multimedia Information Retrieval, Web Data Mining, Recommender Systems, Collective Intelligence, Affective Computing.\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nConstantinos Djouvas\n\n\nAssociate Professor — Board of Directors\n\n\nAssociate Professor, Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: Big Data, Argument Mining, Social Media Analysis.\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nKostas Gemenis\n\n\nAssistant Professor — Research Associate\n\n\nAssistant Professor of Politics and the Internet, Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: Voting Advice Applications, Political Communication, Quantitative Text Analysis, Social Media and Conspiracy Beliefs.\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nNikandros Ioannides\n\n\nPhD Student — Research Associate\n\n\nPhD student at Pompeu Fabra University, Barcelona. Research interests: Contemporary Democracies, Party Politics, Political Participation, Voter-Party Congruence, Public Opinion.\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nAntonis Charalampous\n\n\nPhD Student — Research Associate\n\n\nPhD student, Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: Online Discourse Analysis, Argumentation, Social Media.\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nNelly Sergidou\n\n\nPhD Student — Research Associate\n\n\nPhD student, Cyprus University of Technology. Research interests: News Media and Social Media, Referendum Campaigns, Electoral Campaigns.\n\n\n\n\n \n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "team/person2.html#testing-figures",
-    "href": "team/person2.html#testing-figures",
-    "title": "Zach Stelling",
-    "section": "Testing figures",
-    "text": "Testing figures\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See for additional discussion of literate programming."
-  },
-  {
-    "objectID": "team/person1.html",
-    "href": "team/person1.html",
-    "title": "Vicky Triga",
+    "objectID": "team/djouvas.html",
+    "href": "team/djouvas.html",
+    "title": "Constantinos Djouvas",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See for additional discussion of literate programming. BBC."
+    "text": "Associate Professor at the Department of Communication and Internet Studies, Cyprus University of Technology (CUT). Ph.D. in Computer Networks from the City University of New York. Has participated in numerous EU-funded research projects and published in various journals related to Computer Science and Social and Political Science.\nResearch interests: Big Data, Argument Mining, Social Media Analysis.\nEmail: costas.tziouvas@cut.ac.cy"
   },
   {
-    "objectID": "team/person1.html#incididunt-ut-labore",
-    "href": "team/person1.html#incididunt-ut-labore",
-    "title": "Vicky Triga",
+    "objectID": "team/ioannides.html",
+    "href": "team/ioannides.html",
+    "title": "Nikandros Ioannides",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See for additional discussion of literate programming. BBC."
+    "text": "PhD student at Pompeu Fabra University in Barcelona under the supervision of Professor Toni Rodon. Holds a master’s degree in Democracy and Comparative Politics from University College London (UCL) and a bachelor’s degree in Communication and Internet Studies from the Cyprus University of Technology (CUT).\nResearch interests: Contemporary Democracies, Party Politics, Political Participation, Voter-Party Congruence, Public Opinion."
   },
   {
-    "objectID": "team/person1.html#testing-figures",
-    "href": "team/person1.html#testing-figures",
-    "title": "Vicky Triga",
-    "section": "Testing figures",
-    "text": "Testing figures\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. See for additional discussion of literate programming."
+    "objectID": "team/triga.html",
+    "href": "team/triga.html",
+    "title": "Vasiliki Triga",
+    "section": "",
+    "text": "Associate Professor at the Department of Public Communication, Cyprus University of Technology (CUT). Ph.D. in Social and Political Sciences from the European University Institute, Florence. Published in IEEE Transactions on Cybernetics, Southern European Society and Politics, Journal of Common Market Studies, and Public Management. Co-author of Referendums and the European Union: A Comparative Inquiry (Cambridge University Press, 2014).\nResearch interests: Political Communication, Media and Social Media, Political Parties, Electoral Campaigns.\nEmail: vasiliki.triga@cut.ac.cy"
   }
 ]

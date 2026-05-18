@@ -1,6 +1,13 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "*.qmd"
+    - "**/*.qmd"
+  resources:
+    - "images/"
+    - "publications/images_publications/"
+    - "highlights/images_highlights/"
 
 website:
   title: "DigiPols"
@@ -12,30 +19,20 @@ website:
         text: About
       - href: research.qmd
         text: Research
-      - href: news.qmd
-        text: News
       - href: publications.qmd
-        text: Publications      
+        text: Publications
+      - href: highlights.qmd
+        text: Highlights        
       - href: team.qmd
-        text: Team
-      - href: test.qmd
-        text: Test
-      - href: dashboard.qmd
-        text: Dashboard  
+        text: Team        
     logo: images/logo1.png
-  twitter-card: 
-    creator: "@dragonstyle" 
-    site: "@rstudio"
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
 
 knitr:
-   opts_chunk:
-     fig.path: "images/"
-     comment: "#>"
-     collapse: true
-
+  opts_chunk:
+    comment: "#>"
+    collapse: true

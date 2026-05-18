@@ -1,0 +1,12 @@
+---
+title: "Nikandros Ioannides"
+subtitle: "PhD Student — Research Associate"
+description: "PhD student at Pompeu Fabra University, Barcelona. Research interests: Contemporary Democracies, Party Politics, Political Participation, Voter-Party Congruence, Public Opinion."
+image: images_team/person1.png
+order: 5
+categories: [Research Associates]
+---
+
+PhD student at Pompeu Fabra University in Barcelona under the supervision of Professor Toni Rodon. Holds a master's degree in Democracy and Comparative Politics from University College London (UCL) and a bachelor's degree in Communication and Internet Studies from the Cyprus University of Technology (CUT).
+
+**Research interests:** Contemporary Democracies, Party Politics, Political Participation, Voter-Party Congruence, Public Opinion.

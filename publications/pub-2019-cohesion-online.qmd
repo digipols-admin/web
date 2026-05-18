@@ -1,0 +1,8 @@
+---
+title: "The Visibility and Communication of Cohesion Policy in Online Media"
+author: "Mendez, C., Triga, V., Bachtler, J., Djouvas, C., Mendez, F. and Stier, S."
+date: 2019-06-01
+description: "Report"
+categories: [Media and Social Media Monitoring, Public Opinion and Argument Mining]
+image: images_publications/placeholder.png
+---

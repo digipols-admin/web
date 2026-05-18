@@ -1,0 +1,14 @@
+---
+title: "Highlights"
+toc: false
+listing:
+  id: highlights-listing
+  contents: highlights
+  sort: "date desc"
+  type: default
+  fields: [image, date, title, description, categories]
+  categories: true
+---
+
+::: {#highlights-listing}
+:::

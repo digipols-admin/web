@@ -1,3 +1,8 @@
 .Rproj.user/
 /.quarto/
 /ignore_folder/*
+.DS_Store
+**/.DS_Store
+docs/_site/
+.Rhistory
+.RData

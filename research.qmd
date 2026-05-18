@@ -1,61 +1,21 @@
 ---
 title: "Research"
-format: html
 ---
-  
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
+DIGIPOLS research is organised around four clusters that bring together social scientists and computer scientists working on complementary areas.
 
-```{mermaid}
-%%| label: fig-mermaid
-%%| fig-width: 6
-%%| fig-cap: "Overview of organisation X research clusters"
+## Applied Political Communication
 
-flowchart LR
-  A[qmd] --> B(Knitr)
-  A[qmd] --> C(Jupyter)
-  B(Knitr) --> D[md]
-  C(Jupyter) --> D[md]
-  D[md] --> E(pandoc)
-  E(pandoc) --> F(HTML)
-  E(pandoc) --> G(PDF)
-  E(pandoc) --> H(Word)
-  E(pandoc) --> I{and more}
-  I{and more} --> A[qmd]
-```
+Political communication is concerned with how information is exchanged between political actors, from politicians and governments to civil society and citizens, and the role played by intermediary actors, such as the news media, in this transmission. The communication linkages are multi-faceted and increasingly digitalised. This cluster is focused on 'applied' aspects of political communication that involve experimentation, such as lab experiments and field experiments. Most of the ongoing research is associated with the pioneering work of DIGIPOLS researchers on Voting Advice Applications.
 
+## Media and Social Media Monitoring
 
+This research area is mainly centred on the development of data collection platforms that track particular domains of interest. Work has been conducted on building real-time data collection during election campaigns, for the evaluation of the communication of policy by the EU, as well as monitoring the latter's linguistic communication practices.
 
-## Cluster 1: Proin vehicula
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vehicula purus vel orci malesuada, nec feugiat lacus commodo. Sed dictum risus ac ligula commodo, non pulvinar eros iaculis.
+## Public Opinion & Argument Mining
 
-Focus areas include:
-- Citizen engagement in digital spaces
-- E-participation tools and platforms
-- Impacts of social media on democratic processes
+This research area is concerned with developing techniques and tools for the analysis of public opinion. It includes both traditional forms of public opinion, such as surveys, and more recent big data approaches to opinion mining. A complementary area of research is focused on argument mining, which draws inspiration from computational linguistics.
 
-## Cluster 2: Integer euismod
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer euismod purus non metus sollicitudin, a viverra enim facilisis. Phasellus vel mi a urna tincidunt dictum.
+## DIGIPOLS Forum
 
-Focus areas include:
-- Text analysis of political discourse
-- Network analysis of policy communities
-- Survey design and data analysis
-
-## Cluster 3: Vivamus ultricies
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies sapien vel sapien varius, id pretium ligula scelerisque. Cras pellentesque massa a leo elementum tristique.
-
-Focus areas include:
-- Media framing of political issues
-- Public opinion dynamics
-- Communication strategies in campaigns
-
-## Cluster 4: Donec eget
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Quisque nec consequat leo, sed consectetur mi. Donec eget mauris fringilla, vestibulum nulla et, dictum dolor.
-
-Focus areas include:
-- Design and evaluation of public policies
-- Behavioral insights in policy-making
-- Comparative studies of policy innovations
-
-Stay tuned for detailed projects and publications under each cluster as we continue to expand our work.
+The Forum is an umbrella organisation that periodically brings together DIGIPOLS researchers. The Forum keeps researchers abreast of the state-of-the-art and serves as a venue for the exchange of ideas. Crucially, the Forum provides strategic input and guidance to DIGIPOLS more specialised research clusters. It is also responsible for organising DIGIPOLS events.

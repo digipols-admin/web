@@ -1,0 +1,8 @@
+---
+title: "On the design of Social Voting Recommendation Applications"
+author: "Tsapatsoulis, N., Agathokleous, M., Djouvas, C. and Mendez, F."
+date: 2015-01-01
+description: "International Journal on Artificial Intelligence Tools, 24(3): 1550009"
+categories: [Applied Political Communication]
+image: images_publications/placeholder.png
+---
