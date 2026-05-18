@@ -11,26 +11,46 @@ project:
 
 website:
   title: "DigiPols"
+  description: "The Digital Politics & Political Communication Research Lab — Cyprus University of Technology"
+  site-url: "https://digipols.com"
+  favicon: images/favicon.svg
   navbar:
+    background: light
+    logo: images/logo.svg
+    logo-alt: "DigiPols"
+    title: true
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
       - href: research.qmd
         text: Research
       - href: publications.qmd
         text: Publications
       - href: highlights.qmd
-        text: Highlights        
+        text: Highlights
       - href: team.qmd
-        text: Team        
-    logo: images/logo1.png
+        text: Team
+      - href: about.qmd
+        text: About
+  page-footer:
+    background: light
+    border: true
+    left: |
+      © 2026 DigiPols · Department of Communication & Internet Studies, Cyprus University of Technology
+    right: |
+      Built with [Quarto](https://quarto.org)
 
 format:
   html:
-    theme: cosmo
+    theme: [cosmo, digipols.scss]
     css: styles.css
+    toc: true
+    toc-location: right
+    fontsize: 1rem
+    grid:
+      sidebar-width: 220px
+      body-width: 920px
+      margin-width: 220px
 
 knitr:
   opts_chunk:

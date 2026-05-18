@@ -1,21 +1,80 @@
 ---
 title: "Research"
+pagetitle: "Research — DigiPols"
+toc: true
+toc-location: right
 ---
 
-DIGIPOLS research is organised around four clusters that bring together social scientists and computer scientists working on complementary areas.
+```{=html}
+<div class="page-header">
+  <div class="eyebrow">Research at DigiPols</div>
+  <h1 style="font-size: clamp(2.4rem, 5vw, 3.6rem); line-height: 1.02; letter-spacing: -0.03em; font-weight: 500; max-width: 22ch; margin: 0;">Four clusters organised around digital politics.</h1>
+  <p class="lede">DigiPols research is organised around four clusters that bring together social scientists and computer scientists working on complementary areas. Each is coordinated through the DigiPols Forum.</p>
+</div>
+```
 
+::: {.research-cluster}
+::: {.rc-code}
+cluster.01<br/>
+[<span class="rc-dot" style="background: #2E6FE0;"></span>applied]{}
+:::
+::: {#applied-political-communication}
 ## Applied Political Communication
 
-Political communication is concerned with how information is exchanged between political actors, from politicians and governments to civil society and citizens, and the role played by intermediary actors, such as the news media, in this transmission. The communication linkages are multi-faceted and increasingly digitalised. This cluster is focused on 'applied' aspects of political communication that involve experimentation, such as lab experiments and field experiments. Most of the ongoing research is associated with the pioneering work of DIGIPOLS researchers on Voting Advice Applications.
+Political communication is concerned with how information is exchanged between political actors — from politicians and governments to civil society and citizens — and the role played by intermediary actors, such as the news media, in this transmission.
 
-## Media and Social Media Monitoring
+The communication linkages are multi-faceted and increasingly digitalised. This cluster is focused on the *applied* aspects of political communication that involve experimentation, such as lab and field experiments. Most of the ongoing research is associated with the pioneering work of DigiPols researchers on Voting Advice Applications.
 
-This research area is mainly centred on the development of data collection platforms that track particular domains of interest. Work has been conducted on building real-time data collection during election campaigns, for the evaluation of the communication of policy by the EU, as well as monitoring the latter's linguistic communication practices.
+::: {.rc-meta}
+**14** publications · **5** active projects · **Lead:** V. Triga
+:::
+:::
+:::
 
+::: {.research-cluster}
+::: {.rc-code}
+cluster.02<br/>
+[<span class="rc-dot" style="background: #D85A3C;"></span>monitoring]{}
+:::
+::: {#media-and-social-media-monitoring}
+## Media & Social Media Monitoring
+
+This area is centred on the development of data-collection platforms that track particular domains of interest. Work has been conducted on building real-time data collection during election campaigns, evaluating the communication of policy by the EU, and monitoring multilingual communication practices.
+
+::: {.rc-meta}
+**11** publications · **4** active projects · **Lead:** N. Tsapatsoulis
+:::
+:::
+:::
+
+::: {.research-cluster}
+::: {.rc-code}
+cluster.03<br/>
+[<span class="rc-dot" style="background: #4F8A4A;"></span>opinion]{}
+:::
+::: {#public-opinion-argument-mining}
 ## Public Opinion & Argument Mining
 
-This research area is concerned with developing techniques and tools for the analysis of public opinion. It includes both traditional forms of public opinion, such as surveys, and more recent big data approaches to opinion mining. A complementary area of research is focused on argument mining, which draws inspiration from computational linguistics.
+This cluster develops techniques and tools for the analysis of public opinion. It includes both traditional forms of public-opinion research, such as surveys, and more recent big-data approaches to opinion mining. A complementary area is argument mining, which draws inspiration from computational linguistics.
 
-## DIGIPOLS Forum
+::: {.rc-meta}
+**9** publications · **3** active projects · **Lead:** C. Djouvas
+:::
+:::
+:::
 
-The Forum is an umbrella organisation that periodically brings together DIGIPOLS researchers. The Forum keeps researchers abreast of the state-of-the-art and serves as a venue for the exchange of ideas. Crucially, the Forum provides strategic input and guidance to DIGIPOLS more specialised research clusters. It is also responsible for organising DIGIPOLS events.
+::: {.research-cluster}
+::: {.rc-code}
+cluster.04<br/>
+[<span class="rc-dot" style="background: #8C5BD2;"></span>forum]{}
+:::
+::: {#digipols-forum}
+## The DigiPols Forum
+
+The Forum is an umbrella organisation that periodically brings together DigiPols researchers. It keeps researchers abreast of the state-of-the-art and serves as a venue for the exchange of ideas. Crucially, the Forum provides strategic input and guidance to DigiPols' more specialised research clusters, and is responsible for organising lab events.
+
+::: {.rc-meta}
+**Convenes** 4×/yr · **Open to** all members
+:::
+:::
+:::

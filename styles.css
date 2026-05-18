@@ -1,17 +1,5 @@
-/* css styles */
+/* Minimal additions on top of the SCSS theme.
+   Most styling lives in digipols.scss — only put one-off page tweaks here. */
 
-/* Logo placement */
-.navbar-brand {
-  display: flex;
-  align-items: center;
-}
-
-.navbar-brand img {
-  max-height: 40px;
-  margin-right: 8px;
-}
-
-/* Carousel spacing */
-.carousel {
-  margin-bottom: 2rem;
-}
+/* Make sure the cosmo carousel doesn't appear on the new home */
+#spotlight { display: none; }

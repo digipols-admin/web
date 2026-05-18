@@ -1,0 +1,476 @@
+/*-- scss:defaults --*/
+
+// ============================================
+// DigiPols brand theme — extends Cosmo
+// Drop-in: theme: [cosmo, digipols.scss] in _quarto.yml
+// ============================================
+
+// Web fonts
+@import url('https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600;700&family=Geist+Mono:wght@400;500&display=swap');
+
+// --- Colors ---------------------------------------------------------
+$ink:        #0E1014;
+$ink-2:      #1F2228;
+$ink-3:      #565A63;
+$line:       #D9D6CE;
+$paper:      #F4F2EE;
+$paper-2:    #ECE9E2;
+$signal:     #2E6FE0;   // oklch(58% 0.18 254) flattened for cross-browser
+$signal-ink: #1A4FB8;
+
+// Per-cluster accents (used by category tags on publications/highlights)
+$c1: #2E6FE0; // applied political communication
+$c2: #D85A3C; // media monitoring
+$c3: #4F8A4A; // public opinion / argument mining
+$c4: #8C5BD2; // forum
+
+// Bootstrap variable overrides
+$primary:    $ink;
+$secondary:  $ink-3;
+$body-color: $ink-2;
+$body-bg:    $paper;
+$link-color: $signal;
+$link-hover-color: $signal-ink;
+$border-color: $line;
+
+// Typography
+$font-family-sans-serif: "Geist", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+$font-family-monospace:  "Geist Mono", ui-monospace, "SF Mono", Menlo, monospace;
+$headings-font-weight: 500;
+$headings-line-height: 1.1;
+$headings-letter-spacing: -0.02em;
+$font-size-base: 1rem;        // 16px
+$line-height-base: 1.55;
+$h1-font-size: 2.75rem;
+$h2-font-size: 2rem;
+$h3-font-size: 1.5rem;
+$h4-font-size: 1.2rem;
+
+// Navbar
+$navbar-bg:                  $paper;
+$navbar-fg:                  $ink-2;
+$navbar-hl:                  $ink;
+$navbar-padding-y:           0.75rem;
+$nav-link-font-weight:       500;
+
+// Cards / listings
+$card-bg:        $paper;
+$card-border-color: $line;
+$card-border-radius: 0;
+
+/*-- scss:rules --*/
+
+// ============================================
+// Custom styles
+// ============================================
+
+body {
+  letter-spacing: -0.005em;
+}
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+  letter-spacing: -0.022em;
+  color: $ink;
+}
+
+// --- Navbar ---------------------------------------------------------
+.navbar {
+  border-bottom: 1px solid $line;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.navbar-brand {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-weight: 600;
+  font-size: 1.15rem;
+  letter-spacing: -0.02em;
+  color: $ink !important;
+}
+
+.navbar-brand img {
+  height: 28px !important;
+  width: auto;
+}
+
+.navbar .nav-link {
+  font-size: 0.92rem;
+  letter-spacing: 0.005em;
+  color: $ink-2;
+  &.active, &:hover { color: $ink; }
+}
+
+// --- Hero -----------------------------------------------------------
+.digipols-hero {
+  position: relative;
+  margin: -1rem -2rem 3rem;
+  padding: 5.5rem 2rem 4rem;
+  border-bottom: 1px solid $line;
+  overflow: hidden;
+  isolation: isolate;
+
+  .hero-eyebrow {
+    font-family: $font-family-monospace;
+    font-size: 0.72rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: $ink-3;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6rem;
+    margin-bottom: 1.6rem;
+    &::before {
+      content: "";
+      display: inline-block;
+      width: 18px; height: 1px; background: $ink-3;
+    }
+  }
+
+  h1.hero-title {
+    font-size: clamp(2.4rem, 6vw, 5rem);
+    line-height: 0.98;
+    letter-spacing: -0.035em;
+    font-weight: 500;
+    margin: 0 0 1.8rem;
+    max-width: 18ch;
+    em { font-style: normal; color: $signal; }
+  }
+
+  .hero-lede {
+    font-size: 1.1rem;
+    line-height: 1.55;
+    color: $ink-2;
+    max-width: 60ch;
+    margin: 0;
+  }
+
+  .hero-bg {
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    pointer-events: none;
+  }
+
+  .hero-meta {
+    margin-top: 3rem;
+    font-family: $font-family-monospace;
+    font-size: 0.72rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: $ink-3;
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid $line;
+    padding-top: 1rem;
+  }
+}
+
+// --- Cluster grid (home + research) --------------------------------
+.cluster-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1px;
+  background: $line;
+  border: 1px solid $line;
+  margin: 2rem 0 3rem;
+
+  @media (max-width: 768px) { grid-template-columns: 1fr; }
+
+  .cluster {
+    background: $paper;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.9rem;
+    transition: background 120ms ease;
+    text-decoration: none;
+    color: inherit;
+    &:hover { background: $paper-2; }
+
+    .cluster-code {
+      font-family: $font-family-monospace;
+      font-size: 0.75rem;
+      color: $ink-3;
+      letter-spacing: 0.04em;
+    }
+    .cluster-title {
+      font-size: 1.5rem;
+      font-weight: 500;
+      letter-spacing: -0.02em;
+      color: $ink;
+      margin: 0;
+    }
+    .cluster-blurb {
+      font-size: 0.95rem;
+      line-height: 1.55;
+      color: $ink-2;
+      margin: 0;
+    }
+    .cluster-cta {
+      margin-top: auto;
+      font-family: $font-family-monospace;
+      font-size: 0.78rem;
+      color: $signal;
+    }
+  }
+}
+
+// --- Section headers ----------------------------------------------
+.section-eyebrow {
+  font-family: $font-family-monospace;
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: $ink-3;
+  margin: 0 0 0.4rem;
+}
+
+// --- Buttons -------------------------------------------------------
+.btn-primary {
+  --bs-btn-bg: #{$ink};
+  --bs-btn-border-color: #{$ink};
+  --bs-btn-hover-bg: #{$ink-2};
+  --bs-btn-hover-border-color: #{$ink-2};
+  border-radius: 0;
+  font-weight: 500;
+  letter-spacing: 0.005em;
+}
+.btn-outline-primary {
+  --bs-btn-color: #{$ink};
+  --bs-btn-border-color: #{$ink};
+  --bs-btn-hover-bg: #{$ink};
+  --bs-btn-hover-color: #{$paper};
+  border-radius: 0;
+  font-weight: 500;
+}
+
+// --- Listings (publications / team / highlights) -------------------
+.quarto-listing {
+  margin-top: 1.5rem;
+}
+
+// Default listing — cards as horizontal rows
+.list .quarto-post {
+  border: 1px solid $line;
+  border-radius: 0;
+  background: $paper;
+  padding: 1.25rem 1.4rem;
+  margin-bottom: -1px;             // collapse borders into single rule
+  transition: background 120ms ease;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 1rem;
+  &:hover { background: $paper-2; }
+  .listing-title, h3.listing-title {
+    font-size: 1.05rem;
+    font-weight: 500;
+    letter-spacing: -0.015em;
+    line-height: 1.3;
+    margin: 0 0 0.4rem;
+    a { color: $ink; }
+  }
+  .listing-subtitle {
+    font-family: $font-family-monospace;
+    font-size: 0.72rem;
+    letter-spacing: 0.04em;
+    color: $ink-3;
+    text-transform: uppercase;
+    margin-bottom: 0.4rem;
+  }
+  .listing-description {
+    font-size: 0.92rem;
+    line-height: 1.5;
+    color: $ink-2;
+  }
+  .listing-date, .listing-author {
+    font-family: $font-family-monospace;
+    font-size: 0.78rem;
+    color: $ink-3;
+    text-align: right;
+  }
+  .listing-categories {
+    margin-top: 0.5rem;
+    display: flex; gap: 0.4rem; flex-wrap: wrap;
+  }
+  .listing-category {
+    display: inline-flex; align-items: center; gap: 0.4rem;
+    font-family: $font-family-monospace;
+    font-size: 0.7rem; letter-spacing: 0.04em;
+    padding: 0.15rem 0.55rem;
+    border: 1px solid $line;
+    background: $paper;
+    color: $ink-2;
+    text-transform: lowercase;
+    border-radius: 0;
+    &::before {
+      content: ""; width: 6px; height: 6px; border-radius: 50%;
+      background: $ink-3;
+    }
+    // Per-category accents — Quarto adds the category name to the class
+    &.category-applied-political-communication,
+    &.category-Applied-Political-Communication { &::before { background: $c1; } color: $c1; }
+    &.category-media-monitoring,
+    &.category-Media-and-Social-Media-Monitoring { &::before { background: $c2; } color: $c2; }
+    &.category-public-opinion,
+    &.category-Public-Opinion-Argument-Mining { &::before { background: $c3; } color: $c3; }
+    &.category-forum,
+    &.category-DIGIPOLS-Forum,
+    &.category-Forum { &::before { background: $c4; } color: $c4; }
+    &.category-directors,
+    &.category-Directors { &::before { background: $ink; } color: $ink; }
+  }
+}
+
+// Grid listing (team uses image-align: left or grid)
+.quarto-grid-item {
+  border: 1px solid $line;
+  border-radius: 0;
+  background: $paper;
+  padding: 1.4rem;
+  margin: 0;
+  transition: background 120ms ease;
+  &:hover { background: $paper-2; }
+  .listing-title { font-weight: 500; letter-spacing: -0.015em; font-size: 1.1rem; }
+  .listing-subtitle {
+    font-family: $font-family-monospace;
+    font-size: 0.72rem;
+    color: $ink-3;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+  .listing-description { font-size: 0.88rem; line-height: 1.5; color: $ink-2; }
+  img, .thumbnail-image {
+    border-radius: 50% !important;
+    width: 64px !important;
+    height: 64px !important;
+    object-fit: cover;
+    border: 1px solid $line;
+  }
+}
+
+// Category sidebar (used on publications/highlights with categories: true)
+.quarto-listing-category {
+  font-family: $font-family-monospace;
+  font-size: 0.78rem;
+  .category {
+    padding: 0.3rem 0.6rem;
+    cursor: pointer;
+    border-radius: 0;
+    color: $ink-2;
+    &:hover { background: $paper-2; }
+    &.active { background: $ink; color: $paper; }
+  }
+}
+
+// Filter / sort UI bar
+.input-group, .quarto-listing-filter, .quarto-listing-sort {
+  font-family: $font-family-sans-serif;
+  font-size: 0.85rem;
+  .form-control, .form-select {
+    border-radius: 0;
+    border-color: $line;
+    background: $paper;
+    color: $ink;
+    &:focus {
+      border-color: $ink;
+      box-shadow: none;
+    }
+  }
+}
+
+// --- Research cluster blocks (research.qmd) -----------------------
+// Apply a hanging "cluster.NN" code column when headings have an id.
+.research-cluster {
+  display: grid;
+  grid-template-columns: 110px 1fr;
+  gap: 2rem;
+  padding: 3rem 0;
+  border-top: 1px solid $line;
+  &:last-of-type { border-bottom: 1px solid $line; }
+  @media (max-width: 768px) { grid-template-columns: 1fr; gap: 1rem; }
+  .rc-code {
+    font-family: $font-family-monospace;
+    font-size: 0.78rem;
+    letter-spacing: 0.04em;
+    color: $ink-3;
+    padding-top: 0.5rem;
+    .rc-dot {
+      display: inline-block;
+      width: 10px; height: 10px;
+      border-radius: 50%;
+      margin-right: 0.4rem;
+      vertical-align: 0;
+    }
+  }
+  h2 {
+    font-size: 2.4rem;
+    font-weight: 500;
+    letter-spacing: -0.03em;
+    line-height: 1.02;
+    margin: 0 0 1.2rem;
+  }
+  p {
+    font-size: 1.05rem;
+    line-height: 1.6;
+    color: $ink-2;
+    max-width: 62ch;
+    margin: 0 0 1rem;
+  }
+  .rc-meta {
+    margin-top: 1.4rem;
+    display: flex; gap: 1.5rem; flex-wrap: wrap;
+    font-family: $font-family-monospace;
+    font-size: 0.78rem;
+    color: $ink-3;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    strong { color: $ink; font-weight: 500; }
+  }
+}
+
+// --- Page header helper (use inside qmd HTML blocks) --------------
+.page-header {
+  padding: 1.5rem 0 2rem;
+  border-bottom: 1px solid $line;
+  margin-bottom: 2.5rem;
+  .eyebrow {
+    font-family: $font-family-monospace;
+    font-size: 0.72rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: $ink-3;
+    display: inline-flex; align-items: center; gap: 0.6rem;
+    margin-bottom: 1.2rem;
+    &::before {
+      content: "";
+      display: inline-block;
+      width: 18px; height: 1px;
+      background: $ink-3;
+    }
+  }
+  .lede {
+    font-size: 1.1rem;
+    line-height: 1.55;
+    color: $ink-2;
+    margin: 1.2rem 0 0;
+    max-width: 60ch;
+  }
+}
+
+// --- Footer --------------------------------------------------------
+.nav-footer {
+  background: $paper-2;
+  border-top: 1px solid $line;
+  font-size: 0.85rem;
+  color: $ink-3;
+  padding: 2rem 0;
+}
+
+// --- Inline code / mono small caps --------------------------------
+code, kbd, pre, samp { font-family: $font-family-monospace; }
+
+// kill the old bootstrap carousel area when present (we replace it)
+.digipols-hero ~ #spotlight { display: none; }
