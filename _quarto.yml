@@ -42,6 +42,7 @@ format:
   html:
     theme: [cosmo, digipols.scss]
     css: styles.css
+    math: false
     toc: true
     toc-location: right
     fontsize: 1rem
