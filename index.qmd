@@ -21,7 +21,7 @@ page-layout: full
 </section>
 
 <p class="section-eyebrow">↳ Research clusters</p>
-<h2 style="margin:0 0 1rem; font-weight:500; letter-spacing:-0.025em;">Four clusters, one forum.</h2>
+<h2 style="margin:0 0 1rem; font-weight:500; letter-spacing:-0.025em;">Four clusters, one forum</h2>
 
 <div class="cluster-grid">
   <a class="cluster" href="research.html#applied-political-communication">
@@ -69,7 +69,7 @@ Read the latest news, project launches and lab events.
 :::
 
 ::: {.g-col-6}
-**Publications →**
+**Publications →** 
 
 Peer-reviewed papers, reports and book chapters from the lab.
 
