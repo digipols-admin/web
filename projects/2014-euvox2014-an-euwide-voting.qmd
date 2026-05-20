@@ -1,0 +1,9 @@
+---
+title: "EUVox2014: An EU-wide voting advice application (VAA) for the 2014 elections to the European Parliament"
+date: "2014"
+year: "2014"
+funder: "Open Society Initiative for Europe & DG for Communication of the European Parliament (area of internet-based activities/online media)"
+categories: [Applied Political Communication]
+---
+
+EUVox2014: An EU-wide voting advice application (VAA) for the 2014 elections to the European Parliament

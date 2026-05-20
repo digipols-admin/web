@@ -1,0 +1,9 @@
+---
+title: "OPINION - What are Opinions? Integrating Theory and Methods for Automatically Analyzing Opinionated Communication"
+date: "2022"
+year: "2022-2026"
+funder: "European Cooperation in Science and Technology, CA21129"
+categories: [Public Opinion & Argument Mining]
+---
+
+OPINION - What are Opinions? Integrating Theory and Methods for Automatically Analyzing Opinionated Communication

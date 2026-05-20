@@ -24,6 +24,8 @@ website:
     left:
       - href: research.qmd
         text: Research
+      - href: projects.qmd
+        text: Projects
       - href: publications.qmd
         text: Publications
       - href: highlights.qmd

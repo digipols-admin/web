@@ -1,0 +1,22 @@
+---
+title: "Projects"
+pagetitle: "Projects — DigiPols"
+toc: false
+listing:
+  contents: projects
+  type: table
+  sort: "date desc"
+  categories: true
+  fields: [year, title, funder, categories]
+  field-display-names:
+    year: "Year"
+    funder: "Funding Body"
+    title: "Project Title"
+    categories: "Cluster"
+---
+
+## Funded projects & initiatives {style="border-bottom: none;"}
+
+An overview of ongoing and completed research projects across our four clusters.
+
+---
