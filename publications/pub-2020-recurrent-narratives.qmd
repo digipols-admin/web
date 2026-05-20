@@ -1,0 +1,8 @@
+---
+title: "Recurrent narratives around the COVID-19 crisis in social networks: A case study analysis on Facebook"
+author: "Papa V., and Maniou, Th."
+date: 2020-01-01
+description: "Tripodos, 27(2), 11-28."
+categories: [Media and Social Media Monitoring]
+image: images_publications/placeholder.png
+---

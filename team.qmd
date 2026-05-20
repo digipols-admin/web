@@ -15,6 +15,7 @@ listing:
     image-height: "120px"
   - id: associates
     contents:
+      - "team/pappa.qmd"
       - "team/gemenis.qmd"
       - "team/ioannides.qmd"
       - "team/charalampous.qmd"
@@ -30,16 +31,16 @@ listing:
 <div class="page-header">
 <!--  <div class="eyebrow">Team</div> -->
   <h1 style="font-size: clamp(2.4rem, 5vw, 3.6rem); line-height: 1.02; letter-spacing: -0.03em; font-weight: 500; max-width: 22ch; margin: 0;">Social scientists & computer scientists, working together.</h1>
-  <p class="lede">DigiPols brings together researchers from the Cyprus University of Technology. The lab is coordinated by a Board of Directors and includes a growing group of research associates and PhD candidates.</p>
+  <p class="lede">DigiPols brings together researchers from the Cyprus University of Technology. The lab is coordinated by a group of Coordinators and includes a growing group of researchers and PhD candidates.</p>
 </div>
 ```
 
-## Board of Directors
+## Coordinators
 
 ::: {#directors}
 :::
 
-## Research Associates
+## Researchers
 
 ::: {#associates}
 :::
@@ -49,7 +50,7 @@ listing:
   <p style="font-family: 'Geist Mono', monospace; font-size: 0.72rem; letter-spacing: 0.08em; text-transform: uppercase; color: #565A63; margin: 0 0 1rem;">↳ Open positions</p>
   <h2 style="font-size:1.6rem; margin: 0 0 0.8rem;">Interested in joining the lab?</h2>
   <p style="max-width: 60ch; font-size: 1rem; line-height: 1.55; color: #1F2228; margin: 0 0 1.2rem;">
-    We periodically open positions for PhD candidates, postdoctoral researchers and research associates. Get in touch if your work touches digital politics, computational social science or Voting Advice Applications.
+    We periodically open positions for PhD candidates, postdoctoral researchers and researchers. Get in touch if your work touches digital politics, computational social science or Voting Advice Applications.
   </p>
   <a class="btn btn-primary" href="mailto:digipols@cut.ac.cy">Contact the lab →</a>
 </section>

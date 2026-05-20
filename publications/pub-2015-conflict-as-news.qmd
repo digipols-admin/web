@@ -1,0 +1,8 @@
+---
+title: "“Conflict as news and News as conflict: a multidimensional content analysis of TV news in Cyprus”"
+author: "Milioni D., Doudaki V., Tsiligiannis P., Papa, V., and Vadratsikas, K."
+date: 2015-01-01
+description: "International Journal of Communication, 9, 752-772."
+categories: [Media and Social Media Monitoring]
+image: images_publications/placeholder.png
+---

@@ -1,10 +1,10 @@
 ---
 title: "Constantinos Djouvas"
-subtitle: "Associate Professor — Board of Directors"
+subtitle: "Associate Professor — Coordinators"
 description: "Associate Professor, Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: Big Data, Argument Mining, Social Media Analysis."
 image: images_team/costas.png
 order: 3
-categories: [Directors]
+categories: [Coordinators]
 ---
 
 Associate Professor at the Department of Communication and Internet Studies, Cyprus University of Technology (CUT). Ph.D. in Computer Networks from the City University of New York. Has participated in numerous EU-funded research projects and published in various journals related to Computer Science and Social and Political Science.

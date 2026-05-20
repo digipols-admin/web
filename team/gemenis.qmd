@@ -1,10 +1,10 @@
 ---
 title: "Kostas Gemenis"
-subtitle: "Assistant Professor — Research Associate"
+subtitle: "Assistant Professor — Researchers"
 description: "Assistant Professor of Politics and the Internet, Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: Voting Advice Applications, Political Communication, Quantitative Text Analysis, Social Media and Conspiracy Beliefs."
 image: images_team/gemenis.png
 order: 4
-categories: [Research Associates]
+categories: [Researchers]
 ---
 
 Assistant Professor of Politics and the Internet in the Department of Communication and Internet Studies, Cyprus University of Technology. Ph.D. in Politics and International Relations from Keele University, UK. Published in Political Communication, Communication Methods and Measures, and Electoral Studies. Co-designed a module to study conspiracy theories related to the COVID-19 pandemic for the 10th Round of the European Social Survey (ESS).

@@ -1,10 +1,10 @@
 ---
 title: "Nikos Tsapatsoulis"
-subtitle: "Professor — Board of Directors"
+subtitle: "Professor — Coordinators"
 description: "Professor, Department of Public Communication, Cyprus University of Technology. Research interests: Multimedia Information Retrieval, Web Data Mining, Recommender Systems, Collective Intelligence, Affective Computing."
 image: images_team/nikos.png
 order: 2
-categories: [Directors]
+categories: [Coordinators]
 ---
 
 Professor at the Department of Public Communication, Cyprus University of Technology (CUT). Ph.D. in Image Analysis and Synthesis from the School of Electrical and Computer Engineering, National Technical University of Athens (2000). His research has been recognised by the international research community through more than 4000 independent citations.

@@ -169,5 +169,26 @@
   },
   "about copy.qmd": {
     "about copy.html": "37fc3131"
+  },
+  "team/pappa.qmd": {
+    "pappa.html": "777853b8"
+  },
+  "publications/pub-2015-conflict-as-news.qmd": {
+    "pub-2015-conflict-as-news.html": "f1bbe614"
+  },
+  "publications/pub-2017-to-all-activists.qmd": {
+    "pub-2017-to-all-activists.html": "8b9b7e0b"
+  },
+  "publications/pub-2020-recurrent-narratives.qmd": {
+    "pub-2020-recurrent-narratives.html": "148bc367"
+  },
+  "publications/pub-2020-salience-fakeness.qmd": {
+    "pub-2020-salience-fakeness.html": "6a413133"
+  },
+  "publications/pub-2021-algorithmic-curation.qmd": {
+    "pub-2021-algorithmic-curation.html": "adc67482"
+  },
+  "publications/pub-2021-journalism-education.qmd": {
+    "pub-2021-journalism-education.html": "2eaf4738"
   }
 }

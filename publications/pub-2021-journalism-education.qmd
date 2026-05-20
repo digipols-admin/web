@@ -1,0 +1,8 @@
+---
+title: "Journalism education in the post-truth era: An exploration of the voices of journalism students in Greece and Cyprus"
+author: "Theodosiadou S., Spyridou P-L., Panayiotou N., Milioni D. and Papa, V."
+date: 2021-01-01
+description: "Media Practice and Education, 22(1), 1-14."
+categories: [Applied Political Communication]
+image: images_publications/placeholder.png
+---

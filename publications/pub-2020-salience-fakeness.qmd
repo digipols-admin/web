@@ -1,0 +1,8 @@
+---
+title: "Salience of Fakeness: Experimental Evidence on Readers’ Distinction between Mainstream Media Content and Altered News Stories"
+author: "Maniou Th., Papa, V., and Bantimaroudis, Ph."
+date: 2020-01-01
+description: "Journal of Communication: Media Watch, 11 (3), 386-400."
+categories: [Public Opinion and Argument Mining]
+image: images_publications/placeholder.png
+---

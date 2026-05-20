@@ -2,23 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://digipols.com/team/tsapatsoulis.html</loc>
-    <lastmod>2026-05-18T09:01:46.000Z</lastmod>
+    <lastmod>2026-05-20T06:16:30.554Z</lastmod>
   </url>
   <url>
-    <loc>https://digipols.com/team/sergidou.html</loc>
-    <lastmod>2026-05-18T15:33:15.964Z</lastmod>
+    <loc>https://digipols.com/team/pappa.html</loc>
+    <lastmod>2026-05-20T06:16:49.754Z</lastmod>
   </url>
   <url>
     <loc>https://digipols.com/team/gemenis.html</loc>
-    <lastmod>2026-05-18T10:23:39.000Z</lastmod>
+    <lastmod>2026-05-20T06:16:43.729Z</lastmod>
   </url>
   <url>
     <loc>https://digipols.com/team/charalampous.html</loc>
-    <lastmod>2026-05-18T15:21:29.761Z</lastmod>
+    <lastmod>2026-05-20T06:16:45.739Z</lastmod>
   </url>
   <url>
     <loc>https://digipols.com/research.html</loc>
     <lastmod>2026-05-18T19:10:07.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://digipols.com/publications/pub-2021-journalism-education.html</loc>
+    <lastmod>2026-05-20T06:07:58.807Z</lastmod>
+  </url>
+  <url>
+    <loc>https://digipols.com/publications/pub-2020-salience-fakeness.html</loc>
+    <lastmod>2026-05-20T06:08:02.842Z</lastmod>
   </url>
   <url>
     <loc>https://digipols.com/publications/pub-2020-cohesion-media.html</loc>
@@ -33,11 +41,15 @@
     <lastmod>2026-05-18T08:10:36.000Z</lastmod>
   </url>
   <url>
-    <loc>https://digipols.com/publications/pub-2016-instagram-descriptive.html</loc>
+    <loc>https://digipols.com/publications/pub-2017-parliamentary-elections.html</loc>
     <lastmod>2026-05-18T08:10:36.000Z</lastmod>
   </url>
   <url>
-    <loc>https://digipols.com/publications/pub-2015-social-voting-apps.html</loc>
+    <loc>https://digipols.com/publications/pub-2015-spatial-maps.html</loc>
+    <lastmod>2026-05-18T08:10:36.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://digipols.com/publications/pub-2015-internet-voters.html</loc>
     <lastmod>2026-05-18T08:10:36.000Z</lastmod>
   </url>
   <url>
@@ -69,16 +81,20 @@
     <lastmod>2026-05-18T19:10:08.000Z</lastmod>
   </url>
   <url>
-    <loc>https://digipols.com/publications/pub-2015-internet-voters.html</loc>
+    <loc>https://digipols.com/publications/pub-2015-conflict-as-news.html</loc>
+    <lastmod>2026-05-20T06:08:06.872Z</lastmod>
+  </url>
+  <url>
+    <loc>https://digipols.com/publications/pub-2015-social-voting-apps.html</loc>
     <lastmod>2026-05-18T08:10:36.000Z</lastmod>
   </url>
   <url>
-    <loc>https://digipols.com/publications/pub-2015-spatial-maps.html</loc>
+    <loc>https://digipols.com/publications/pub-2016-instagram-descriptive.html</loc>
     <lastmod>2026-05-18T08:10:36.000Z</lastmod>
   </url>
   <url>
-    <loc>https://digipols.com/publications/pub-2017-parliamentary-elections.html</loc>
-    <lastmod>2026-05-18T08:10:36.000Z</lastmod>
+    <loc>https://digipols.com/publications/pub-2017-to-all-activists.html</loc>
+    <lastmod>2026-05-20T06:08:04.856Z</lastmod>
   </url>
   <url>
     <loc>https://digipols.com/publications/pub-2018-presidential-elections.html</loc>
@@ -89,23 +105,31 @@
     <lastmod>2026-05-18T08:10:36.000Z</lastmod>
   </url>
   <url>
+    <loc>https://digipols.com/publications/pub-2020-recurrent-narratives.html</loc>
+    <lastmod>2026-05-20T06:08:00.824Z</lastmod>
+  </url>
+  <url>
+    <loc>https://digipols.com/publications/pub-2021-algorithmic-curation.html</loc>
+    <lastmod>2026-05-20T06:07:56.797Z</lastmod>
+  </url>
+  <url>
     <loc>https://digipols.com/publications/pub-2022-multilingualism.html</loc>
     <lastmod>2026-05-18T17:42:20.417Z</lastmod>
   </url>
   <url>
     <loc>https://digipols.com/team.html</loc>
-    <lastmod>2026-05-18T19:07:36.000Z</lastmod>
+    <lastmod>2026-05-20T06:17:18.212Z</lastmod>
   </url>
   <url>
     <loc>https://digipols.com/team/djouvas.html</loc>
-    <lastmod>2026-05-18T08:56:49.000Z</lastmod>
+    <lastmod>2026-05-20T06:16:26.523Z</lastmod>
   </url>
   <url>
     <loc>https://digipols.com/team/ioannides.html</loc>
-    <lastmod>2026-05-18T09:34:06.000Z</lastmod>
+    <lastmod>2026-05-20T06:16:47.746Z</lastmod>
   </url>
   <url>
     <loc>https://digipols.com/team/triga.html</loc>
-    <lastmod>2026-05-18T08:56:12.000Z</lastmod>
+    <lastmod>2026-05-20T06:16:28.532Z</lastmod>
   </url>
 </urlset>
