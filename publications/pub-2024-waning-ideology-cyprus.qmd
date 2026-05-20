@@ -1,0 +1,8 @@
+---
+title: "The Waning of Ideology? Presidential elections in the Republic of Cyprus, 5 February 2023"
+author: "Triga, V., Ioannidis, N., and Djouvas, C."
+date: 2024-01-01
+description: "South European Society and Politics, 28(2). doi: 10.1080/13608746.2024.2304445"
+categories: [Applied Political Communication]
+image: images_publications/journal-article.png
+---

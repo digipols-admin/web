@@ -1,0 +1,8 @@
+---
+title: "Weeding out the rogues: How to identify them and why it matters for VAA-generated datasets"
+author: "Djouvas, C., Gemenis, K., and Mendez, F."
+date: 2014-01-01
+description: "European Consortium for Political Research (ECPR 2014)"
+categories: [Applied Political Communication]
+image: images_publications/conference.png
+---

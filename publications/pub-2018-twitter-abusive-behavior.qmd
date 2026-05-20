@@ -1,0 +1,8 @@
+---
+title: "Large Scale Crowdsourcing and Characterization of Twitter Abusive Behavior"
+author: "Founta, A., Djouvas, C., Chatzakou, D., Leontiadis, I., Blackburn, J., Stringhini, G., Vakali, A., Sirivianos, M., and Kourtellis, N."
+date: 2018-01-01
+description: "International AAAI Conference on Web and Social Media (ICWSM 2018)"
+categories: [Media and Social Media Monitoring]
+image: images_publications/conference.png
+---

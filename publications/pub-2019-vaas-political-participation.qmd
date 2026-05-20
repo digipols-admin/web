@@ -1,0 +1,8 @@
+---
+title: "The Impact of VAAs on (non-Voting) Aspects of Political Participation: Insights from Panel Data Collected During the 2017 German Elections Campaign"
+author: "Manavopoulos, V., Triga, V., Marschall, S., and Wurthmann, C."
+date: 2019-01-01
+description: "Statistics, Policy and Politics, 9(2), 105–134. doi: 10.1515/spp-2018-0008"
+categories: [Applied Political Communication]
+image: images_publications/journal-article.png
+---

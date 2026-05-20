@@ -1,0 +1,8 @@
+---
+title: "Creating public value in regional policy. Bringing citizens back in"
+author: "Mendez, C., Pegan, A., and Triga, V."
+date: 2024-01-01
+description: "Public Management Review, 26, 811–835. doi: 10.1080/14719037.2022.2126880"
+categories: [Applied Political Communication]
+image: images_publications/journal-article.png
+---

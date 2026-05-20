@@ -1,0 +1,8 @@
+---
+title: "Conspiratorial narratives on Facebook and their historical contextual associations: A case study from Cyprus"
+author: "Kouros, Th., Papa, V., Ioannou, M., and Kapnisis, V."
+date: 2022-01-01
+description: "Journal of Communication Inquiry. doi: 10.1177/01968599221117235"
+categories: [Media and Social Media Monitoring]
+image: images_publications/journal-article.png
+---

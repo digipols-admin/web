@@ -1,0 +1,8 @@
+---
+title: "Mapping Voters' Engagement with Political Information Sites: The Case of Voting Advice Applications"
+author: "Djouvas, C., Manavopoulos, V., and Mendez, F."
+date: 2021-01-01
+description: "European Consortium for Political Research General Conference (ECPR 2021)"
+categories: [Applied Political Communication]
+image: images_publications/conference.png
+---

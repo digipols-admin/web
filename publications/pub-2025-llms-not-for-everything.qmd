@@ -1,0 +1,8 @@
+---
+title: "LLMs are not for everything: A Dataset and Comparative Study on Argument Strength Classification"
+author: "Djouvas, C., Charalampous, A., Christodoulou, C.J., and Tsapatsoulis, N."
+date: 2025-01-01
+description: "Proceedings of the 28th Pan-Hellenic Conference on Progress in Computing and Informatics, 437–443"
+categories: [Public Opinion and Argument Mining]
+image: images_publications/conference.png
+---

@@ -283,5 +283,140 @@
   },
   "highlights/cy-vaa.qmd": {
     "cy-vaa.html": "ff292948"
+  },
+  "publications/pub-2012-clustering-online-poll.qmd": {
+    "pub-2012-clustering-online-poll.html": "ea754e0a"
+  },
+  "publications/pub-2012-middle-answer-category-vaa.qmd": {
+    "pub-2012-middle-answer-category-vaa.html": "1c225ed1"
+  },
+  "publications/pub-2014-methodological-challenges-vaa.qmd": {
+    "pub-2014-methodological-challenges-vaa.html": "1640276c"
+  },
+  "publications/pub-2014-referendums-european-union.qmd": {
+    "pub-2014-referendums-european-union.html": "44023f66"
+  },
+  "publications/pub-2014-vaa-architecture.qmd": {
+    "pub-2014-vaa-architecture.html": "19a7ced4"
+  },
+  "publications/pub-2014-weeding-out-rogues.qmd": {
+    "pub-2014-weeding-out-rogues.html": "ffdc0665"
+  },
+  "publications/pub-2015-pattern-based-rogue.qmd": {
+    "pub-2015-pattern-based-rogue.html": "a6b040a1"
+  },
+  "publications/pub-2015-smartcoding.qmd": {
+    "pub-2015-smartcoding.html": "fc58eef3"
+  },
+  "publications/pub-2016-mining-political-opinion.qmd": {
+    "pub-2016-mining-political-opinion.html": "0d09da62"
+  },
+  "publications/pub-2016-party-user-similarity-hmm.qmd": {
+    "pub-2016-party-user-similarity-hmm.html": "e496bae6"
+  },
+  "publications/pub-2017-different-technologies-vaa.qmd": {
+    "pub-2017-different-technologies-vaa.html": "4919a11e"
+  },
+  "publications/pub-2018-algorithmic-profiling-news.qmd": {
+    "pub-2018-algorithmic-profiling-news.html": "ed1191a3"
+  },
+  "publications/pub-2018-social-vote-recommendation.qmd": {
+    "pub-2018-social-vote-recommendation.html": "3d18d112"
+  },
+  "publications/pub-2018-twitter-abusive-behavior.qmd": {
+    "pub-2018-twitter-abusive-behavior.html": "c6cd6e88"
+  },
+  "publications/pub-2018-vaa-balancing-tool.qmd": {
+    "pub-2018-vaa-balancing-tool.html": "654cca62"
+  },
+  "publications/pub-2019-mode-administration-data-quality.qmd": {
+    "pub-2019-mode-administration-data-quality.html": "d5097d9e"
+  },
+  "publications/pub-2019-opinion-mining-social-media.qmd": {
+    "pub-2019-opinion-mining-social-media.html": "c0a287d9"
+  },
+  "publications/pub-2019-vaas-political-participation.qmd": {
+    "pub-2019-vaas-political-participation.html": "7dbde311"
+  },
+  "publications/pub-2021-data-activism-iamcr.qmd": {
+    "pub-2021-data-activism-iamcr.html": "372a643f"
+  },
+  "publications/pub-2021-mapping-voters-engagement.qmd": {
+    "pub-2021-mapping-voters-engagement.html": "c869aa57"
+  },
+  "publications/pub-2021-vote-switching-afd.qmd": {
+    "pub-2021-vote-switching-afd.html": "05fbea59"
+  },
+  "publications/pub-2022-conspiratorial-narratives.qmd": {
+    "pub-2022-conspiratorial-narratives.html": "12b87456"
+  },
+  "publications/pub-2022-cult-committee-multilingualism.qmd": {
+    "pub-2022-cult-committee-multilingualism.html": "df385499"
+  },
+  "publications/pub-2022-emotional-user-experience.qmd": {
+    "pub-2022-emotional-user-experience.html": "ac65ab4d"
+  },
+  "publications/pub-2022-eu-multilingualism-report.qmd": {
+    "pub-2022-eu-multilingualism-report.html": "ba09200b"
+  },
+  "publications/pub-2022-news-recommender-algorithm.qmd": {
+    "pub-2022-news-recommender-algorithm.html": "844b1e7d"
+  },
+  "publications/pub-2022-oppositional-affordances.qmd": {
+    "pub-2022-oppositional-affordances.html": "40eb6a41"
+  },
+  "publications/pub-2022-quo-vadis-computer-science.qmd": {
+    "pub-2022-quo-vadis-computer-science.html": "c8019bb7"
+  },
+  "publications/pub-2023-as-bad-as-humans.qmd": {
+    "pub-2023-as-bad-as-humans.html": "caafb9fe"
+  },
+  "publications/pub-2023-facebook-civic-participation.qmd": {
+    "pub-2023-facebook-civic-participation.html": "8f4004f8"
+  },
+  "publications/pub-2023-facebook-google-journalism.qmd": {
+    "pub-2023-facebook-google-journalism.html": "795055b2"
+  },
+  "publications/pub-2023-identifying-euroscepticism.qmd": {
+    "pub-2023-identifying-euroscepticism.html": "7380c223"
+  },
+  "publications/pub-2023-protest-greece-facebook.qmd": {
+    "pub-2023-protest-greece-facebook.html": "8d4aa113"
+  },
+  "publications/pub-2023-science-news-covid19.qmd": {
+    "pub-2023-science-news-covid19.html": "8ba7ab45"
+  },
+  "publications/pub-2024-public-value-regional-policy.qmd": {
+    "pub-2024-public-value-regional-policy.html": "2786b1a0"
+  },
+  "publications/pub-2024-slantwise-disengagement.qmd": {
+    "pub-2024-slantwise-disengagement.html": "e05e2caa"
+  },
+  "publications/pub-2024-strategic-choices.qmd": {
+    "pub-2024-strategic-choices.html": "46afc889"
+  },
+  "publications/pub-2024-videography-social-movement.qmd": {
+    "pub-2024-videography-social-movement.html": "531d68fc"
+  },
+  "publications/pub-2024-waning-ideology-cyprus.qmd": {
+    "pub-2024-waning-ideology-cyprus.html": "01be6f58"
+  },
+  "publications/pub-2025-biased-by-design.qmd": {
+    "pub-2025-biased-by-design.html": "848dd0e9"
+  },
+  "publications/pub-2025-datapoll.qmd": {
+    "pub-2025-datapoll.html": "bce9183d"
+  },
+  "publications/pub-2025-enforced-disappearances.qmd": {
+    "pub-2025-enforced-disappearances.html": "0adbe29b"
+  },
+  "publications/pub-2025-improving-issue-representation.qmd": {
+    "pub-2025-improving-issue-representation.html": "d4bf5158"
+  },
+  "publications/pub-2025-llms-not-for-everything.qmd": {
+    "pub-2025-llms-not-for-everything.html": "d8c6c6d8"
+  },
+  "publications/pub-2025-practical-guide-dissidents.qmd": {
+    "pub-2025-practical-guide-dissidents.html": "298d9d09"
   }
 }

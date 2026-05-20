@@ -1,0 +1,8 @@
+---
+title: "Identifying Euroscepticism Using a Text-As-Data Approach: An Experimental Study Employing Parliamentary Speeches"
+author: "Djouvas, C., Christodoulou, C., Charalampous, A., and Ioannidis, N."
+date: 2023-01-01
+description: "18th IEEE International Workshop on Semantic and Social Media Adaptation & Personalization (SMAP 2023)"
+categories: [Applied Political Communication]
+image: images_publications/conference.png
+---

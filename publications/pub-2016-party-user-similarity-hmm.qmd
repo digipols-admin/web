@@ -1,0 +1,8 @@
+---
+title: "Estimating Party-user Similarity in Voting Advice Applications using Hidden Markov Models"
+author: "Agathokleous, M., Tsapatsoulis, N., and Djouvas, C."
+date: 2016-01-01
+description: "ACM RecSys 2016 Workshop on Interfaces and Human Decision Making"
+categories: [Applied Political Communication]
+image: images_publications/conference.png
+---

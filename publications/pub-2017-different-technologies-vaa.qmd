@@ -1,0 +1,8 @@
+---
+title: "Different Technologies, same Assumptions? Comparing the Response Behaviour (and Political Stance) of Mobile versus Desktop VAA users"
+author: "Djouvas, C."
+date: 2017-01-01
+description: "11th European Consortium of Political Research (ECPR 2017), Oslo"
+categories: [Applied Political Communication]
+image: images_publications/conference.png
+---

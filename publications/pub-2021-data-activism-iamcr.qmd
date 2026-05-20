@@ -1,0 +1,8 @@
+---
+title: "Can data activism strengthen the agency of 'common' users? An empirical study of oppositional affordances and use positions toward Facebook"
+author: "Papa, V., Milioni, D., and Djouvas, C."
+date: 2021-01-01
+description: "Annual Conference of International Association of Media and Communication Research (IAMCR 2021)"
+categories: [Media and Social Media Monitoring]
+image: images_publications/conference.png
+---

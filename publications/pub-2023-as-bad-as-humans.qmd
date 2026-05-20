@@ -1,0 +1,8 @@
+---
+title: "As bad as humans: Can machine learning text analysis be used for framing analysis"
+author: "Djouvas, C., Manavopoulos, V., and Mendez, F."
+date: 2023-01-01
+description: "17th European Consortium of Political Research (ECPR 2023), Prague"
+categories: [Public Opinion and Argument Mining]
+image: images_publications/conference.png
+---

@@ -1,0 +1,8 @@
+---
+title: "DataPoll: A Tool Facilitating Big Data Research in Social Sciences"
+author: "Charalampous, A., Djouvas, C., and Christodoulou, C."
+date: 2025-01-01
+description: "IEEE Transactions on Computational Social Systems, 12(2), 511–524. doi: 10.1109/TCSS.2024.3506582"
+categories: [Media and Social Media Monitoring]
+image: images_publications/journal-article.png
+---

@@ -1,0 +1,8 @@
+---
+title: "The European Union's approach to multilingualism in its own communication policy"
+author: "Mendez, C., Gazzola, M., Clement-Wilz, L., Triga, V., Mendez, F., Djouvas, C., Charalampous, A., and Bachtler, J."
+date: 2022-01-01
+description: "European Parliament Study"
+categories: [Media and Social Media Monitoring]
+image: images_publications/report.png
+---

@@ -1,0 +1,8 @@
+---
+title: "Strategic Choices: How Tailored Information Influences Election Dynamics"
+author: "Djouvas, C., Guinjoan, M., Ioannidis, N., Mendez, F., and Rodon, T."
+date: 2024-01-01
+description: "ECPR General Conference 2024"
+categories: [Applied Political Communication]
+image: images_publications/conference.png
+---

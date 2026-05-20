@@ -1,0 +1,8 @@
+---
+title: "'Neither agree, nor disagree': A critical analysis of the middle answer category in Voting Advice Applications"
+author: "Baka, A., Figgou, L., and Triga, V."
+date: 2012-01-01
+description: "International Journal of Electronic Governance, 5, 244–263. doi: 10.1504/IJEG.2012.051306"
+categories: [Applied Political Communication]
+image: images_publications/journal-article.png
+---

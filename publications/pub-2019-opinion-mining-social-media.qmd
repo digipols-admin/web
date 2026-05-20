@@ -1,0 +1,8 @@
+---
+title: "Opinion mining from social media short texts: Does collective intelligence beat deep learning?"
+author: "Tsapatsoulis, N., and Djouvas, C."
+date: 2019-01-01
+description: "Frontiers in Robotics and AI, 5, 138"
+categories: [Public Opinion and Argument Mining]
+image: images_publications/journal-article.png
+---

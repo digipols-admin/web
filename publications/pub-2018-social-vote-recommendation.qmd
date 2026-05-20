@@ -1,0 +1,8 @@
+---
+title: "Improving Social Vote Recommendation in VAAs: The effects of political profile augmentation and classification method"
+author: "Djouvas, C., Antoniou, A., and Tsapatsoulis, N."
+date: 2018-01-01
+description: "13th International Workshop on Semantic and Social Media Adaptation and Personalization (SMAP 2018)"
+categories: [Applied Political Communication]
+image: images_publications/conference.png
+---

@@ -1,0 +1,8 @@
+---
+title: "A practical guide on what not to write on the internet (if you are a dissident of an authoritarian regime)"
+author: "Christodoulou, C., Kovras, N., Ioannidis, I., and Djouvas, C."
+date: 2025-01-01
+description: "15th Annual Conference of the European Political Science Association (EPSA 2025), Madrid"
+categories: [Applied Political Communication]
+image: images_publications/conference.png
+---

@@ -1,0 +1,8 @@
+---
+title: "Many losers– One winner? An examination of vote switching to the AfD in the 2017 German federal election using VAA data"
+author: "Wurthmann, L.C., Marschall, S., Triga, V., and Manavopoulos, V."
+date: 2021-01-01
+description: "Party Politics, 27(5), 870–882. doi: 10.1177/1354068820914959"
+categories: [Applied Political Communication]
+image: images_publications/journal-article.png
+---

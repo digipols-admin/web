@@ -1,0 +1,8 @@
+---
+title: "A view behind the scenes: Data structures and software architecture of a VAA"
+author: "Djouvas, C., and Tsapatsoulis, N."
+date: 2014-01-01
+description: "9th IEEE International Workshop on Semantic and Social Media Adaptation and Personalization (SMAP 2014), 136–141"
+categories: [Applied Political Communication]
+image: images_publications/conference.png
+---

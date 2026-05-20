@@ -1,0 +1,8 @@
+---
+title: "Algorithmic profiling and news personalization"
+author: "Milioni, D., Kollyri, L., and Djouvas, C."
+date: 2018-01-01
+description: "Amsterdam Privacy Conference (APC 2018)"
+categories: [Media and Social Media Monitoring]
+image: images_publications/conference.png
+---

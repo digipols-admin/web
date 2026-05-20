@@ -1,0 +1,8 @@
+---
+title: "Mining online political opinion surveys for suspect entries: An interdisciplinary comparison"
+author: "Djouvas, C., Mendez, F., and Tsapatsoulis, N."
+date: 2016-01-01
+description: "Journal of Innovation in Digital Ecosystems, 3(2), 172–182"
+categories: [Applied Political Communication]
+image: images_publications/journal-article.png
+---

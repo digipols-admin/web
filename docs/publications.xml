@@ -10,11 +10,29 @@
 <atom:link href="https://digipols.com/publications.xml" rel="self" type="application/rss+xml"/>
 <description>The Digital Politics &amp; Political Communication Research Lab — Cyprus University of Technology</description>
 <generator>quarto-1.8.24</generator>
-<lastBuildDate>Thu, 31 Dec 2020 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 31 Dec 2024 22:00:00 GMT</lastBuildDate>
 <item>
-  <title>Algorithmic Curation and Users’ Civic Attitudes: A Study on Facebook News Feed Results</title>
-  <dc:creator>Papa V., and Photiadis Th.</dc:creator>
-  <link>https://digipols.com/publications/pub-2021-algorithmic-curation.html</link>
+  <title>Biased by Design? Evaluating Bias and Behavioral Diversity in LLM Annotation of Real-World and Synthetic Hotel Reviews</title>
+  <dc:creator>Voutsa, M.C., Tsapatsoulis, N., and Djouvas, C.</dc:creator>
+  <link>https://digipols.com/publications/pub-2025-biased-by-design.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>Public Opinion and Argument Mining</category>
+  <guid>https://digipols.com/publications/pub-2025-biased-by-design.html</guid>
+  <pubDate>Tue, 31 Dec 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://digipols.com/publications/images_publications/journal-article.png" medium="image" type="image/png" height="108" width="144"/>
+</item>
+<item>
+  <title>DataPoll: A Tool Facilitating Big Data Research in Social Sciences</title>
+  <dc:creator>Charalampous, A., Djouvas, C., and Christodoulou, C.</dc:creator>
+  <link>https://digipols.com/publications/pub-2025-datapoll.html</link>
   <description><![CDATA[ 
 
 
@@ -25,14 +43,14 @@
 
  ]]></description>
   <category>Media and Social Media Monitoring</category>
-  <guid>https://digipols.com/publications/pub-2021-algorithmic-curation.html</guid>
-  <pubDate>Thu, 31 Dec 2020 22:00:00 GMT</pubDate>
+  <guid>https://digipols.com/publications/pub-2025-datapoll.html</guid>
+  <pubDate>Tue, 31 Dec 2024 22:00:00 GMT</pubDate>
   <media:content url="https://digipols.com/publications/images_publications/journal-article.png" medium="image" type="image/png" height="108" width="144"/>
 </item>
 <item>
-  <title>Journalism education in the post-truth era: An exploration of the voices of journalism students in Greece and Cyprus</title>
-  <dc:creator>Theodosiadou S., Spyridou P-L., Panayiotou N., Milioni D. and Papa, V.</dc:creator>
-  <link>https://digipols.com/publications/pub-2021-journalism-education.html</link>
+  <title>The contemporary aspect of the crime of enforced disappearances</title>
+  <dc:creator>Christodoulou, C., Kovras, N., Ioannidis, I., and Djouvas, C.</dc:creator>
+  <link>https://digipols.com/publications/pub-2025-enforced-disappearances.html</link>
   <description><![CDATA[ 
 
 
@@ -43,14 +61,14 @@
 
  ]]></description>
   <category>Applied Political Communication</category>
-  <guid>https://digipols.com/publications/pub-2021-journalism-education.html</guid>
-  <pubDate>Thu, 31 Dec 2020 22:00:00 GMT</pubDate>
-  <media:content url="https://digipols.com/publications/images_publications/journal-article.png" medium="image" type="image/png" height="108" width="144"/>
+  <guid>https://digipols.com/publications/pub-2025-enforced-disappearances.html</guid>
+  <pubDate>Tue, 31 Dec 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://digipols.com/publications/images_publications/conference.png" medium="image" type="image/png" height="108" width="144"/>
 </item>
 <item>
-  <title>EU Cohesion Policy under the Media Spotlight: Exploring Territorial and Temporal Patterns in News Coverage and Tone</title>
-  <dc:creator>Mendez, C., Mendez, F., Triga, V. and Carrascosa, J. M.</dc:creator>
-  <link>https://digipols.com/publications/pub-2020-cohesion-media.html</link>
+  <title>Improving issue representation with candidate-level voting advice applications</title>
+  <dc:creator>Germann, M., Mendez, F., Wheatley, J., Djouvas, C., Nezi, R., and Wall, M.</dc:creator>
+  <link>https://digipols.com/publications/pub-2025-improving-issue-representation.html</link>
   <description><![CDATA[ 
 
 
@@ -60,34 +78,15 @@
 
 
  ]]></description>
-  <category>Media and Social Media Monitoring</category>
-  <category>Public Opinion and Argument Mining</category>
-  <guid>https://digipols.com/publications/pub-2020-cohesion-media.html</guid>
-  <pubDate>Tue, 31 Dec 2019 22:00:00 GMT</pubDate>
+  <category>Applied Political Communication</category>
+  <guid>https://digipols.com/publications/pub-2025-improving-issue-representation.html</guid>
+  <pubDate>Tue, 31 Dec 2024 22:00:00 GMT</pubDate>
   <media:content url="https://digipols.com/publications/images_publications/journal-article.png" medium="image" type="image/png" height="108" width="144"/>
 </item>
 <item>
-  <title>Recurrent narratives around the COVID-19 crisis in social networks: A case study analysis on Facebook</title>
-  <dc:creator>Papa V., and Maniou, Th.</dc:creator>
-  <link>https://digipols.com/publications/pub-2020-recurrent-narratives.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-
- ]]></description>
-  <category>Media and Social Media Monitoring</category>
-  <guid>https://digipols.com/publications/pub-2020-recurrent-narratives.html</guid>
-  <pubDate>Tue, 31 Dec 2019 22:00:00 GMT</pubDate>
-  <media:content url="https://digipols.com/publications/images_publications/journal-article.png" medium="image" type="image/png" height="108" width="144"/>
-</item>
-<item>
-  <title>Salience of Fakeness: Experimental Evidence on Readers’ Distinction between Mainstream Media Content and Altered News Stories</title>
-  <dc:creator>Maniou Th., Papa, V., and Bantimaroudis, Ph.</dc:creator>
-  <link>https://digipols.com/publications/pub-2020-salience-fakeness.html</link>
+  <title>LLMs are not for everything: A Dataset and Comparative Study on Argument Strength Classification</title>
+  <dc:creator>Djouvas, C., Charalampous, A., Christodoulou, C.J., and Tsapatsoulis, N.</dc:creator>
+  <link>https://digipols.com/publications/pub-2025-llms-not-for-everything.html</link>
   <description><![CDATA[ 
 
 
@@ -98,14 +97,50 @@
 
  ]]></description>
   <category>Public Opinion and Argument Mining</category>
-  <guid>https://digipols.com/publications/pub-2020-salience-fakeness.html</guid>
-  <pubDate>Tue, 31 Dec 2019 22:00:00 GMT</pubDate>
+  <guid>https://digipols.com/publications/pub-2025-llms-not-for-everything.html</guid>
+  <pubDate>Tue, 31 Dec 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://digipols.com/publications/images_publications/conference.png" medium="image" type="image/png" height="108" width="144"/>
+</item>
+<item>
+  <title>A practical guide on what not to write on the internet (if you are a dissident of an authoritarian regime)</title>
+  <dc:creator>Christodoulou, C., Kovras, N., Ioannidis, I., and Djouvas, C.</dc:creator>
+  <link>https://digipols.com/publications/pub-2025-practical-guide-dissidents.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>Applied Political Communication</category>
+  <guid>https://digipols.com/publications/pub-2025-practical-guide-dissidents.html</guid>
+  <pubDate>Tue, 31 Dec 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://digipols.com/publications/images_publications/conference.png" medium="image" type="image/png" height="108" width="144"/>
+</item>
+<item>
+  <title>Creating public value in regional policy. Bringing citizens back in</title>
+  <dc:creator>Mendez, C., Pegan, A., and Triga, V.</dc:creator>
+  <link>https://digipols.com/publications/pub-2024-public-value-regional-policy.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>Applied Political Communication</category>
+  <guid>https://digipols.com/publications/pub-2024-public-value-regional-policy.html</guid>
+  <pubDate>Sun, 31 Dec 2023 22:00:00 GMT</pubDate>
   <media:content url="https://digipols.com/publications/images_publications/journal-article.png" medium="image" type="image/png" height="108" width="144"/>
 </item>
 <item>
-  <title>The Visibility and Communication of Cohesion Policy in Online Media</title>
-  <dc:creator>Mendez, C., Triga, V., Bachtler, J., Djouvas, C., Mendez, F. and Stier, S.</dc:creator>
-  <link>https://digipols.com/publications/pub-2019-cohesion-online.html</link>
+  <title>Slantwise Disengagement: Explaining Facebook Users’ Acts Beyond Resistance/Internalization of Domination Binary</title>
+  <dc:creator>Papa, V., and Kouros, Th.</dc:creator>
+  <link>https://digipols.com/publications/pub-2024-slantwise-disengagement.html</link>
   <description><![CDATA[ 
 
 
@@ -116,15 +151,212 @@
 
  ]]></description>
   <category>Media and Social Media Monitoring</category>
+  <guid>https://digipols.com/publications/pub-2024-slantwise-disengagement.html</guid>
+  <pubDate>Sun, 31 Dec 2023 22:00:00 GMT</pubDate>
+  <media:content url="https://digipols.com/publications/images_publications/journal-article.png" medium="image" type="image/png" height="108" width="144"/>
+</item>
+<item>
+  <title>Strategic Choices: How Tailored Information Influences Election Dynamics</title>
+  <dc:creator>Djouvas, C., Guinjoan, M., Ioannidis, N., Mendez, F., and Rodon, T.</dc:creator>
+  <link>https://digipols.com/publications/pub-2024-strategic-choices.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>Applied Political Communication</category>
+  <guid>https://digipols.com/publications/pub-2024-strategic-choices.html</guid>
+  <pubDate>Sun, 31 Dec 2023 22:00:00 GMT</pubDate>
+  <media:content url="https://digipols.com/publications/images_publications/conference.png" medium="image" type="image/png" height="108" width="144"/>
+</item>
+<item>
+  <title>Videography in the service of Social Movement Visibility and Interaction Amidst the Pandemic: The case of the Support Art Workers’ Initiative in Greece</title>
+  <dc:creator>Constandinides, C., Papa, V., and Ioannou, M.</dc:creator>
+  <link>https://digipols.com/publications/pub-2024-videography-social-movement.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>Applied Political Communication</category>
+  <guid>https://digipols.com/publications/pub-2024-videography-social-movement.html</guid>
+  <pubDate>Sun, 31 Dec 2023 22:00:00 GMT</pubDate>
+  <media:content url="https://digipols.com/publications/images_publications/journal-article.png" medium="image" type="image/png" height="108" width="144"/>
+</item>
+<item>
+  <title>The Waning of Ideology? Presidential elections in the Republic of Cyprus, 5 February 2023</title>
+  <dc:creator>Triga, V., Ioannidis, N., and Djouvas, C.</dc:creator>
+  <link>https://digipols.com/publications/pub-2024-waning-ideology-cyprus.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>Applied Political Communication</category>
+  <guid>https://digipols.com/publications/pub-2024-waning-ideology-cyprus.html</guid>
+  <pubDate>Sun, 31 Dec 2023 22:00:00 GMT</pubDate>
+  <media:content url="https://digipols.com/publications/images_publications/journal-article.png" medium="image" type="image/png" height="108" width="144"/>
+</item>
+<item>
+  <title>As bad as humans: Can machine learning text analysis be used for framing analysis</title>
+  <dc:creator>Djouvas, C., Manavopoulos, V., and Mendez, F.</dc:creator>
+  <link>https://digipols.com/publications/pub-2023-as-bad-as-humans.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
   <category>Public Opinion and Argument Mining</category>
-  <guid>https://digipols.com/publications/pub-2019-cohesion-online.html</guid>
-  <pubDate>Fri, 31 May 2019 21:00:00 GMT</pubDate>
+  <guid>https://digipols.com/publications/pub-2023-as-bad-as-humans.html</guid>
+  <pubDate>Sat, 31 Dec 2022 22:00:00 GMT</pubDate>
+  <media:content url="https://digipols.com/publications/images_publications/conference.png" medium="image" type="image/png" height="108" width="144"/>
+</item>
+<item>
+  <title>Reviewing the impact of Facebook on civic participation: The mediating role of algorithmic curation and platform affordances</title>
+  <dc:creator>Papa, V., and Ioannides, N.</dc:creator>
+  <link>https://digipols.com/publications/pub-2023-facebook-civic-participation.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>Media and Social Media Monitoring</category>
+  <guid>https://digipols.com/publications/pub-2023-facebook-civic-participation.html</guid>
+  <pubDate>Sat, 31 Dec 2022 22:00:00 GMT</pubDate>
+  <media:content url="https://digipols.com/publications/images_publications/journal-article.png" medium="image" type="image/png" height="108" width="144"/>
+</item>
+<item>
+  <title>Do Facebook and Google care about journalism? Mapping the relationship between affordances of GNI/FJP tools and journalistic norms</title>
+  <dc:creator>Papa, V., and Kouros, Th.</dc:creator>
+  <link>https://digipols.com/publications/pub-2023-facebook-google-journalism.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>Media and Social Media Monitoring</category>
+  <guid>https://digipols.com/publications/pub-2023-facebook-google-journalism.html</guid>
+  <pubDate>Sat, 31 Dec 2022 22:00:00 GMT</pubDate>
+  <media:content url="https://digipols.com/publications/images_publications/journal-article.png" medium="image" type="image/png" height="108" width="144"/>
+</item>
+<item>
+  <title>Identifying Euroscepticism Using a Text-As-Data Approach: An Experimental Study Employing Parliamentary Speeches</title>
+  <dc:creator>Djouvas, C., Christodoulou, C., Charalampous, A., and Ioannidis, N.</dc:creator>
+  <link>https://digipols.com/publications/pub-2023-identifying-euroscepticism.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>Applied Political Communication</category>
+  <guid>https://digipols.com/publications/pub-2023-identifying-euroscepticism.html</guid>
+  <pubDate>Sat, 31 Dec 2022 22:00:00 GMT</pubDate>
+  <media:content url="https://digipols.com/publications/images_publications/conference.png" medium="image" type="image/png" height="108" width="144"/>
+</item>
+<item>
+  <title>The 10-year anniversary of intense protest in Greece and the role of Facebook</title>
+  <dc:creator>Papa, V., and Ioannou, M.</dc:creator>
+  <link>https://digipols.com/publications/pub-2023-protest-greece-facebook.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>Applied Political Communication</category>
+  <guid>https://digipols.com/publications/pub-2023-protest-greece-facebook.html</guid>
+  <pubDate>Sat, 31 Dec 2022 22:00:00 GMT</pubDate>
+  <media:content url="https://digipols.com/publications/images_publications/journal-article.png" medium="image" type="image/png" height="108" width="144"/>
+</item>
+<item>
+  <title>The dissemination of science news in social media platforms during the COVID-19 crisis: Characteristics and selection criteria</title>
+  <dc:creator>Maniou, Th., and Papa, V.</dc:creator>
+  <link>https://digipols.com/publications/pub-2023-science-news-covid19.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>Media and Social Media Monitoring</category>
+  <guid>https://digipols.com/publications/pub-2023-science-news-covid19.html</guid>
+  <pubDate>Sat, 31 Dec 2022 22:00:00 GMT</pubDate>
+  <media:content url="https://digipols.com/publications/images_publications/journal-article.png" medium="image" type="image/png" height="108" width="144"/>
+</item>
+<item>
+  <title>Conspiratorial narratives on Facebook and their historical contextual associations: A case study from Cyprus</title>
+  <dc:creator>Kouros, Th., Papa, V., Ioannou, M., and Kapnisis, V.</dc:creator>
+  <link>https://digipols.com/publications/pub-2022-conspiratorial-narratives.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>Media and Social Media Monitoring</category>
+  <guid>https://digipols.com/publications/pub-2022-conspiratorial-narratives.html</guid>
+  <pubDate>Fri, 31 Dec 2021 22:00:00 GMT</pubDate>
+  <media:content url="https://digipols.com/publications/images_publications/journal-article.png" medium="image" type="image/png" height="108" width="144"/>
+</item>
+<item>
+  <title>Research for CULT Committee – The European Union’s Approach to Multilingualism in its Own Communication Policy</title>
+  <dc:creator>Mendez, C., Gazzola, M., Clement-Wilz, L., Triga, V., Mendez, F., Djouvas, C., Charamboulos, A., and Bachtler, J.</dc:creator>
+  <link>https://digipols.com/publications/pub-2022-cult-committee-multilingualism.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>Media and Social Media Monitoring</category>
+  <guid>https://digipols.com/publications/pub-2022-cult-committee-multilingualism.html</guid>
+  <pubDate>Fri, 31 Dec 2021 22:00:00 GMT</pubDate>
   <media:content url="https://digipols.com/publications/images_publications/report.png" medium="image" type="image/png" height="108" width="144"/>
 </item>
 <item>
-  <title>Filtering Instagram hashtags through crowd tagging and the HITS algorithm</title>
-  <dc:creator>Giannoulakis, S. and Tsapatsoulis, N.</dc:creator>
-  <link>https://digipols.com/publications/pub-2019-instagram-hashtags.html</link>
+  <title>‘What’s up with ur emotions?’ Untangling emotional user experience on Second Life and Facebook</title>
+  <dc:creator>Photiadis, Th., and Papa, V.</dc:creator>
+  <link>https://digipols.com/publications/pub-2022-emotional-user-experience.html</link>
   <description><![CDATA[ 
 
 
@@ -135,191 +367,8 @@
 
  ]]></description>
   <category>Media and Social Media Monitoring</category>
-  <category>Public Opinion and Argument Mining</category>
-  <guid>https://digipols.com/publications/pub-2019-instagram-hashtags.html</guid>
-  <pubDate>Mon, 31 Dec 2018 22:00:00 GMT</pubDate>
-  <media:content url="https://digipols.com/publications/images_publications/journal-article.png" medium="image" type="image/png" height="108" width="144"/>
-</item>
-<item>
-  <title>Framing the Greek Bailout Referendum: A Crisis-Inducing or a Crisis-Resolving Mechanism?</title>
-  <dc:creator>Milioni, D. L., Triga, V. and Spyridou, L.-P.</dc:creator>
-  <link>https://digipols.com/publications/pub-2018-greek-referendum.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-
- ]]></description>
-  <category>Media and Social Media Monitoring</category>
-  <category>Public Opinion and Argument Mining</category>
-  <guid>https://digipols.com/publications/pub-2018-greek-referendum.html</guid>
-  <pubDate>Thu, 31 May 2018 21:00:00 GMT</pubDate>
-  <media:content url="https://digipols.com/publications/images_publications/journal-article.png" medium="image" type="image/png" height="108" width="144"/>
-</item>
-<item>
-  <title>Post-crisis normalisation? The 2018 Presidential Elections</title>
-  <dc:creator>Triga, V., Mendez, F. and Tziouvas, C.</dc:creator>
-  <link>https://digipols.com/publications/pub-2018-presidential-elections.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-
- ]]></description>
-  <category>Applied Political Communication</category>
-  <guid>https://digipols.com/publications/pub-2018-presidential-elections.html</guid>
-  <pubDate>Sun, 31 Dec 2017 22:00:00 GMT</pubDate>
-  <media:content url="https://digipols.com/publications/images_publications/journal-article.png" medium="image" type="image/png" height="108" width="144"/>
-</item>
-<item>
-  <title>Parties and Change in Post-bailout Cyprus: The May 2016 Parliamentary Elections</title>
-  <dc:creator>Triga, V.</dc:creator>
-  <link>https://digipols.com/publications/pub-2017-parliamentary-elections.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-
- ]]></description>
-  <category>Applied Political Communication</category>
-  <guid>https://digipols.com/publications/pub-2017-parliamentary-elections.html</guid>
-  <pubDate>Sat, 31 Dec 2016 22:00:00 GMT</pubDate>
-  <media:content url="https://digipols.com/publications/images_publications/journal-article.png" medium="image" type="image/png" height="108" width="144"/>
-</item>
-<item>
-  <title>“To all activists: please post and share your story”: Renewing understandings on civic participation and the role of Facebook in the Indignados movement</title>
-  <dc:creator>Papa V.</dc:creator>
-  <link>https://digipols.com/publications/pub-2017-to-all-activists.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-
- ]]></description>
-  <category>Applied Political Communication</category>
-  <guid>https://digipols.com/publications/pub-2017-to-all-activists.html</guid>
-  <pubDate>Sat, 31 Dec 2016 22:00:00 GMT</pubDate>
-  <media:content url="https://digipols.com/publications/images_publications/journal-article.png" medium="image" type="image/png" height="108" width="144"/>
-</item>
-<item>
-  <title>Evaluating the descriptive power of Instagram hashtags</title>
-  <dc:creator>Giannoulakis, S. and Tsapatsoulis, N.</dc:creator>
-  <link>https://digipols.com/publications/pub-2016-instagram-descriptive.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-
- ]]></description>
-  <category>Media and Social Media Monitoring</category>
-  <category>Public Opinion and Argument Mining</category>
-  <guid>https://digipols.com/publications/pub-2016-instagram-descriptive.html</guid>
-  <pubDate>Thu, 31 Dec 2015 22:00:00 GMT</pubDate>
-  <media:content url="https://digipols.com/publications/images_publications/journal-article.png" medium="image" type="image/png" height="108" width="144"/>
-</item>
-<item>
-  <title>Spatial Maps in Voting Advice Applications: The Case for Dynamic Scale Validation</title>
-  <dc:creator>Germann, M., Mendez, F., Wheatley, J. and Serdült, U.</dc:creator>
-  <link>https://digipols.com/publications/pub-2015-spatial-maps.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-
- ]]></description>
-  <category>Applied Political Communication</category>
-  <guid>https://digipols.com/publications/pub-2015-spatial-maps.html</guid>
-  <pubDate>Sun, 31 May 2015 21:00:00 GMT</pubDate>
-  <media:content url="https://digipols.com/publications/images_publications/journal-article.png" medium="image" type="image/png" height="108" width="144"/>
-</item>
-<item>
-  <title>Who Are the Internet Voters?</title>
-  <dc:creator>Serdült, U., Germann, M., Harris, M., Mendez, F. and Portenier, A.</dc:creator>
-  <link>https://digipols.com/publications/pub-2015-internet-voters.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-
- ]]></description>
-  <category>Applied Political Communication</category>
-  <guid>https://digipols.com/publications/pub-2015-internet-voters.html</guid>
-  <pubDate>Sat, 28 Feb 2015 22:00:00 GMT</pubDate>
-  <media:content url="https://digipols.com/publications/images_publications/book-chapter.png" medium="image" type="image/png" height="108" width="144"/>
-</item>
-<item>
-  <title>“Conflict as news and News as conflict: a multidimensional content analysis of TV news in Cyprus”</title>
-  <dc:creator>Milioni D., Doudaki V., Tsiligiannis P., Papa, V., and Vadratsikas, K.</dc:creator>
-  <link>https://digipols.com/publications/pub-2015-conflict-as-news.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-
- ]]></description>
-  <category>Media and Social Media Monitoring</category>
-  <guid>https://digipols.com/publications/pub-2015-conflict-as-news.html</guid>
-  <pubDate>Wed, 31 Dec 2014 22:00:00 GMT</pubDate>
-  <media:content url="https://digipols.com/publications/images_publications/journal-article.png" medium="image" type="image/png" height="108" width="144"/>
-</item>
-<item>
-  <title>On the design of Social Voting Recommendation Applications</title>
-  <dc:creator>Tsapatsoulis, N., Agathokleous, M., Djouvas, C. and Mendez, F.</dc:creator>
-  <link>https://digipols.com/publications/pub-2015-social-voting-apps.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-
- ]]></description>
-  <category>Applied Political Communication</category>
-  <guid>https://digipols.com/publications/pub-2015-social-voting-apps.html</guid>
-  <pubDate>Wed, 31 Dec 2014 22:00:00 GMT</pubDate>
-  <media:content url="https://digipols.com/publications/images_publications/journal-article.png" medium="image" type="image/png" height="108" width="144"/>
-</item>
-<item>
-  <title>Social voting advice applications — definitions, challenges, datasets and evaluation</title>
-  <dc:creator>Katakis, N., Tsapatsoulis, N., Mendez, F., Triga, V. and Djouvas, C.</dc:creator>
-  <link>https://digipols.com/publications/pub-2014-social-voting-advice.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-
- ]]></description>
-  <category>Applied Political Communication</category>
-  <guid>https://digipols.com/publications/pub-2014-social-voting-advice.html</guid>
-  <pubDate>Tue, 31 Dec 2013 22:00:00 GMT</pubDate>
+  <guid>https://digipols.com/publications/pub-2022-emotional-user-experience.html</guid>
+  <pubDate>Fri, 31 Dec 2021 22:00:00 GMT</pubDate>
   <media:content url="https://digipols.com/publications/images_publications/journal-article.png" medium="image" type="image/png" height="108" width="144"/>
 </item>
 </channel>

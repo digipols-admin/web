@@ -1,0 +1,8 @@
+---
+title: "The contemporary aspect of the crime of enforced disappearances"
+author: "Christodoulou, C., Kovras, N., Ioannidis, I., and Djouvas, C."
+date: 2025-01-01
+description: "15th Annual Conference of the European Political Science Association (EPSA 2025), Madrid"
+categories: [Applied Political Communication]
+image: images_publications/conference.png
+---

@@ -1,0 +1,8 @@
+---
+title: "Methodological challenges in the analysis of voting advice application generated data"
+author: "Mendez, F., Gemenis, K., and Djouvas, C."
+date: 2014-01-01
+description: "9th IEEE International Workshop on Semantic and Social Media Adaptation and Personalization (SMAP 2014), 142–148"
+categories: [Applied Political Communication]
+image: images_publications/conference.png
+---

@@ -1,0 +1,8 @@
+---
+title: "SmartCoding: A web-based system for estimating parties policy positions"
+author: "Djouvas, C., and Gemenis, K."
+date: 2015-01-01
+description: "WEBDATANET Conference, Salamanca"
+categories: [Applied Political Communication]
+image: images_publications/conference.png
+---

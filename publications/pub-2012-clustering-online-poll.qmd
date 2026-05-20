@@ -1,0 +1,8 @@
+---
+title: "Clustering online poll data: Towards a voting assistance system"
+author: "Katakis, I., Tsapatsoulis, N., Triga, V., Tziouvas, C., and Mendez, F."
+date: 2012-01-01
+description: "IEEE SMAP 2012, 54–59"
+categories: [Applied Political Communication]
+image: images_publications/conference.png
+---

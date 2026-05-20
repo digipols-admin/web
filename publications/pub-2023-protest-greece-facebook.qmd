@@ -1,0 +1,8 @@
+---
+title: "The 10-year anniversary of intense protest in Greece and the role of Facebook"
+author: "Papa, V., and Ioannou, M."
+date: 2023-01-01
+description: "Journal of Information Technology & Politics. doi: 10.1080/19331681.2023.2168818"
+categories: [Applied Political Communication]
+image: images_publications/journal-article.png
+---
