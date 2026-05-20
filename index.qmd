@@ -21,7 +21,7 @@ page-layout: full
 </section>
 
 <p class="section-eyebrow">↳ Research clusters</p>
-<h2 style="margin:0 0 1rem; font-weight:500; letter-spacing:-0.025em;">Four clusters, one forum</h2>
+<h2 style="margin:0 0 1rem; font-weight:500; letter-spacing:-0.025em;">Three clusters, one forum</h2>
 
 <div class="cluster-grid">
   <a class="cluster" href="research.html#applied-political-communication">
@@ -47,7 +47,7 @@ page-layout: full
   </a>
   <a class="cluster" href="research.html#digipols-forum">
     <img class="cluster-art" src="images/clusters/cluster-04-forum.svg" alt="" aria-hidden="true" width="64" height="64" />
-    <span class="cluster-code">cluster.04</span>
+    <span class="cluster-code">forum</span>
     <h3 class="cluster-title">The DigiPols Forum</h3>
     <p class="cluster-blurb">Umbrella organisation that convenes DigiPols researchers to exchange ideas, share state-of-the-art practice and set strategic direction for the lab.</p>
     <span class="cluster-cta">explore →</span>

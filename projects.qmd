@@ -17,6 +17,6 @@ listing:
 
 ## Funded projects & initiatives {style="border-bottom: none;"}
 
-An overview of ongoing and completed research projects across our four clusters.
+An overview of ongoing and completed research projects across our three research clusters.
 
 ---

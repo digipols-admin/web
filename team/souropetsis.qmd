@@ -1,6 +1,6 @@
 ---
 title: "Marco Souropetsis"
-subtitle: "PhD Student — Researcher"
+subtitle: "Research Associate"
 description: "PhD student, Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: Immersive technologies (AR/VR), gamification, and cultural heritage learning."
 image: images_team/souropetsis.png
 categories: [Researchers]

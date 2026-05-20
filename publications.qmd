@@ -16,7 +16,7 @@ listing:
 
 ## Peer-reviewed papers & reports from DigiPols {style="border-bottom: none;"}
 
-A growing body of work across the four clusters — political communication, monitoring, public opinion and argument mining, and the Forum. Filter by cluster or sort by date.
+A growing body of work across our three research clusters: Applied Political Communication, Media & Social Media Monitoring, and Public Opinion & Argument Mining. Filter by cluster or sort by date.
 
 ---
 

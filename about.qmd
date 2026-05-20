@@ -16,7 +16,7 @@ toc-location: right
 
 DigiPols provides a research environment for pursuing cutting-edge, theory-driven empirical research for advancing the study of how digital technologies are impacting our institutions of governance — and how politics shapes the development of these technologies.
 
-The lab's researchers are brought together in the **DigiPols Forum**, which meets regularly to exchange ideas, discuss best practices and offer strategic input to the four research clusters.
+The lab's researchers are brought together in the **DigiPols Forum**, which meets regularly to exchange ideas, discuss best practices and offer strategic input to the three research clusters.
 
 ## Host institution
 

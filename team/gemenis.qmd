@@ -1,6 +1,6 @@
 ---
 title: "Kostas Gemenis"
-subtitle: "Assistant Professor — Research Associate"
+subtitle: "Assistant Professor"
 description: "Assistant Professor of Politics and the Internet, Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: Voting Advice Applications, Political Communication, Quantitative Text Analysis, Social Media and Conspiracy Beliefs."
 image: images_team/gemenis.png
 categories: [Researchers]

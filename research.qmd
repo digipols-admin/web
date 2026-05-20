@@ -5,9 +5,9 @@ toc: true
 toc-location: right
 ---
 
-## Four clusters organised around digital politics {style="border-bottom: none;"}
+## Three clusters organised around digital politics {style="border-bottom: none;"}
 
-DigiPols research is organised around four clusters that bring together social scientists and computer scientists working on complementary areas. Each is coordinated through the DigiPols Forum.
+DigiPols research is organised around three core clusters that bring together social scientists and computer scientists working on complementary areas. These activities are coordinated and supported through the DigiPols Forum.
 
 ::: {.research-cluster}
 ::: {.rc-code}
@@ -22,7 +22,7 @@ Political communication is concerned with how information is exchanged between p
 The communication linkages are multi-faceted and increasingly digitalised. This cluster is focused on the *applied* aspects of political communication that involve experimentation, such as lab and field experiments. Most of the ongoing research is associated with the pioneering work of DigiPols researchers on Voting Advice Applications.
 
 ::: {.rc-meta}
-**14** publications · **5** active projects · **Lead:** V. Triga
+**Lead:** V. Triga
 :::
 :::
 :::
@@ -38,7 +38,7 @@ cluster.02<br/>
 This area is centred on the development of data-collection platforms that track particular domains of interest. Work has been conducted on building real-time data collection during election campaigns, evaluating the communication of policy by the EU, and monitoring multilingual communication practices.
 
 ::: {.rc-meta}
-**11** publications · **4** active projects · **Lead:** N. Tsapatsoulis
+**Lead:** C. Tziouvas
 :::
 :::
 :::
@@ -54,23 +54,8 @@ cluster.03<br/>
 This cluster develops techniques and tools for the analysis of public opinion. It includes both traditional forms of public-opinion research, such as surveys, and more recent big-data approaches to opinion mining. A complementary area is argument mining, which draws inspiration from computational linguistics.
 
 ::: {.rc-meta}
-**9** publications · **3** active projects · **Lead:** C. Djouvas
+**Lead:** N. Tsapatsoulis
 :::
 :::
 :::
 
-::: {.research-cluster}
-::: {.rc-code}
-cluster.04<br/>
-[<span class="rc-dot" style="background: #8C5BD2;"></span>forum]{}
-:::
-::: {#digipols-forum}
-## The DigiPols Forum {style="border-bottom: none;"}
-
-The Forum is an umbrella organisation that periodically brings together DigiPols researchers. It keeps researchers abreast of the state-of-the-art and serves as a venue for the exchange of ideas. Crucially, the Forum provides strategic input and guidance to DigiPols' more specialised research clusters, and is responsible for organising lab events.
-
-::: {.rc-meta}
-**Convenes** 4×/yr · **Open to** all members
-:::
-:::
-:::

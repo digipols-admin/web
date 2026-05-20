@@ -4,7 +4,7 @@
     "href": "team/tziouvas.html",
     "title": "Constantinos Tziouvas",
     "section": "",
-    "text": "Associate Professor at the Department of Communication and Internet Studies, Cyprus University of Technology (CUT). Ph.D. in Computer Networks from the City University of New York. Has participated in numerous EU-funded research projects and published in various journals related to Computer Science and Social and Political Science.\nResearch interests: Big Data, Argument Mining, Social Media Analysis.\nEmail: costas.tziouvas@cut.ac.cy"
+    "text": "Assistant Professor at the Department of Communication and Internet Studies, Cyprus University of Technology (CUT). Ph.D. in Computer Networks from the City University of New York. Has participated in numerous EU-funded research projects and published in various journals related to Computer Science and Social and Political Science.\nResearch interests: Big Data, Argument Mining, Social Media Analysis.\nEmail: costas.tziouvas@cut.ac.cy"
   },
   {
     "objectID": "team/triga.html",
@@ -39,42 +39,35 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "DigiPols research is organised around four clusters that bring together social scientists and computer scientists working on complementary areas. Each is coordinated through the DigiPols Forum.\n\n\ncluster.01 applied\n\n\n\nPolitical communication is concerned with how information is exchanged between political actors — from politicians and governments to civil society and citizens — and the role played by intermediary actors, such as the news media, in this transmission.\nThe communication linkages are multi-faceted and increasingly digitalised. This cluster is focused on the applied aspects of political communication that involve experimentation, such as lab and field experiments. Most of the ongoing research is associated with the pioneering work of DigiPols researchers on Voting Advice Applications.\n\n14 publications · 5 active projects · Lead: V. Triga\n\n\n\n\n\ncluster.02 monitoring\n\n\n\n\nThis area is centred on the development of data-collection platforms that track particular domains of interest. Work has been conducted on building real-time data collection during election campaigns, evaluating the communication of policy by the EU, and monitoring multilingual communication practices.\n\n11 publications · 4 active projects · Lead: N. Tsapatsoulis\n\n\n\n\n\n\ncluster.03 opinion\n\n\n\nThis cluster develops techniques and tools for the analysis of public opinion. It includes both traditional forms of public-opinion research, such as surveys, and more recent big-data approaches to opinion mining. A complementary area is argument mining, which draws inspiration from computational linguistics.\n\n9 publications · 3 active projects · Lead: C. Djouvas\n\n\n\n\n\ncluster.04 forum\n\n\n\n\nThe Forum is an umbrella organisation that periodically brings together DigiPols researchers. It keeps researchers abreast of the state-of-the-art and serves as a venue for the exchange of ideas. Crucially, the Forum provides strategic input and guidance to DigiPols’ more specialised research clusters, and is responsible for organising lab events.\n\nConvenes 4×/yr · Open to all members"
+    "text": "DigiPols research is organised around three core clusters that bring together social scientists and computer scientists working on complementary areas. These activities are coordinated and supported through the DigiPols Forum.\n\n\ncluster.01 applied\n\n\n\nPolitical communication is concerned with how information is exchanged between political actors — from politicians and governments to civil society and citizens — and the role played by intermediary actors, such as the news media, in this transmission.\nThe communication linkages are multi-faceted and increasingly digitalised. This cluster is focused on the applied aspects of political communication that involve experimentation, such as lab and field experiments. Most of the ongoing research is associated with the pioneering work of DigiPols researchers on Voting Advice Applications.\n\nLead: V. Triga\n\n\n\n\n\ncluster.02 monitoring\n\n\n\n\nThis area is centred on the development of data-collection platforms that track particular domains of interest. Work has been conducted on building real-time data collection during election campaigns, evaluating the communication of policy by the EU, and monitoring multilingual communication practices.\n\nLead: C. Tziouvas\n\n\n\n\n\n\ncluster.03 opinion\n\n\n\nThis cluster develops techniques and tools for the analysis of public opinion. It includes both traditional forms of public-opinion research, such as surveys, and more recent big-data approaches to opinion mining. A complementary area is argument mining, which draws inspiration from computational linguistics.\n\nLead: N. Tsapatsoulis"
   },
   {
-    "objectID": "research.html#four-clusters-organised-around-digital-politics",
-    "href": "research.html#four-clusters-organised-around-digital-politics",
+    "objectID": "research.html#three-clusters-organised-around-digital-politics",
+    "href": "research.html#three-clusters-organised-around-digital-politics",
     "title": "Research",
     "section": "",
-    "text": "DigiPols research is organised around four clusters that bring together social scientists and computer scientists working on complementary areas. Each is coordinated through the DigiPols Forum.\n\n\ncluster.01 applied\n\n\n\nPolitical communication is concerned with how information is exchanged between political actors — from politicians and governments to civil society and citizens — and the role played by intermediary actors, such as the news media, in this transmission.\nThe communication linkages are multi-faceted and increasingly digitalised. This cluster is focused on the applied aspects of political communication that involve experimentation, such as lab and field experiments. Most of the ongoing research is associated with the pioneering work of DigiPols researchers on Voting Advice Applications.\n\n14 publications · 5 active projects · Lead: V. Triga\n\n\n\n\n\ncluster.02 monitoring\n\n\n\n\nThis area is centred on the development of data-collection platforms that track particular domains of interest. Work has been conducted on building real-time data collection during election campaigns, evaluating the communication of policy by the EU, and monitoring multilingual communication practices.\n\n11 publications · 4 active projects · Lead: N. Tsapatsoulis\n\n\n\n\n\n\ncluster.03 opinion\n\n\n\nThis cluster develops techniques and tools for the analysis of public opinion. It includes both traditional forms of public-opinion research, such as surveys, and more recent big-data approaches to opinion mining. A complementary area is argument mining, which draws inspiration from computational linguistics.\n\n9 publications · 3 active projects · Lead: C. Djouvas\n\n\n\n\n\ncluster.04 forum\n\n\n\n\nThe Forum is an umbrella organisation that periodically brings together DigiPols researchers. It keeps researchers abreast of the state-of-the-art and serves as a venue for the exchange of ideas. Crucially, the Forum provides strategic input and guidance to DigiPols’ more specialised research clusters, and is responsible for organising lab events.\n\nConvenes 4×/yr · Open to all members"
+    "text": "DigiPols research is organised around three core clusters that bring together social scientists and computer scientists working on complementary areas. These activities are coordinated and supported through the DigiPols Forum.\n\n\ncluster.01 applied\n\n\n\nPolitical communication is concerned with how information is exchanged between political actors — from politicians and governments to civil society and citizens — and the role played by intermediary actors, such as the news media, in this transmission.\nThe communication linkages are multi-faceted and increasingly digitalised. This cluster is focused on the applied aspects of political communication that involve experimentation, such as lab and field experiments. Most of the ongoing research is associated with the pioneering work of DigiPols researchers on Voting Advice Applications.\n\nLead: V. Triga\n\n\n\n\n\ncluster.02 monitoring\n\n\n\n\nThis area is centred on the development of data-collection platforms that track particular domains of interest. Work has been conducted on building real-time data collection during election campaigns, evaluating the communication of policy by the EU, and monitoring multilingual communication practices.\n\nLead: C. Tziouvas\n\n\n\n\n\n\ncluster.03 opinion\n\n\n\nThis cluster develops techniques and tools for the analysis of public opinion. It includes both traditional forms of public-opinion research, such as surveys, and more recent big-data approaches to opinion mining. A complementary area is argument mining, which draws inspiration from computational linguistics.\n\nLead: N. Tsapatsoulis"
   },
   {
     "objectID": "research.html#applied-political-communication",
     "href": "research.html#applied-political-communication",
     "title": "Research",
     "section": "",
-    "text": "Political communication is concerned with how information is exchanged between political actors — from politicians and governments to civil society and citizens — and the role played by intermediary actors, such as the news media, in this transmission.\nThe communication linkages are multi-faceted and increasingly digitalised. This cluster is focused on the applied aspects of political communication that involve experimentation, such as lab and field experiments. Most of the ongoing research is associated with the pioneering work of DigiPols researchers on Voting Advice Applications.\n\n14 publications · 5 active projects · Lead: V. Triga"
+    "text": "Political communication is concerned with how information is exchanged between political actors — from politicians and governments to civil society and citizens — and the role played by intermediary actors, such as the news media, in this transmission.\nThe communication linkages are multi-faceted and increasingly digitalised. This cluster is focused on the applied aspects of political communication that involve experimentation, such as lab and field experiments. Most of the ongoing research is associated with the pioneering work of DigiPols researchers on Voting Advice Applications.\n\nLead: V. Triga"
   },
   {
     "objectID": "research.html#media-social-media-monitoring",
     "href": "research.html#media-social-media-monitoring",
     "title": "Research",
     "section": "",
-    "text": "This area is centred on the development of data-collection platforms that track particular domains of interest. Work has been conducted on building real-time data collection during election campaigns, evaluating the communication of policy by the EU, and monitoring multilingual communication practices.\n\n11 publications · 4 active projects · Lead: N. Tsapatsoulis"
+    "text": "This area is centred on the development of data-collection platforms that track particular domains of interest. Work has been conducted on building real-time data collection during election campaigns, evaluating the communication of policy by the EU, and monitoring multilingual communication practices.\n\nLead: C. Tziouvas"
   },
   {
     "objectID": "research.html#public-opinion-argument-mining",
     "href": "research.html#public-opinion-argument-mining",
     "title": "Research",
     "section": "",
-    "text": "This cluster develops techniques and tools for the analysis of public opinion. It includes both traditional forms of public-opinion research, such as surveys, and more recent big-data approaches to opinion mining. A complementary area is argument mining, which draws inspiration from computational linguistics.\n\n9 publications · 3 active projects · Lead: C. Djouvas"
-  },
-  {
-    "objectID": "research.html#the-digipols-forum",
-    "href": "research.html#the-digipols-forum",
-    "title": "Research",
-    "section": "",
-    "text": "The Forum is an umbrella organisation that periodically brings together DigiPols researchers. It keeps researchers abreast of the state-of-the-art and serves as a venue for the exchange of ideas. Crucially, the Forum provides strategic input and guidance to DigiPols’ more specialised research clusters, and is responsible for organising lab events.\n\nConvenes 4×/yr · Open to all members"
+    "text": "This cluster develops techniques and tools for the analysis of public opinion. It includes both traditional forms of public-opinion research, such as surveys, and more recent big-data approaches to opinion mining. A complementary area is argument mining, which draws inspiration from computational linguistics.\n\nLead: N. Tsapatsoulis"
   },
   {
     "objectID": "projects/2025-internal-interdisciplinary-research-programme.html",
@@ -165,7 +158,7 @@
     "href": "index.html",
     "title": "Studying how politics moves through digital space.",
     "section": "",
-    "text": "The Digital Politics & Political Communication Research Lab\n  Studying how politics moves through digital space.\n  \n    DigiPols is an inter-departmental research lab at the Cyprus University of Technology investigating the increasingly digitalised links between politicians, the media, civil society and citizens — through experimentation, Voting Advice Applications, media monitoring platforms and computational data analysis.\n  \n  \n    Read the research →\n    Meet the lab\n  \n\n\n↳ Research clusters\nFour clusters, one forum\n\n\n  \n    \n    cluster.01\n    Applied Political Communication\n    Experimental work on how political information moves between political actors, media and citizens — including pioneering research on Voting Advice Applications.\n    explore →\n  \n  \n    \n    cluster.02\n    Media & Social Media Monitoring\n    Bespoke data-collection platforms that track political communication across news media and social media in real time, during election campaigns and beyond.\n    explore →\n  \n  \n    \n    cluster.03\n    Public Opinion & Argument Mining\n    Techniques and tools for the analysis of public opinion, combining surveys with computational methods and argument mining from computational linguistics.\n    explore →\n  \n  \n    \n    cluster.04\n    The DigiPols Forum\n    Umbrella organisation that convenes DigiPols researchers to exchange ideas, share state-of-the-art practice and set strategic direction for the lab.\n    explore →\n  \n\n\n↳ Latest\nRecent highlights & publications\n\n\nHighlights →\nRead the latest news, project launches and lab events.\nView highlights\n\n\nPublications →\nPeer-reviewed papers, reports and book chapters from the lab.\nView publications\n\n\n\n  ↳ Contact\n  Get in touch.\n  \n    \n      \n    \n    \n      Email\n      digipols@cut.ac.cy\n    \n    \n      Address\n      Department of Communication & Internet StudiesCyprus University of Technology30 Archbishop Kyprianos Str., 3036 Limassol, Cyprus\n    \n    \n      Telephone\n      +357 25002444"
+    "text": "The Digital Politics & Political Communication Research Lab\n  Studying how politics moves through digital space.\n  \n    DigiPols is an inter-departmental research lab at the Cyprus University of Technology investigating the increasingly digitalised links between politicians, the media, civil society and citizens — through experimentation, Voting Advice Applications, media monitoring platforms and computational data analysis.\n  \n  \n    Read the research →\n    Meet the lab\n  \n\n\n↳ Research clusters\nThree clusters, one forum\n\n\n  \n    \n    cluster.01\n    Applied Political Communication\n    Experimental work on how political information moves between political actors, media and citizens — including pioneering research on Voting Advice Applications.\n    explore →\n  \n  \n    \n    cluster.02\n    Media & Social Media Monitoring\n    Bespoke data-collection platforms that track political communication across news media and social media in real time, during election campaigns and beyond.\n    explore →\n  \n  \n    \n    cluster.03\n    Public Opinion & Argument Mining\n    Techniques and tools for the analysis of public opinion, combining surveys with computational methods and argument mining from computational linguistics.\n    explore →\n  \n  \n    \n    forum\n    The DigiPols Forum\n    Umbrella organisation that convenes DigiPols researchers to exchange ideas, share state-of-the-art practice and set strategic direction for the lab.\n    explore →\n  \n\n\n↳ Latest\nRecent highlights & publications\n\n\nHighlights →\nRead the latest news, project launches and lab events.\nView highlights\n\n\nPublications →\nPeer-reviewed papers, reports and book chapters from the lab.\nView publications\n\n\n\n  ↳ Contact\n  Get in touch.\n  \n    \n      \n    \n    \n      Email\n      digipols@cut.ac.cy\n    \n    \n      Address\n      Department of Communication & Internet StudiesCyprus University of Technology30 Archbishop Kyprianos Str., 3036 Limassol, Cyprus\n    \n    \n      Telephone\n      +357 25002444"
   },
   {
     "objectID": "highlights.html",
@@ -182,41 +175,6 @@
     "text": "Things happening at the lab - new grants, public talks, software releases, Forum gatherings and select press coverage."
   },
   {
-    "objectID": "about copy.html",
-    "href": "about copy.html",
-    "title": "About",
-    "section": "",
-    "text": "About the lab\n  \n  DigiPols pursues an interdisciplinary approach that brings together social scientists and computer scientists conducting complementary research on the intersection of digital technologies and politics."
-  },
-  {
-    "objectID": "about copy.html#mission",
-    "href": "about copy.html#mission",
-    "title": "About",
-    "section": "Mission",
-    "text": "Mission\nDigiPols provides a research environment for pursuing cutting-edge, theory-driven empirical research for advancing the study of how digital technologies are impacting our institutions of governance — and how politics shapes the development of these technologies.\nThe lab’s researchers are brought together in the DigiPols Forum, which meets regularly to exchange ideas, discuss best practices and offer strategic input to the four research clusters."
-  },
-  {
-    "objectID": "about copy.html#host-institution",
-    "href": "about copy.html#host-institution",
-    "title": "About",
-    "section": "Host institution",
-    "text": "Host institution\nDigiPols is hosted by the Department of Communication and Internet Studies and the Department of Public Communication at the Cyprus University of Technology, Limassol, Cyprus."
-  },
-  {
-    "objectID": "about copy.html#contact",
-    "href": "about copy.html#contact",
-    "title": "About",
-    "section": "Contact",
-    "text": "Contact\n\nEmail: digipols@cut.ac.cy\nAddress: Cyprus University of Technology, 30 Archbishop Kyprianos Str., 3036 Limassol, Cyprus\nGitHub: github.com/digipols"
-  },
-  {
-    "objectID": "about copy.html#funding",
-    "href": "about copy.html#funding",
-    "title": "About",
-    "section": "Funding",
-    "text": "Funding\nWork at DigiPols has been supported by Horizon Europe, the European Parliament, INTERREG, the Cyprus Research and Innovation Foundation and the Recovery and Resilience Plan of the Republic of Cyprus."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -228,7 +186,7 @@
     "href": "about.html#mission",
     "title": "About",
     "section": "Mission",
-    "text": "Mission\nDigiPols provides a research environment for pursuing cutting-edge, theory-driven empirical research for advancing the study of how digital technologies are impacting our institutions of governance — and how politics shapes the development of these technologies.\nThe lab’s researchers are brought together in the DigiPols Forum, which meets regularly to exchange ideas, discuss best practices and offer strategic input to the four research clusters."
+    "text": "Mission\nDigiPols provides a research environment for pursuing cutting-edge, theory-driven empirical research for advancing the study of how digital technologies are impacting our institutions of governance — and how politics shapes the development of these technologies.\nThe lab’s researchers are brought together in the DigiPols Forum, which meets regularly to exchange ideas, discuss best practices and offer strategic input to the three research clusters."
   },
   {
     "objectID": "about.html#host-institution",
@@ -256,21 +214,21 @@
     "href": "highlights/cy-vaa.html",
     "title": "Choose4Cyprus",
     "section": "",
-    "text": "ADD FURTHER INFORMATION HERE."
+    "text": "The Choose4Cyprus is a voting advice application (VAA) developed by the DigiPols research lab at the University of Cyprus for the Cyprus legislative elections of May 2026. It allows voters to compare their policy preferences with those of the candidates and parties running in the election, and to identify which candidates and parties best represent their views. The VAA is based on a comprehensive dataset of policy positions collected from party manifestos, candidate interviews, and media reports. It uses a sophisticated matching algorithm to compare voter preferences with candidate positions and to generate a list of recommended candidates and parties. The VAA also includes a feature that allows voters to explore the policy positions of candidates and parties in more detail, and to learn more about their views on specific issues.\nThe Choose4Cyprus is a non-partisan tool that is not affiliated with any political party or candidate. It is intended to help voters make informed decisions by providing them with reliable and objective information about the policy positions of parties. The VAA can be accessed online at https://choose4cyprus.eu."
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "An overview of ongoing and completed research projects across our four clusters."
+    "text": "An overview of ongoing and completed research projects across our three research clusters."
   },
   {
     "objectID": "projects.html#funded-projects-initiatives",
     "href": "projects.html#funded-projects-initiatives",
     "title": "Projects",
     "section": "",
-    "text": "An overview of ongoing and completed research projects across our four clusters."
+    "text": "An overview of ongoing and completed research projects across our three research clusters."
   },
   {
     "objectID": "projects/2014-euvox2014-an-euwide-voting.html",
@@ -354,14 +312,14 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "A growing body of work across the four clusters — political communication, monitoring, public opinion and argument mining, and the Forum. Filter by cluster or sort by date."
+    "text": "A growing body of work across our three research clusters: Applied Political Communication, Media & Social Media Monitoring, and Public Opinion & Argument Mining. Filter by cluster or sort by date."
   },
   {
     "objectID": "publications.html#peer-reviewed-papers-reports-from-digipols",
     "href": "publications.html#peer-reviewed-papers-reports-from-digipols",
     "title": "Publications",
     "section": "",
-    "text": "A growing body of work across the four clusters — political communication, monitoring, public opinion and argument mining, and the Forum. Filter by cluster or sort by date."
+    "text": "A growing body of work across our three research clusters: Applied Political Communication, Media & Social Media Monitoring, and Public Opinion & Argument Mining. Filter by cluster or sort by date."
   },
   {
     "objectID": "team.html",
@@ -382,14 +340,14 @@
     "href": "team.html#coordinators",
     "title": "Team",
     "section": "Coordinators",
-    "text": "Coordinators\n\n\n\n\n\n\n\n\n\n\nVasiliki Triga\n\n\nAssociate Professor — Coordinator\n\n\nAssociate Professor, Department of Public Communication, Cyprus University of Technology. Research interests: Political Communication, Media and Social Media, Political…\n\n\n\n\n\n\n\n\n\n\n\n\n\nNikos Tsapatsoulis\n\n\nProfessor — Coordinator\n\n\nProfessor, Department of Public Communication, Cyprus University of Technology. Research interests: Multimedia Information Retrieval, Web Data Mining, Recommender Systems…\n\n\n\n\n\n\n\n\n\n\n\n\n\nConstantinos Tziouvas\n\n\nAssociate Professor — Coordinator\n\n\nAssociate Professor, Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: Big Data, Argument Mining, Social Media Analysis.\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Coordinators\n\n\n\n\n\n\n\n\n\n\nVasiliki Triga\n\n\nAssociate Professor\n\n\nAssociate Professor, Department of Public Communication, Cyprus University of Technology. Research interests: Political Communication, Media and Social Media, Political…\n\n\n\n\n\n\n\n\n\n\n\n\n\nNikos Tsapatsoulis\n\n\nProfessor\n\n\nProfessor, Department of Public Communication, Cyprus University of Technology. Research interests: Multimedia Information Retrieval, Web Data Mining, Recommender Systems…\n\n\n\n\n\n\n\n\n\n\n\n\n\nConstantinos Tziouvas\n\n\nAssistant Professor\n\n\nAssistant Professor, Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: Big Data, Argument Mining, Social Media Analysis.\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "team.html#research-associates",
     "href": "team.html#research-associates",
     "title": "Team",
     "section": "Research Associates",
-    "text": "Research Associates\n\n\n\n\n\n\n\n\n\n\nVenia Pappa\n\n\nAssistant Professor – Research Associate\n\n\nAssistant Professor in Journalism and Digital Media at the Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: new media…\n\n\n\n\n\n\n\n\n\n\n\n\n\nKostas Gemenis\n\n\nAssistant Professor — Research Associate\n\n\nAssistant Professor of Politics and the Internet, Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: Voting Advice…\n\n\n\n\n\n\n\n\n\n\n\n\n\nNikandros Ioannides\n\n\nResearch Associate\n\n\nPhD student at Pompeu Fabra University, Barcelona. Research interests: Contemporary Democracies, Party Politics, Political Participation, Voter-Party Congruence, Public…\n\n\n\n\n\n\n\n\n\n\n\n\n\nAntonis Charalampous\n\n\nResearch Associate\n\n\nPhD student, Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: Online Discourse Analysis, Argumentation, Social Media.\n\n\n\n\n\n\n\n\n\n\n\n\n\nVasilis Manavopoulos\n\n\nResearch Associate\n\n\nPhD student, Department of Communication and Internet Studies, Cyprus University of Technology.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarco Souropetsis\n\n\nPhD Student — Researcher\n\n\nPhD student, Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: Immersive technologies (AR/VR), gamification, and…\n\n\n\n\n\n\n\nNo matching items\n\n\n\n  ↳ Open positions\n  Interested in joining the lab?\n  \n    We periodically open positions for PhD candidates, postdoctoral researchers and researchers. Get in touch if your work touches digital politics, computational social science or Voting Advice Applications.\n  \n  Contact the lab →"
+    "text": "Research Associates\n\n\n\n\n\n\n\n\n\n\nVenia Pappa\n\n\nAssistant Professor\n\n\nAssistant Professor in Journalism and Digital Media at the Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: new media…\n\n\n\n\n\n\n\n\n\n\n\n\n\nKostas Gemenis\n\n\nAssistant Professor\n\n\nAssistant Professor of Politics and the Internet, Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: Voting Advice…\n\n\n\n\n\n\n\n\n\n\n\n\n\nNikandros Ioannides\n\n\nResearch Associate\n\n\nPhD student at Pompeu Fabra University, Barcelona. Research interests: Contemporary Democracies, Party Politics, Political Participation, Voter-Party Congruence, Public…\n\n\n\n\n\n\n\n\n\n\n\n\n\nAntonis Charalampous\n\n\nResearch Associate\n\n\nPhD student, Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: Online Discourse Analysis, Argumentation, Social Media.\n\n\n\n\n\n\n\n\n\n\n\n\n\nVasilis Manavopoulos\n\n\nResearch Associate\n\n\nPhD student, Department of Communication and Internet Studies, Cyprus University of Technology.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarco Souropetsis\n\n\nResearch Associate\n\n\nPhD student, Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: Immersive technologies (AR/VR), gamification, and…\n\n\n\n\n\n\n\nNo matching items\n\n\n\n  ↳ Open positions\n  Interested in joining the lab?\n  \n    We periodically open positions for PhD candidates, postdoctoral researchers and researchers. Get in touch if your work touches digital politics, computational social science or Voting Advice Applications.\n  \n  Contact the lab →"
   },
   {
     "objectID": "team/gemenis.html",

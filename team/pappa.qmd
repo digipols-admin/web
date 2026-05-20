@@ -1,6 +1,6 @@
 ---
 title: "Venia Pappa"
-subtitle: "Assistant Professor – Research Associate"
+subtitle: "Assistant Professor"
 description: "Assistant Professor in Journalism and Digital Media at the Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: new media technologies, journalism, citizenship, algorithmic curation."
 image: images_team/pappa.png
 categories: [Researchers]
