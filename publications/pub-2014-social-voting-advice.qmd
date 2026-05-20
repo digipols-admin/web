@@ -4,5 +4,5 @@ author: "Katakis, N., Tsapatsoulis, N., Mendez, F., Triga, V. and Djouvas, C."
 date: 2014-01-01
 description: "IEEE Transactions on Cybernetics, 44(7): 1039–1052"
 categories: [Applied Political Communication]
-image: images_publications/placeholder.png
+image: images_publications/journal-article.png
 ---

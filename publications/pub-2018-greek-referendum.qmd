@@ -4,5 +4,5 @@ author: "Milioni, D. L., Triga, V. and Spyridou, L.-P."
 date: 2018-06-01
 description: "Participations, 1: 111–140"
 categories: [Media and Social Media Monitoring, Public Opinion and Argument Mining]
-image: images_publications/placeholder.png
+image: images_publications/journal-article.png
 ---

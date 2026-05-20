@@ -4,5 +4,5 @@ author: "Papa V., and Maniou, Th."
 date: 2020-01-01
 description: "Tripodos, 27(2), 11-28."
 categories: [Media and Social Media Monitoring]
-image: images_publications/placeholder.png
+image: images_publications/journal-article.png
 ---

@@ -4,5 +4,5 @@ author: "Papa V."
 date: 2017-01-01
 description: "European Journal of Communication, 32(6), 583-597."
 categories: [Applied Political Communication]
-image: images_publications/placeholder.png
+image: images_publications/journal-article.png
 ---

@@ -5,5 +5,5 @@ date: 2019-06-01
 description: "Report"
 categories:
   [Media and Social Media Monitoring, Public Opinion and Argument Mining]
-image: images_publications/cohesion-online.png
+image: images_publications/report.png
 ---

@@ -4,5 +4,5 @@ author: "Germann, M., Mendez, F., Wheatley, J. and Serdült, U."
 date: 2015-06-01
 description: "Acta Politica, 50(2): 214–238"
 categories: [Applied Political Communication]
-image: images_publications/placeholder.png
+image: images_publications/journal-article.png
 ---

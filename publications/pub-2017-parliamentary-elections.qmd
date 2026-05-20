@@ -4,5 +4,5 @@ author: "Triga, V."
 date: 2017-01-01
 description: "Southern European Society and Politics. doi: 10.1080/13608746.2017.1312768"
 categories: [Applied Political Communication]
-image: images_publications/placeholder.png
+image: images_publications/journal-article.png
 ---

@@ -438,6 +438,20 @@ h1, h2, h3, h4, h5, h6,
   }
 }
 
+// Responsive table listing (projects)
+// col order: 1=year, 2=title, 3=funder, 4=cluster
+.quarto-listing-container-table .quarto-listing-table {
+  // Mobile: hide Year and Funder — leave Title + Cluster
+  @media (max-width: 575px) {
+    thead th:nth-child(1), tbody td:nth-child(1),
+    thead th:nth-child(3), tbody td:nth-child(3) { display: none; }
+  }
+  // Small tablet: hide Funder only — Year + Title + Cluster visible
+  @media (min-width: 576px) and (max-width: 768px) {
+    thead th:nth-child(3), tbody td:nth-child(3) { display: none; }
+  }
+}
+
 // Filter / sort UI bar
 .input-group, .quarto-listing-filter, .quarto-listing-sort {
   font-family: $font-family-sans-serif;
