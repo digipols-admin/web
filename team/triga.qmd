@@ -1,9 +1,8 @@
 ---
 title: "Vasiliki Triga"
-subtitle: "Associate Professor — Coordinators"
+subtitle: "Associate Professor — Coordinator"
 description: "Associate Professor, Department of Public Communication, Cyprus University of Technology. Research interests: Political Communication, Media and Social Media, Political Parties, Electoral Campaigns."
 image: images_team/triga.png
-order: 1
 categories: [Coordinators]
 ---
 

@@ -7,8 +7,8 @@ listing:
     contents:
       - "team/triga.qmd"
       - "team/tsapatsoulis.qmd"
-      - "team/djouvas.qmd"
-    sort: "order"
+      - "team/tziouvas.qmd"
+    sort: false
     type: grid
     grid-columns: 3
     fields: [image, title, subtitle, description]
@@ -20,7 +20,9 @@ listing:
       - "team/ioannides.qmd"
       - "team/charalampous.qmd"
       - "team/sergidou.qmd"
-    sort: "order"
+      - "team/manavopoulos.qmd"
+      - "team/souropetsis.qmd"
+    sort: false
     type: grid
     grid-columns: 3
     fields: [image, title, subtitle, description]
@@ -30,7 +32,7 @@ listing:
 ```{=html}
 <div class="page-header">
 <!--  <div class="eyebrow">Team</div> -->
-  <h1 style="font-size: clamp(2.4rem, 5vw, 3.6rem); line-height: 1.02; letter-spacing: -0.03em; font-weight: 500; max-width: 22ch; margin: 0;">Social scientists & computer scientists, working together.</h1>
+  <h1 style="font-size: clamp(2.4rem, 5vw, 3.6rem); line-height: 1.02; letter-spacing: -0.03em; font-weight: 500; max-width: 22ch; margin: 0;">Social scientists & computer scientists working together</h1>
   <p class="lede">DigiPols brings together researchers from the Cyprus University of Technology. The lab is coordinated by a group of Coordinators and includes a growing group of researchers and PhD candidates.</p>
 </div>
 ```
@@ -40,7 +42,7 @@ listing:
 ::: {#directors}
 :::
 
-## Researchers
+## Research Associates
 
 ::: {#associates}
 :::

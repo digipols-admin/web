@@ -1,0 +1,13 @@
+---
+title: "Marco Souropetsis"
+subtitle: "PhD Student — Researcher"
+description: "PhD student, Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: Immersive technologies (AR/VR), gamification, and cultural heritage learning."
+image: images_team/souropetsis.png
+categories: [Researchers]
+---
+
+Marco Souropetsis is a Special Teaching Staff in Digital Audiovisual Production and a PhD candidate at the Department of Communication and Internet Studies, Cyprus University of Technology. His PhD research focuses on “Immersive Technologies for Cultural Heritage Learning: The Role of Fun and Gamification”. He holds an M.Sc. in Cultural Informatics and Communication and a B.Sc in Cultural Technology and Communication from the University of the Aegean. 
+
+**Research interests:** Immersive technologies (AR/VR), gamification, and cultural heritage learning.
+
+**Email:** markos.souropetsis@cut.ac.cy

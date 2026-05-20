@@ -1,9 +1,8 @@
 ---
 title: "Antonis Charalampous"
-subtitle: "PhD Student — Researchers"
+subtitle: "Research Associate"
 description: "PhD student, Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: Online Discourse Analysis, Argumentation, Social Media."
 image: images_team/charalampous.png
-order: 6
 categories: [Researchers]
 ---
 

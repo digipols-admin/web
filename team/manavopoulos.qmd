@@ -1,0 +1,13 @@
+---
+title: "Vasilis Manavopoulos"
+subtitle: "Research Associate"
+description: "PhD student, Department of Communication and Internet Studies, Cyprus University of Technology."
+image: images_team/manavopoulos.png
+categories: [Researchers]
+---
+
+Vasilis Manavopoulos is a researcher at the Cyprus University of Technology. He specializes in quantitative research methods and analysis in the field of social science, primarily politics. He co-designs cross-disciplinary research tools, such as Voting Advice Applications (VAAs) and was the project manager and scientific coordinator for the DEMOTEC project (H2020, GA nr. 962553). His main research interests include quantitative research methods and statistics, political psychology and social network analysis. 
+
+**Research interests:** quantitative research methods and statistics, political psychology, social network analysis
+
+**Email:** v.manavopoulos@gmail.com

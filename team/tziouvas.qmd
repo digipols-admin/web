@@ -1,9 +1,8 @@
 ---
-title: "Constantinos Djouvas"
-subtitle: "Associate Professor — Coordinators"
+title: "Constantinos Tziouvas"
+subtitle: "Associate Professor — Coordinator"
 description: "Associate Professor, Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: Big Data, Argument Mining, Social Media Analysis."
 image: images_team/costas.png
-order: 3
 categories: [Coordinators]
 ---
 
