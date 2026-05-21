@@ -1,12 +1,12 @@
 ---
 title: "Vasiliki Triga"
 subtitle: "Associate Professor"
-description: "Associate Professor, Department of Public Communication, Cyprus University of Technology. Research interests: Political Communication, Media and Social Media, Political Parties, Electoral Campaigns."
+description: "Associate Professor, Department of Communication and Marketing, Cyprus University of Technology. Research interests: Political Communication, Media and Social Media, Political Parties, Electoral Campaigns."
 image: images_team/triga.png
 categories: [Coordinators]
 ---
 
-Associate Professor at the Department of Public Communication, Cyprus University of Technology (CUT). Ph.D. in Social and Political Sciences from the European University Institute, Florence. Published in IEEE Transactions on Cybernetics, Southern European Society and Politics, Journal of Common Market Studies, and Public Management. Co-author of *Referendums and the European Union: A Comparative Inquiry* (Cambridge University Press, 2014).
+Associate Professor at the Department of Communication and Marketing, and Dean of the Faculty of Commuication and Media Studies at Cyprus University of Technology (CUT). Ph.D. in Social and Political Sciences from the European University Institute, Florence. Published in IEEE Transactions on Cybernetics, Southern European Society and Politics, Journal of Common Market Studies, and Public Management. Co-author of *Referendums and the European Union: A Comparative Inquiry* (Cambridge University Press, 2014).
 
 **Research interests:** Political Communication, Media and Social Media, Political Parties, Electoral Campaigns.
 
