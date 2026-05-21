@@ -1,150 +1,185 @@
 [
   {
-    "objectID": "team/tsapatsoulis.html",
-    "href": "team/tsapatsoulis.html",
-    "title": "Nikos Tsapatsoulis",
+    "objectID": "team/tziouvas.html",
+    "href": "team/tziouvas.html",
+    "title": "Constantinos Tziouvas",
     "section": "",
-    "text": "Professor at the Department of Communication and Marketing and Vice Rector of Academic Research at Cyprus University of Technology (CUT). Ph.D. in Image Analysis and Synthesis from the School of Electrical and Computer Engineering, National Technical University of Athens (2000). His research has been recognised by the international research community through more than 4000 independent citations.\nResearch interests: Multimedia Information Retrieval, Web Data Mining, Recommender Systems, Collective Intelligence, Affective Computing.\nEmail: nicolas.tsapatsoulis@cut.ac.cy"
+    "text": "Assistant Professor at the Department of Communication and Internet Studies, Cyprus University of Technology (CUT). Ph.D. in Computer Networks from the City University of New York. Has participated in numerous EU-funded research projects and published in various journals related to Computer Science and Social and Political Science.\nResearch interests: Big Data, Argument Mining, Social Media Analysis.\nEmail: costas.tziouvas@cut.ac.cy"
   },
   {
-    "objectID": "team/souropetsis.html",
-    "href": "team/souropetsis.html",
-    "title": "Marco Souropetsis",
+    "objectID": "team/triga.html",
+    "href": "team/triga.html",
+    "title": "Vasiliki Triga",
     "section": "",
-    "text": "Marco Souropetsis is a Special Teaching Staff in Digital Audiovisual Production and a PhD candidate at the Department of Communication and Internet Studies, Cyprus University of Technology. His PhD research focuses on “Immersive Technologies for Cultural Heritage Learning: The Role of Fun and Gamification”. He holds an M.Sc. in Cultural Informatics and Communication and a B.Sc in Cultural Technology and Communication from the University of the Aegean.\nResearch interests: Immersive technologies (AR/VR), gamification, and cultural heritage learning.\nEmail: markos.souropetsis@cut.ac.cy"
+    "text": "Associate Professor at the Department of Communication and Marketing, and Dean of the Faculty of Commuication and Media Studies at Cyprus University of Technology (CUT). Ph.D. in Social and Political Sciences from the European University Institute, Florence. Published in IEEE Transactions on Cybernetics, Southern European Society and Politics, Journal of Common Market Studies, and Public Management. Co-author of Referendums and the European Union: A Comparative Inquiry (Cambridge University Press, 2014).\nResearch interests: Political Communication, Media and Social Media, Political Parties, Electoral Campaigns.\nEmail: vasiliki.triga@cut.ac.cy"
   },
   {
-    "objectID": "team/manavopoulos.html",
-    "href": "team/manavopoulos.html",
-    "title": "Vasilis Manavopoulos",
+    "objectID": "team/pappa.html",
+    "href": "team/pappa.html",
+    "title": "Venia Pappa",
     "section": "",
-    "text": "Vasilis Manavopoulos is a researcher at the Cyprus University of Technology. He specializes in quantitative research methods and analysis in the field of social science, primarily politics. He co-designs cross-disciplinary research tools, such as Voting Advice Applications (VAAs) and was the project manager and scientific coordinator for the DEMOTEC project (H2020, GA nr. 962553). His main research interests include quantitative research methods and statistics, political psychology and social network analysis.\nResearch interests: quantitative research methods and statistics, political psychology, social network analysis\nEmail: v.manavopoulos@gmail.com"
+    "text": "Venia Pappa (Ph.D.) is an Assistant Professor in Journalism and Digital Media at the Department of Communication and Internet Studies, at the Cyprus University of Technology. She has previously worked at the Department of Social and Political Sciences at the University of Cyprus. Venia received her Ph.D. in Communication and Internet Studies from the Cyprus University of Technology (CUT) and the Université Paris 8 Vincennes-Saint Denis.\nResearch interests: New media technologies, journalism, and citizenship. Algorithmic curation, and journalism, exploring how algorithms and automation impact news production and the public’s engagement with media."
   },
   {
-    "objectID": "team/gemenis.html",
-    "href": "team/gemenis.html",
-    "title": "Kostas Gemenis",
+    "objectID": "team/ioannides.html",
+    "href": "team/ioannides.html",
+    "title": "Nikandros Ioannides",
     "section": "",
-    "text": "Assistant Professor of Politics and the Internet in the Department of Communication and Internet Studies, Cyprus University of Technology. Ph.D. in Politics and International Relations from Keele University, UK. Published in Political Communication, Communication Methods and Measures, and Electoral Studies. Co-designed a module to study conspiracy theories related to the COVID-19 pandemic for the 10th Round of the European Social Survey (ESS).\nResearch interests: Voting Advice Applications, Political Communication, Quantitative Text Analysis, Social Media and Conspiracy Beliefs."
+    "text": "PhD student at Pompeu Fabra University in Barcelona under the supervision of Professor Toni Rodon. Holds a master’s degree in Democracy and Comparative Politics from University College London (UCL) and a bachelor’s degree in Communication and Internet Studies from the Cyprus University of Technology (CUT).\nResearch interests: Contemporary Democracies, Party Politics, Political Participation, Voter-Party Congruence, Public Opinion."
   },
   {
-    "objectID": "team.html",
-    "href": "team.html",
-    "title": "Team",
+    "objectID": "team/charalampous.html",
+    "href": "team/charalampous.html",
+    "title": "Antonis Charalampous",
     "section": "",
-    "text": "DigiPols brings together researchers from the Cyprus University of Technology. The lab is coordinated by a group of Coordinators and includes a growing group of researchers and PhD candidates."
+    "text": "Researcher at the Department of Communication and Internet Studies, Cyprus University of Technology, under the supervision of Professor Constantinos Djouvas. His research focuses on developing new techniques and systems for analysing online discourse.\nResearch interests: Online Discourse Analysis, Argumentation, Social Media.\nEmail: ag.charalampous@cut.ac.cy"
   },
   {
-    "objectID": "team.html#social-scientists-computer-scientists-working-together",
-    "href": "team.html#social-scientists-computer-scientists-working-together",
-    "title": "Team",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "DigiPols brings together researchers from the Cyprus University of Technology. The lab is coordinated by a group of Coordinators and includes a growing group of researchers and PhD candidates."
+    "text": "DigiPols research is organised around three core clusters that bring together social scientists and computer scientists working on complementary areas. These activities are coordinated and supported through the DigiPols Forum.\n\n\ncluster.01 applied\n\n\n\nPolitical communication is concerned with how information is exchanged between political actors — from politicians and governments to civil society and citizens — and the role played by intermediary actors, such as the news media, in this transmission.\nThe communication linkages are multi-faceted and increasingly digitalised. This cluster is focused on the applied aspects of political communication that involve experimentation, such as lab and field experiments. Most of the ongoing research is associated with the pioneering work of DigiPols researchers on Voting Advice Applications.\n\nLead: V. Triga\n\n\n\n\n\ncluster.02 monitoring\n\n\n\n\nThis area is centred on the development of data-collection platforms that track particular domains of interest. Work has been conducted on building real-time data collection during election campaigns, evaluating the communication of policy by the EU, and monitoring multilingual communication practices.\n\nLead: C. Tziouvas\n\n\n\n\n\n\ncluster.03 opinion\n\n\n\nThis cluster develops techniques and tools for the analysis of public opinion. It includes both traditional forms of public-opinion research, such as surveys, and more recent big-data approaches to opinion mining. A complementary area is argument mining, which draws inspiration from computational linguistics.\n\nLead: N. Tsapatsoulis"
   },
   {
-    "objectID": "team.html#coordinators",
-    "href": "team.html#coordinators",
-    "title": "Team",
-    "section": "Coordinators",
-    "text": "Coordinators\n\n\n\n\n\n\n\n\n\n\nVasiliki Triga\n\n\nAssociate Professor\n\n\nAssociate Professor, Department of Communication and Marketing, Cyprus University of Technology. Research interests: Political Communication, Media and Social Media…\n\n\n\n\n\n\n\n\n\n\n\n\n\nNikos Tsapatsoulis\n\n\nProfessor\n\n\nProfessor, Department of Communication and Marketing, Cyprus University of Technology. Research interests: Multimedia Information Retrieval, Web Data Mining, Recommender…\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "team.html#research-associates",
-    "href": "team.html#research-associates",
-    "title": "Team",
-    "section": "Research Associates",
-    "text": "Research Associates\n\n\n\n\n\n\n\n\n\n\nVenia Pappa\n\n\nAssistant Professor\n\n\nAssistant Professor in Journalism and Digital Media at the Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: new media…\n\n\n\n\n\n\n\n\n\n\n\n\n\nKostas Gemenis\n\n\nAssistant Professor\n\n\nAssistant Professor of Politics and the Internet, Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: Voting Advice…\n\n\n\n\n\n\n\n\n\n\n\n\n\nNikandros Ioannides\n\n\nResearch Associate\n\n\nPhD student at Pompeu Fabra University, Barcelona. Research interests: Contemporary Democracies, Party Politics, Political Participation, Voter-Party Congruence, Public…\n\n\n\n\n\n\n\n\n\n\n\n\n\nAntonis Charalampous\n\n\nResearch Associate\n\n\nPhD student, Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: Online Discourse Analysis, Argumentation, Social Media.\n\n\n\n\n\n\n\n\n\n\n\n\n\nVasilis Manavopoulos\n\n\nResearch Associate\n\n\nPhD student, Department of Communication and Internet Studies, Cyprus University of Technology.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarco Souropetsis\n\n\nResearch Associate\n\n\nPhD student, Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: Immersive technologies (AR/VR), gamification, and…\n\n\n\n\n\n\n\nNo matching items\n\n\n\n  ↳ Open positions\n  Interested in joining the lab?\n  \n    We periodically open positions for PhD candidates, postdoctoral researchers and researchers. Get in touch if your work touches digital politics, computational social science or Voting Advice Applications.\n  \n  Contact the lab →"
-  },
-  {
-    "objectID": "projects/2025-internal-interdisciplinary-research-programme.html",
-    "href": "projects/2025-internal-interdisciplinary-research-programme.html",
-    "title": "Internal Interdisciplinary Research Programme (IRP) Team Funding, Large Language Models Empowering Market Orientation",
+    "objectID": "research.html#three-clusters-organised-around-digital-politics",
+    "href": "research.html#three-clusters-organised-around-digital-politics",
+    "title": "Research",
     "section": "",
-    "text": "Internal Interdisciplinary Research Programme (IRP) Team Funding, Large Language Models Empowering Market Orientation"
+    "text": "DigiPols research is organised around three core clusters that bring together social scientists and computer scientists working on complementary areas. These activities are coordinated and supported through the DigiPols Forum.\n\n\ncluster.01 applied\n\n\n\nPolitical communication is concerned with how information is exchanged between political actors — from politicians and governments to civil society and citizens — and the role played by intermediary actors, such as the news media, in this transmission.\nThe communication linkages are multi-faceted and increasingly digitalised. This cluster is focused on the applied aspects of political communication that involve experimentation, such as lab and field experiments. Most of the ongoing research is associated with the pioneering work of DigiPols researchers on Voting Advice Applications.\n\nLead: V. Triga\n\n\n\n\n\ncluster.02 monitoring\n\n\n\n\nThis area is centred on the development of data-collection platforms that track particular domains of interest. Work has been conducted on building real-time data collection during election campaigns, evaluating the communication of policy by the EU, and monitoring multilingual communication practices.\n\nLead: C. Tziouvas\n\n\n\n\n\n\ncluster.03 opinion\n\n\n\nThis cluster develops techniques and tools for the analysis of public opinion. It includes both traditional forms of public-opinion research, such as surveys, and more recent big-data approaches to opinion mining. A complementary area is argument mining, which draws inspiration from computational linguistics.\n\nLead: N. Tsapatsoulis"
   },
   {
-    "objectID": "projects/2024-seed-funding-augmented-multitask.html",
-    "href": "projects/2024-seed-funding-augmented-multitask.html",
-    "title": "Seed Funding: Augmented Multi-Task Argument Mining",
+    "objectID": "research.html#applied-political-communication",
+    "href": "research.html#applied-political-communication",
+    "title": "Research",
     "section": "",
-    "text": "Seed Funding: Augmented Multi-Task Argument Mining"
+    "text": "Political communication is concerned with how information is exchanged between political actors — from politicians and governments to civil society and citizens — and the role played by intermediary actors, such as the news media, in this transmission.\nThe communication linkages are multi-faceted and increasingly digitalised. This cluster is focused on the applied aspects of political communication that involve experimentation, such as lab and field experiments. Most of the ongoing research is associated with the pioneering work of DigiPols researchers on Voting Advice Applications.\n\nLead: V. Triga"
   },
   {
-    "objectID": "projects/2022-the-european-unions-approach.html",
-    "href": "projects/2022-the-european-unions-approach.html",
-    "title": "The European Union’s Approach to Multilingualism in its Own Communication Policy",
+    "objectID": "research.html#media-social-media-monitoring",
+    "href": "research.html#media-social-media-monitoring",
+    "title": "Research",
     "section": "",
-    "text": "The European Union’s Approach to Multilingualism in its Own Communication Policy"
+    "text": "This area is centred on the development of data-collection platforms that track particular domains of interest. Work has been conducted on building real-time data collection during election campaigns, evaluating the communication of policy by the EU, and monitoring multilingual communication practices.\n\nLead: C. Tziouvas"
   },
   {
-    "objectID": "projects/2022-mediterranean-digital-media-observatory.html",
-    "href": "projects/2022-mediterranean-digital-media-observatory.html",
-    "title": "Mediterranean Digital Media Observatory MedDMO",
+    "objectID": "research.html#public-opinion-argument-mining",
+    "href": "research.html#public-opinion-argument-mining",
+    "title": "Research",
     "section": "",
-    "text": "Mediterranean Digital Media Observatory MedDMO"
+    "text": "This cluster develops techniques and tools for the analysis of public opinion. It includes both traditional forms of public-opinion research, such as surveys, and more recent big-data approaches to opinion mining. A complementary area is argument mining, which draws inspiration from computational linguistics.\n\nLead: N. Tsapatsoulis"
   },
   {
-    "objectID": "projects/2021-eut-extras-experimentation-to.html",
-    "href": "projects/2021-eut-extras-experimentation-to.html",
-    "title": "EUt+ EXTRAS - Experimentation to Transform Research Activities and Steering - European University of Technology",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "EUt+ EXTRAS - Experimentation to Transform Research Activities and Steering - European University of Technology"
+    "text": "A growing body of work across our three research clusters: Applied Political Communication, Media & Social Media Monitoring, and Public Opinion & Argument Mining. Filter by cluster or sort by date."
   },
   {
-    "objectID": "projects/2020-yades-monitoring-resilience-of.html",
-    "href": "projects/2020-yades-monitoring-resilience-of.html",
-    "title": "YADES - Monitoring resilience of cultural heritage areas against climate change",
+    "objectID": "publications.html#peer-reviewed-papers-reports-from-digipols",
+    "href": "publications.html#peer-reviewed-papers-reports-from-digipols",
+    "title": "Publications",
     "section": "",
-    "text": "YADES - Monitoring resilience of cultural heritage areas against climate change"
+    "text": "A growing body of work across our three research clusters: Applied Political Communication, Media & Social Media Monitoring, and Public Opinion & Argument Mining. Filter by cluster or sort by date."
   },
   {
-    "objectID": "projects/2020-evaluation-of-the-european.html",
-    "href": "projects/2020-evaluation-of-the-european.html",
-    "title": "Evaluation of the European Union Solidarity Fund 2002-2017",
+    "objectID": "projects/2025-euromo-2025-media-ownership.html",
+    "href": "projects/2025-euromo-2025-media-ownership.html",
+    "title": "EurOMo 2025, Media Ownership Monitor System",
     "section": "",
-    "text": "Evaluation of the European Union Solidarity Fund 2002-2017"
+    "text": "EurOMo 2025, Media Ownership Monitor System"
   },
   {
-    "objectID": "projects/2019-visibility-and-communication-european.html",
-    "href": "projects/2019-visibility-and-communication-european.html",
-    "title": "Visibility and Communication - European Cohesion Policy in Online Media",
+    "objectID": "projects/2023-marie-skodowskacurie-postdoc-fellowships.html",
+    "href": "projects/2023-marie-skodowskacurie-postdoc-fellowships.html",
+    "title": "Marie Skłodowska-Curie –Post-doc Fellowships (H2020-MSCA-COFUND-2020), «ONISILOS».",
     "section": "",
-    "text": "Visibility and Communication - European Cohesion Policy in Online Media"
+    "text": "Marie Skłodowska-Curie –Post-doc Fellowships (H2020-MSCA-COFUND-2020), «ONISILOS»."
   },
   {
-    "objectID": "projects/2019-eemc-european-election-monitoring.html",
-    "href": "projects/2019-eemc-european-election-monitoring.html",
-    "title": "EEMC - European Election Monitoring Center",
+    "objectID": "projects/2022-opinion-what-are-opinions.html",
+    "href": "projects/2022-opinion-what-are-opinions.html",
+    "title": "OPINION - What are Opinions? Integrating Theory and Methods for Automatically Analyzing Opinionated Communication",
     "section": "",
-    "text": "EEMC - European Election Monitoring Center"
+    "text": "OPINION - What are Opinions? Integrating Theory and Methods for Automatically Analyzing Opinionated Communication"
   },
   {
-    "objectID": "projects/2018-cohesify-the-impact-of.html",
-    "href": "projects/2018-cohesify-the-impact-of.html",
-    "title": "COHESIFY: The impact of Cohesion Policy on EU Identity (G.A. no. 693427)",
+    "objectID": "projects/2022-empact-empathy-and-sustainability.html",
+    "href": "projects/2022-empact-empathy-and-sustainability.html",
+    "title": "EMPACT - Empathy and Sustainability: The Art of Thinking like a Mountain",
     "section": "",
-    "text": "COHESIFY: The impact of Cohesion Policy on EU Identity (G.A. no. 693427)"
+    "text": "EMPACT - Empathy and Sustainability: The Art of Thinking like a Mountain"
   },
   {
-    "objectID": "projects/2014-study-on-the-approaches.html",
-    "href": "projects/2014-study-on-the-approaches.html",
-    "title": "“Study on the approaches of European Media to issues related to third country nationals and immigration”.",
+    "objectID": "projects/2021-democratising-territorial-cohesion-experimenting.html",
+    "href": "projects/2021-democratising-territorial-cohesion-experimenting.html",
+    "title": "Democratising Territorial Cohesion: Experimenting with deliberative citizen engagement and participatory budgeting in European regional and urban policies [DEMOTEC] (GA no. 962553)",
     "section": "",
-    "text": "“Study on the approaches of European Media to issues related to third country nationals and immigration”."
+    "text": "Democratising Territorial Cohesion: Experimenting with deliberative citizen engagement and participatory budgeting in European regional and urban policies [DEMOTEC] (GA no. 962553)"
   },
   {
-    "objectID": "projects/2014-conflict-and-violence-in.html",
-    "href": "projects/2014-conflict-and-violence-in.html",
-    "title": "Conflict and Violence in Cypriot Television: New Journalistic Forms and Practices for Mediating Conflict and Violence in the Cypriot Public Sphere",
+    "objectID": "projects/2020-we-the-internet.html",
+    "href": "projects/2020-we-the-internet.html",
+    "title": "We the Internet",
     "section": "",
-    "text": "Conflict and Violence in Cypriot Television: New Journalistic Forms and Practices for Mediating Conflict and Violence in the Cypriot Public Sphere"
+    "text": "We the Internet"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Studying how politics moves through digital space.",
+    "objectID": "projects/2020-building-the-universities-of.html",
+    "href": "projects/2020-building-the-universities-of.html",
+    "title": "“Building the Universities of the Future through Social Innovation Education” (BUFSIE)",
     "section": "",
-    "text": "The Digital Politics & Political Communication Research Lab\n  Studying how politics moves through digital space.\n  \n    DigiPols is an inter-departmental research lab at the Cyprus University of Technology investigating the increasingly digitalised links between politicians, the media, civil society and citizens — through experimentation, Voting Advice Applications, media monitoring platforms and computational data analysis.\n  \n  \n    Read the research →\n    Meet the lab\n  \n\n\n↳ Research clusters\nThree clusters, one forum\n\n\n  \n    \n    cluster.01\n    Applied Political Communication\n    Experimental work on how political information moves between political actors, media and citizens — including pioneering research on Voting Advice Applications.\n    explore →\n  \n  \n    \n    cluster.02\n    Media & Social Media Monitoring\n    Bespoke data-collection platforms that track political communication across news media and social media in real time, during election campaigns and beyond.\n    explore →\n  \n  \n    \n    cluster.03\n    Public Opinion & Argument Mining\n    Techniques and tools for the analysis of public opinion, combining surveys with computational methods and argument mining from computational linguistics.\n    explore →\n  \n  \n    \n    forum\n    The DigiPols Forum\n    Umbrella organisation that convenes DigiPols researchers to exchange ideas, share state-of-the-art practice and set strategic direction for the lab.\n    explore →\n  \n\n\n↳ Latest\nRecent highlights & publications\n\n\nHighlights →\nRead the latest news, project launches and lab events.\nView highlights\n\n\nPublications →\nPeer-reviewed papers, reports and book chapters from the lab.\nView publications\n\n\n\n  ↳ Contact\n  Get in touch.\n  \n    \n      \n    \n    \n      Email\n      digipols@cut.ac.cy\n    \n    \n      Address\n      Department of Communication & Internet StudiesCyprus University of Technology30 Archbishop Kyprianos Str., 3036 Limassol, Cyprus\n    \n    \n      Telephone\n      +357 25002444"
+    "text": "“Building the Universities of the Future through Social Innovation Education” (BUFSIE)"
+  },
+  {
+    "objectID": "projects/2019-encase-enhancing-security-and.html",
+    "href": "projects/2019-encase-enhancing-security-and.html",
+    "title": "ENCASE - EnhaNcing seCurity and privacy in the Social wEb: a user centered approach for the protection of minors",
+    "section": "",
+    "text": "ENCASE - EnhaNcing seCurity and privacy in the Social wEb: a user centered approach for the protection of minors"
+  },
+  {
+    "objectID": "projects/2018-repast-strengthening-european-integration.html",
+    "href": "projects/2018-repast-strengthening-european-integration.html",
+    "title": "RePast: Strengthening European integration through the Analysis of Conflict Discourses. Revisiting the Past, Anticipating the Future (G.A. no. 769252)",
+    "section": "",
+    "text": "RePast: Strengthening European integration through the Analysis of Conflict Discourses. Revisiting the Past, Anticipating the Future (G.A. no. 769252)"
+  },
+  {
+    "objectID": "projects/2015-supporting-participatory-community-media.html",
+    "href": "projects/2015-supporting-participatory-community-media.html",
+    "title": "“Supporting Participatory Community Media and Citizens Media literacy in Cyprus: The VoCy”.",
+    "section": "",
+    "text": "“Supporting Participatory Community Media and Citizens Media literacy in Cyprus: The VoCy”."
+  },
+  {
+    "objectID": "projects/2014-euvox2014-an-euwide-voting.html",
+    "href": "projects/2014-euvox2014-an-euwide-voting.html",
+    "title": "EUVox2014: An EU-wide voting advice application (VAA) for the 2014 elections to the European Parliament",
+    "section": "",
+    "text": "EUVox2014: An EU-wide voting advice application (VAA) for the 2014 elections to the European Parliament"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "An overview of ongoing and completed research projects across our three research clusters."
+  },
+  {
+    "objectID": "projects.html#funded-projects-initiatives",
+    "href": "projects.html#funded-projects-initiatives",
+    "title": "Projects",
+    "section": "",
+    "text": "An overview of ongoing and completed research projects across our three research clusters."
+  },
+  {
+    "objectID": "highlights/ro-vaa-2025.html",
+    "href": "highlights/ro-vaa-2025.html",
+    "title": "VotulMeu",
+    "section": "",
+    "text": "VotulMeu is a modern political profiling tool created for the May 2025 presidential elections. The purpose of this tool is to help voters identify the candidate who is closest to their own political preferences and to allow them to quickly access information about the candidates’ positions in the context of the upcoming elections.\nVotulMeu is carried out by the Center for the Study of Democracy within UBB Cluj, in partnership with researchers from universities abroad, and is coordinated by Dr. George Jiglău and Dr. Fernando Mendez (Centre for Democracy Studies Aarau, University of Zürich, and Dr. Costas Tziouvas from DigiPols at the Cyprus University of Technology. The VAA can be accessed online at https://votulmeu.eu."
   },
   {
     "objectID": "highlights.html",
@@ -203,171 +238,150 @@
     "text": "The Choose4Cyprus is a voting advice application (VAA) developed by the DigiPols research lab at the University of Cyprus for the Cyprus legislative elections of May 2026. It allows voters to compare their policy preferences with those of the candidates and parties running in the election, and to identify which candidates and parties best represent their views. The VAA is based on a comprehensive dataset of policy positions collected from party manifestos, candidate interviews, and media reports. It uses a sophisticated matching algorithm to compare voter preferences with candidate positions and to generate a list of recommended candidates and parties. The VAA also includes a feature that allows voters to explore the policy positions of candidates and parties in more detail, and to learn more about their views on specific issues.\nThe Choose4Cyprus is a non-partisan tool that is not affiliated with any political party or candidate. It is intended to help voters make informed decisions by providing them with reliable and objective information about the policy positions of parties. The VAA can be accessed online at https://choose4cyprus.eu."
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Studying how politics moves through digital space.",
     "section": "",
-    "text": "An overview of ongoing and completed research projects across our three research clusters."
+    "text": "The Digital Politics & Political Communication Research Lab\n  Studying how politics moves through digital space.\n  \n    DigiPols is an inter-departmental research lab at the Cyprus University of Technology investigating the increasingly digitalised links between politicians, the media, civil society and citizens — through experimentation, Voting Advice Applications, media monitoring platforms and computational data analysis.\n  \n  \n    Read the research →\n    Meet the lab\n  \n\n\n↳ Research clusters\nThree clusters, one forum\n\n\n  \n    \n    cluster.01\n    Applied Political Communication\n    Experimental work on how political information moves between political actors, media and citizens — including pioneering research on Voting Advice Applications.\n    explore →\n  \n  \n    \n    cluster.02\n    Media & Social Media Monitoring\n    Bespoke data-collection platforms that track political communication across news media and social media in real time, during election campaigns and beyond.\n    explore →\n  \n  \n    \n    cluster.03\n    Public Opinion & Argument Mining\n    Techniques and tools for the analysis of public opinion, combining surveys with computational methods and argument mining from computational linguistics.\n    explore →\n  \n  \n    \n    forum\n    The DigiPols Forum\n    Umbrella organisation that convenes DigiPols researchers to exchange ideas, share state-of-the-art practice and set strategic direction for the lab.\n    explore →\n  \n\n\n↳ Latest\nRecent highlights & publications\n\n\nHighlights →\nRead the latest news, project launches and lab events.\nView highlights\n\n\nPublications →\nPeer-reviewed papers, reports and book chapters from the lab.\nView publications\n\n\n\n  ↳ Contact\n  Get in touch.\n  \n    \n      \n    \n    \n      Email\n      digipols@cut.ac.cy\n    \n    \n      Address\n      Department of Communication & Internet StudiesCyprus University of Technology30 Archbishop Kyprianos Str., 3036 Limassol, Cyprus\n    \n    \n      Telephone\n      +357 25002444"
   },
   {
-    "objectID": "projects.html#funded-projects-initiatives",
-    "href": "projects.html#funded-projects-initiatives",
-    "title": "Projects",
+    "objectID": "projects/2014-conflict-and-violence-in.html",
+    "href": "projects/2014-conflict-and-violence-in.html",
+    "title": "Conflict and Violence in Cypriot Television: New Journalistic Forms and Practices for Mediating Conflict and Violence in the Cypriot Public Sphere",
     "section": "",
-    "text": "An overview of ongoing and completed research projects across our three research clusters."
+    "text": "Conflict and Violence in Cypriot Television: New Journalistic Forms and Practices for Mediating Conflict and Violence in the Cypriot Public Sphere"
   },
   {
-    "objectID": "projects/2014-euvox2014-an-euwide-voting.html",
-    "href": "projects/2014-euvox2014-an-euwide-voting.html",
-    "title": "EUVox2014: An EU-wide voting advice application (VAA) for the 2014 elections to the European Parliament",
+    "objectID": "projects/2014-study-on-the-approaches.html",
+    "href": "projects/2014-study-on-the-approaches.html",
+    "title": "“Study on the approaches of European Media to issues related to third country nationals and immigration”.",
     "section": "",
-    "text": "EUVox2014: An EU-wide voting advice application (VAA) for the 2014 elections to the European Parliament"
+    "text": "“Study on the approaches of European Media to issues related to third country nationals and immigration”."
   },
   {
-    "objectID": "projects/2015-supporting-participatory-community-media.html",
-    "href": "projects/2015-supporting-participatory-community-media.html",
-    "title": "“Supporting Participatory Community Media and Citizens Media literacy in Cyprus: The VoCy”.",
+    "objectID": "projects/2018-cohesify-the-impact-of.html",
+    "href": "projects/2018-cohesify-the-impact-of.html",
+    "title": "COHESIFY: The impact of Cohesion Policy on EU Identity (G.A. no. 693427)",
     "section": "",
-    "text": "“Supporting Participatory Community Media and Citizens Media literacy in Cyprus: The VoCy”."
+    "text": "COHESIFY: The impact of Cohesion Policy on EU Identity (G.A. no. 693427)"
   },
   {
-    "objectID": "projects/2018-repast-strengthening-european-integration.html",
-    "href": "projects/2018-repast-strengthening-european-integration.html",
-    "title": "RePast: Strengthening European integration through the Analysis of Conflict Discourses. Revisiting the Past, Anticipating the Future (G.A. no. 769252)",
+    "objectID": "projects/2019-eemc-european-election-monitoring.html",
+    "href": "projects/2019-eemc-european-election-monitoring.html",
+    "title": "EEMC - European Election Monitoring Center",
     "section": "",
-    "text": "RePast: Strengthening European integration through the Analysis of Conflict Discourses. Revisiting the Past, Anticipating the Future (G.A. no. 769252)"
+    "text": "EEMC - European Election Monitoring Center"
   },
   {
-    "objectID": "projects/2019-encase-enhancing-security-and.html",
-    "href": "projects/2019-encase-enhancing-security-and.html",
-    "title": "ENCASE - EnhaNcing seCurity and privacy in the Social wEb: a user centered approach for the protection of minors",
+    "objectID": "projects/2019-visibility-and-communication-european.html",
+    "href": "projects/2019-visibility-and-communication-european.html",
+    "title": "Visibility and Communication - European Cohesion Policy in Online Media",
     "section": "",
-    "text": "ENCASE - EnhaNcing seCurity and privacy in the Social wEb: a user centered approach for the protection of minors"
+    "text": "Visibility and Communication - European Cohesion Policy in Online Media"
   },
   {
-    "objectID": "projects/2020-building-the-universities-of.html",
-    "href": "projects/2020-building-the-universities-of.html",
-    "title": "“Building the Universities of the Future through Social Innovation Education” (BUFSIE)",
+    "objectID": "projects/2020-evaluation-of-the-european.html",
+    "href": "projects/2020-evaluation-of-the-european.html",
+    "title": "Evaluation of the European Union Solidarity Fund 2002-2017",
     "section": "",
-    "text": "“Building the Universities of the Future through Social Innovation Education” (BUFSIE)"
+    "text": "Evaluation of the European Union Solidarity Fund 2002-2017"
   },
   {
-    "objectID": "projects/2020-we-the-internet.html",
-    "href": "projects/2020-we-the-internet.html",
-    "title": "We the Internet",
+    "objectID": "projects/2020-yades-monitoring-resilience-of.html",
+    "href": "projects/2020-yades-monitoring-resilience-of.html",
+    "title": "YADES - Monitoring resilience of cultural heritage areas against climate change",
     "section": "",
-    "text": "We the Internet"
+    "text": "YADES - Monitoring resilience of cultural heritage areas against climate change"
   },
   {
-    "objectID": "projects/2021-democratising-territorial-cohesion-experimenting.html",
-    "href": "projects/2021-democratising-territorial-cohesion-experimenting.html",
-    "title": "Democratising Territorial Cohesion: Experimenting with deliberative citizen engagement and participatory budgeting in European regional and urban policies [DEMOTEC] (GA no. 962553)",
+    "objectID": "projects/2021-eut-extras-experimentation-to.html",
+    "href": "projects/2021-eut-extras-experimentation-to.html",
+    "title": "EUt+ EXTRAS - Experimentation to Transform Research Activities and Steering - European University of Technology",
     "section": "",
-    "text": "Democratising Territorial Cohesion: Experimenting with deliberative citizen engagement and participatory budgeting in European regional and urban policies [DEMOTEC] (GA no. 962553)"
+    "text": "EUt+ EXTRAS - Experimentation to Transform Research Activities and Steering - European University of Technology"
   },
   {
-    "objectID": "projects/2022-empact-empathy-and-sustainability.html",
-    "href": "projects/2022-empact-empathy-and-sustainability.html",
-    "title": "EMPACT - Empathy and Sustainability: The Art of Thinking like a Mountain",
+    "objectID": "projects/2022-mediterranean-digital-media-observatory.html",
+    "href": "projects/2022-mediterranean-digital-media-observatory.html",
+    "title": "Mediterranean Digital Media Observatory MedDMO",
     "section": "",
-    "text": "EMPACT - Empathy and Sustainability: The Art of Thinking like a Mountain"
+    "text": "Mediterranean Digital Media Observatory MedDMO"
   },
   {
-    "objectID": "projects/2022-opinion-what-are-opinions.html",
-    "href": "projects/2022-opinion-what-are-opinions.html",
-    "title": "OPINION - What are Opinions? Integrating Theory and Methods for Automatically Analyzing Opinionated Communication",
+    "objectID": "projects/2022-the-european-unions-approach.html",
+    "href": "projects/2022-the-european-unions-approach.html",
+    "title": "The European Union’s Approach to Multilingualism in its Own Communication Policy",
     "section": "",
-    "text": "OPINION - What are Opinions? Integrating Theory and Methods for Automatically Analyzing Opinionated Communication"
+    "text": "The European Union’s Approach to Multilingualism in its Own Communication Policy"
   },
   {
-    "objectID": "projects/2023-marie-skodowskacurie-postdoc-fellowships.html",
-    "href": "projects/2023-marie-skodowskacurie-postdoc-fellowships.html",
-    "title": "Marie Skłodowska-Curie –Post-doc Fellowships (H2020-MSCA-COFUND-2020), «ONISILOS».",
+    "objectID": "projects/2024-seed-funding-augmented-multitask.html",
+    "href": "projects/2024-seed-funding-augmented-multitask.html",
+    "title": "Seed Funding: Augmented Multi-Task Argument Mining",
     "section": "",
-    "text": "Marie Skłodowska-Curie –Post-doc Fellowships (H2020-MSCA-COFUND-2020), «ONISILOS»."
+    "text": "Seed Funding: Augmented Multi-Task Argument Mining"
   },
   {
-    "objectID": "projects/2025-euromo-2025-media-ownership.html",
-    "href": "projects/2025-euromo-2025-media-ownership.html",
-    "title": "EurOMo 2025, Media Ownership Monitor System",
+    "objectID": "projects/2025-internal-interdisciplinary-research-programme.html",
+    "href": "projects/2025-internal-interdisciplinary-research-programme.html",
+    "title": "Internal Interdisciplinary Research Programme (IRP) Team Funding, Large Language Models Empowering Market Orientation",
     "section": "",
-    "text": "EurOMo 2025, Media Ownership Monitor System"
+    "text": "Internal Interdisciplinary Research Programme (IRP) Team Funding, Large Language Models Empowering Market Orientation"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team",
     "section": "",
-    "text": "A growing body of work across our three research clusters: Applied Political Communication, Media & Social Media Monitoring, and Public Opinion & Argument Mining. Filter by cluster or sort by date."
+    "text": "DigiPols brings together researchers from the Cyprus University of Technology. The lab is coordinated by a group of Coordinators and includes a growing group of researchers and PhD candidates."
   },
   {
-    "objectID": "publications.html#peer-reviewed-papers-reports-from-digipols",
-    "href": "publications.html#peer-reviewed-papers-reports-from-digipols",
-    "title": "Publications",
+    "objectID": "team.html#social-scientists-computer-scientists-working-together",
+    "href": "team.html#social-scientists-computer-scientists-working-together",
+    "title": "Team",
     "section": "",
-    "text": "A growing body of work across our three research clusters: Applied Political Communication, Media & Social Media Monitoring, and Public Opinion & Argument Mining. Filter by cluster or sort by date."
+    "text": "DigiPols brings together researchers from the Cyprus University of Technology. The lab is coordinated by a group of Coordinators and includes a growing group of researchers and PhD candidates."
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "DigiPols research is organised around three core clusters that bring together social scientists and computer scientists working on complementary areas. These activities are coordinated and supported through the DigiPols Forum.\n\n\ncluster.01 applied\n\n\n\nPolitical communication is concerned with how information is exchanged between political actors — from politicians and governments to civil society and citizens — and the role played by intermediary actors, such as the news media, in this transmission.\nThe communication linkages are multi-faceted and increasingly digitalised. This cluster is focused on the applied aspects of political communication that involve experimentation, such as lab and field experiments. Most of the ongoing research is associated with the pioneering work of DigiPols researchers on Voting Advice Applications.\n\nLead: V. Triga\n\n\n\n\n\ncluster.02 monitoring\n\n\n\n\nThis area is centred on the development of data-collection platforms that track particular domains of interest. Work has been conducted on building real-time data collection during election campaigns, evaluating the communication of policy by the EU, and monitoring multilingual communication practices.\n\nLead: C. Tziouvas\n\n\n\n\n\n\ncluster.03 opinion\n\n\n\nThis cluster develops techniques and tools for the analysis of public opinion. It includes both traditional forms of public-opinion research, such as surveys, and more recent big-data approaches to opinion mining. A complementary area is argument mining, which draws inspiration from computational linguistics.\n\nLead: N. Tsapatsoulis"
+    "objectID": "team.html#coordinators",
+    "href": "team.html#coordinators",
+    "title": "Team",
+    "section": "Coordinators",
+    "text": "Coordinators\n\n\n\n\n\n\n\n\n\n\nVasiliki Triga\n\n\nAssociate Professor\n\n\nAssociate Professor, Department of Communication and Marketing, Cyprus University of Technology. Research interests: Political Communication, Media and Social Media…\n\n\n\n\n\n\n\n\n\n\n\n\n\nNikos Tsapatsoulis\n\n\nProfessor\n\n\nProfessor, Department of Communication and Marketing, Cyprus University of Technology. Research interests: Multimedia Information Retrieval, Web Data Mining, Recommender…\n\n\n\n\n\n\n\n\n\n\n\n\n\nConstantinos Tziouvas\n\n\nAssistant Professor\n\n\nAssistant Professor, Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: Big Data, Argument Mining, Social Media Analysis.\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "research.html#three-clusters-organised-around-digital-politics",
-    "href": "research.html#three-clusters-organised-around-digital-politics",
-    "title": "Research",
-    "section": "",
-    "text": "DigiPols research is organised around three core clusters that bring together social scientists and computer scientists working on complementary areas. These activities are coordinated and supported through the DigiPols Forum.\n\n\ncluster.01 applied\n\n\n\nPolitical communication is concerned with how information is exchanged between political actors — from politicians and governments to civil society and citizens — and the role played by intermediary actors, such as the news media, in this transmission.\nThe communication linkages are multi-faceted and increasingly digitalised. This cluster is focused on the applied aspects of political communication that involve experimentation, such as lab and field experiments. Most of the ongoing research is associated with the pioneering work of DigiPols researchers on Voting Advice Applications.\n\nLead: V. Triga\n\n\n\n\n\ncluster.02 monitoring\n\n\n\n\nThis area is centred on the development of data-collection platforms that track particular domains of interest. Work has been conducted on building real-time data collection during election campaigns, evaluating the communication of policy by the EU, and monitoring multilingual communication practices.\n\nLead: C. Tziouvas\n\n\n\n\n\n\ncluster.03 opinion\n\n\n\nThis cluster develops techniques and tools for the analysis of public opinion. It includes both traditional forms of public-opinion research, such as surveys, and more recent big-data approaches to opinion mining. A complementary area is argument mining, which draws inspiration from computational linguistics.\n\nLead: N. Tsapatsoulis"
+    "objectID": "team.html#research-associates",
+    "href": "team.html#research-associates",
+    "title": "Team",
+    "section": "Research Associates",
+    "text": "Research Associates\n\n\n\n\n\n\n\n\n\n\nVenia Pappa\n\n\nAssistant Professor\n\n\nAssistant Professor in Journalism and Digital Media at the Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: new media…\n\n\n\n\n\n\n\n\n\n\n\n\n\nKostas Gemenis\n\n\nAssistant Professor\n\n\nAssistant Professor of Politics and the Internet, Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: Voting Advice…\n\n\n\n\n\n\n\n\n\n\n\n\n\nNikandros Ioannides\n\n\nResearch Associate\n\n\nPhD student at Pompeu Fabra University, Barcelona. Research interests: Contemporary Democracies, Party Politics, Political Participation, Voter-Party Congruence, Public…\n\n\n\n\n\n\n\n\n\n\n\n\n\nAntonis Charalampous\n\n\nResearch Associate\n\n\nPhD student, Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: Online Discourse Analysis, Argumentation, Social Media.\n\n\n\n\n\n\n\n\n\n\n\n\n\nVasilis Manavopoulos\n\n\nResearch Associate\n\n\nPhD student, Department of Communication and Internet Studies, Cyprus University of Technology.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarco Souropetsis\n\n\nResearch Associate\n\n\nPhD student, Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: Immersive technologies (AR/VR), gamification, and…\n\n\n\n\n\n\n\nNo matching items\n\n\n\n  ↳ Open positions\n  Interested in joining the lab?\n  \n    We periodically open positions for PhD candidates, postdoctoral researchers and researchers. Get in touch if your work touches digital politics, computational social science or Voting Advice Applications.\n  \n  Contact the lab →"
   },
   {
-    "objectID": "research.html#applied-political-communication",
-    "href": "research.html#applied-political-communication",
-    "title": "Research",
+    "objectID": "team/gemenis.html",
+    "href": "team/gemenis.html",
+    "title": "Kostas Gemenis",
     "section": "",
-    "text": "Political communication is concerned with how information is exchanged between political actors — from politicians and governments to civil society and citizens — and the role played by intermediary actors, such as the news media, in this transmission.\nThe communication linkages are multi-faceted and increasingly digitalised. This cluster is focused on the applied aspects of political communication that involve experimentation, such as lab and field experiments. Most of the ongoing research is associated with the pioneering work of DigiPols researchers on Voting Advice Applications.\n\nLead: V. Triga"
+    "text": "Assistant Professor of Politics and the Internet in the Department of Communication and Internet Studies, Cyprus University of Technology. Ph.D. in Politics and International Relations from Keele University, UK. Published in Political Communication, Communication Methods and Measures, and Electoral Studies. Co-designed a module to study conspiracy theories related to the COVID-19 pandemic for the 10th Round of the European Social Survey (ESS).\nResearch interests: Voting Advice Applications, Political Communication, Quantitative Text Analysis, Social Media and Conspiracy Beliefs."
   },
   {
-    "objectID": "research.html#media-social-media-monitoring",
-    "href": "research.html#media-social-media-monitoring",
-    "title": "Research",
+    "objectID": "team/manavopoulos.html",
+    "href": "team/manavopoulos.html",
+    "title": "Vasilis Manavopoulos",
     "section": "",
-    "text": "This area is centred on the development of data-collection platforms that track particular domains of interest. Work has been conducted on building real-time data collection during election campaigns, evaluating the communication of policy by the EU, and monitoring multilingual communication practices.\n\nLead: C. Tziouvas"
+    "text": "Vasilis Manavopoulos is a researcher at the Cyprus University of Technology. He specializes in quantitative research methods and analysis in the field of social science, primarily politics. He co-designs cross-disciplinary research tools, such as Voting Advice Applications (VAAs) and was the project manager and scientific coordinator for the DEMOTEC project (H2020, GA nr. 962553). His main research interests include quantitative research methods and statistics, political psychology and social network analysis.\nResearch interests: quantitative research methods and statistics, political psychology, social network analysis\nEmail: v.manavopoulos@gmail.com"
   },
   {
-    "objectID": "research.html#public-opinion-argument-mining",
-    "href": "research.html#public-opinion-argument-mining",
-    "title": "Research",
+    "objectID": "team/souropetsis.html",
+    "href": "team/souropetsis.html",
+    "title": "Marco Souropetsis",
     "section": "",
-    "text": "This cluster develops techniques and tools for the analysis of public opinion. It includes both traditional forms of public-opinion research, such as surveys, and more recent big-data approaches to opinion mining. A complementary area is argument mining, which draws inspiration from computational linguistics.\n\nLead: N. Tsapatsoulis"
+    "text": "Marco Souropetsis is a Special Teaching Staff in Digital Audiovisual Production and a PhD candidate at the Department of Communication and Internet Studies, Cyprus University of Technology. His PhD research focuses on “Immersive Technologies for Cultural Heritage Learning: The Role of Fun and Gamification”. He holds an M.Sc. in Cultural Informatics and Communication and a B.Sc in Cultural Technology and Communication from the University of the Aegean.\nResearch interests: Immersive technologies (AR/VR), gamification, and cultural heritage learning.\nEmail: markos.souropetsis@cut.ac.cy"
   },
   {
-    "objectID": "team/charalampous.html",
-    "href": "team/charalampous.html",
-    "title": "Antonis Charalampous",
+    "objectID": "team/tsapatsoulis.html",
+    "href": "team/tsapatsoulis.html",
+    "title": "Nikos Tsapatsoulis",
     "section": "",
-    "text": "Researcher at the Department of Communication and Internet Studies, Cyprus University of Technology, under the supervision of Professor Constantinos Djouvas. His research focuses on developing new techniques and systems for analysing online discourse.\nResearch interests: Online Discourse Analysis, Argumentation, Social Media.\nEmail: ag.charalampous@cut.ac.cy"
-  },
-  {
-    "objectID": "team/ioannides.html",
-    "href": "team/ioannides.html",
-    "title": "Nikandros Ioannides",
-    "section": "",
-    "text": "PhD student at Pompeu Fabra University in Barcelona under the supervision of Professor Toni Rodon. Holds a master’s degree in Democracy and Comparative Politics from University College London (UCL) and a bachelor’s degree in Communication and Internet Studies from the Cyprus University of Technology (CUT).\nResearch interests: Contemporary Democracies, Party Politics, Political Participation, Voter-Party Congruence, Public Opinion."
-  },
-  {
-    "objectID": "team/pappa.html",
-    "href": "team/pappa.html",
-    "title": "Venia Pappa",
-    "section": "",
-    "text": "Venia Pappa (Ph.D.) is an Assistant Professor in Journalism and Digital Media at the Department of Communication and Internet Studies, at the Cyprus University of Technology. She has previously worked at the Department of Social and Political Sciences at the University of Cyprus. Venia received her Ph.D. in Communication and Internet Studies from the Cyprus University of Technology (CUT) and the Université Paris 8 Vincennes-Saint Denis.\nResearch interests: New media technologies, journalism, and citizenship. Algorithmic curation, and journalism, exploring how algorithms and automation impact news production and the public’s engagement with media."
-  },
-  {
-    "objectID": "team/triga.html",
-    "href": "team/triga.html",
-    "title": "Vasiliki Triga",
-    "section": "",
-    "text": "Associate Professor at the Department of Communication and Marketing, and Dean of the Faculty of Commuication and Media Studies at Cyprus University of Technology (CUT). Ph.D. in Social and Political Sciences from the European University Institute, Florence. Published in IEEE Transactions on Cybernetics, Southern European Society and Politics, Journal of Common Market Studies, and Public Management. Co-author of Referendums and the European Union: A Comparative Inquiry (Cambridge University Press, 2014).\nResearch interests: Political Communication, Media and Social Media, Political Parties, Electoral Campaigns.\nEmail: vasiliki.triga@cut.ac.cy"
+    "text": "Professor at the Department of Communication and Marketing and Vice Rector of Academic Research at Cyprus University of Technology (CUT). Ph.D. in Image Analysis and Synthesis from the School of Electrical and Computer Engineering, National Technical University of Athens (2000). His research has been recognised by the international research community through more than 4000 independent citations.\nResearch interests: Multimedia Information Retrieval, Web Data Mining, Recommender Systems, Collective Intelligence, Affective Computing.\nEmail: nicolas.tsapatsoulis@cut.ac.cy"
   }
 ]
