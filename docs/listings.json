@@ -1,5 +1,18 @@
 [
   {
+    "listing": "/team.html",
+    "items": [
+      "/team/triga.html",
+      "/team/tsapatsoulis.html",
+      "/team/pappa.html",
+      "/team/gemenis.html",
+      "/team/ioannides.html",
+      "/team/charalampous.html",
+      "/team/manavopoulos.html",
+      "/team/souropetsis.html"
+    ]
+  },
+  {
     "listing": "/highlights.html",
     "items": [
       "/highlights/cy-vaa.html"
@@ -38,7 +51,6 @@
     "items": [
       "/publications/pub-2025-biased-by-design.html",
       "/publications/pub-2025-datapoll.html",
-      "/publications/pub-2025-enforced-disappearances.html",
       "/publications/pub-2025-improving-issue-representation.html",
       "/publications/pub-2025-llms-not-for-everything.html",
       "/publications/pub-2025-practical-guide-dissidents.html",
@@ -98,20 +110,6 @@
       "/publications/pub-2014-weeding-out-rogues.html",
       "/publications/pub-2012-clustering-online-poll.html",
       "/publications/pub-2012-middle-answer-category-vaa.html"
-    ]
-  },
-  {
-    "listing": "/team.html",
-    "items": [
-      "/team/triga.html",
-      "/team/tsapatsoulis.html",
-      "/team/tziouvas.html",
-      "/team/pappa.html",
-      "/team/gemenis.html",
-      "/team/ioannides.html",
-      "/team/charalampous.html",
-      "/team/manavopoulos.html",
-      "/team/souropetsis.html"
     ]
   }
 ]

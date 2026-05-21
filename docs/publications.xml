@@ -9,14 +9,13 @@
 <link>https://digipols.com/publications.html</link>
 <atom:link href="https://digipols.com/publications.xml" rel="self" type="application/rss+xml"/>
 <description>The Digital Politics &amp; Political Communication Research Lab — Cyprus University of Technology</description>
-<generator>quarto-1.8.24</generator>
+<generator>quarto-1.3.450</generator>
 <lastBuildDate>Tue, 31 Dec 2024 22:00:00 GMT</lastBuildDate>
 <item>
   <title>Biased by Design? Evaluating Bias and Behavioral Diversity in LLM Annotation of Real-World and Synthetic Hotel Reviews</title>
   <dc:creator>Voutsa, M.C., Tsapatsoulis, N., and Djouvas, C.</dc:creator>
   <link>https://digipols.com/publications/pub-2025-biased-by-design.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -40,7 +39,6 @@
 
 
 
-
  ]]></description>
   <category>Media and Social Media Monitoring</category>
   <guid>https://digipols.com/publications/pub-2025-datapoll.html</guid>
@@ -48,29 +46,10 @@
   <media:content url="https://digipols.com/publications/images_publications/journal-article.png" medium="image" type="image/png" height="108" width="144"/>
 </item>
 <item>
-  <title>The contemporary aspect of the crime of enforced disappearances</title>
-  <dc:creator>Christodoulou, C., Kovras, N., Ioannidis, I., and Djouvas, C.</dc:creator>
-  <link>https://digipols.com/publications/pub-2025-enforced-disappearances.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-
- ]]></description>
-  <category>Applied Political Communication</category>
-  <guid>https://digipols.com/publications/pub-2025-enforced-disappearances.html</guid>
-  <pubDate>Tue, 31 Dec 2024 22:00:00 GMT</pubDate>
-  <media:content url="https://digipols.com/publications/images_publications/conference.png" medium="image" type="image/png" height="108" width="144"/>
-</item>
-<item>
   <title>Improving issue representation with candidate-level voting advice applications</title>
   <dc:creator>Germann, M., Mendez, F., Wheatley, J., Djouvas, C., Nezi, R., and Wall, M.</dc:creator>
   <link>https://digipols.com/publications/pub-2025-improving-issue-representation.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -94,7 +73,6 @@
 
 
 
-
  ]]></description>
   <category>Public Opinion and Argument Mining</category>
   <guid>https://digipols.com/publications/pub-2025-llms-not-for-everything.html</guid>
@@ -106,7 +84,6 @@
   <dc:creator>Christodoulou, C., Kovras, N., Ioannidis, I., and Djouvas, C.</dc:creator>
   <link>https://digipols.com/publications/pub-2025-practical-guide-dissidents.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -130,7 +107,6 @@
 
 
 
-
  ]]></description>
   <category>Applied Political Communication</category>
   <guid>https://digipols.com/publications/pub-2024-public-value-regional-policy.html</guid>
@@ -142,7 +118,6 @@
   <dc:creator>Papa, V., and Kouros, Th.</dc:creator>
   <link>https://digipols.com/publications/pub-2024-slantwise-disengagement.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -166,7 +141,6 @@
 
 
 
-
  ]]></description>
   <category>Applied Political Communication</category>
   <guid>https://digipols.com/publications/pub-2024-strategic-choices.html</guid>
@@ -178,7 +152,6 @@
   <dc:creator>Constandinides, C., Papa, V., and Ioannou, M.</dc:creator>
   <link>https://digipols.com/publications/pub-2024-videography-social-movement.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -202,7 +175,6 @@
 
 
 
-
  ]]></description>
   <category>Applied Political Communication</category>
   <guid>https://digipols.com/publications/pub-2024-waning-ideology-cyprus.html</guid>
@@ -214,7 +186,6 @@
   <dc:creator>Djouvas, C., Manavopoulos, V., and Mendez, F.</dc:creator>
   <link>https://digipols.com/publications/pub-2023-as-bad-as-humans.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -238,7 +209,6 @@
 
 
 
-
  ]]></description>
   <category>Media and Social Media Monitoring</category>
   <guid>https://digipols.com/publications/pub-2023-facebook-civic-participation.html</guid>
@@ -250,7 +220,6 @@
   <dc:creator>Papa, V., and Kouros, Th.</dc:creator>
   <link>https://digipols.com/publications/pub-2023-facebook-google-journalism.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -274,7 +243,6 @@
 
 
 
-
  ]]></description>
   <category>Applied Political Communication</category>
   <guid>https://digipols.com/publications/pub-2023-identifying-euroscepticism.html</guid>
@@ -286,7 +254,6 @@
   <dc:creator>Papa, V., and Ioannou, M.</dc:creator>
   <link>https://digipols.com/publications/pub-2023-protest-greece-facebook.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -310,7 +277,6 @@
 
 
 
-
  ]]></description>
   <category>Media and Social Media Monitoring</category>
   <guid>https://digipols.com/publications/pub-2023-science-news-covid19.html</guid>
@@ -322,7 +288,6 @@
   <dc:creator>Kouros, Th., Papa, V., Ioannou, M., and Kapnisis, V.</dc:creator>
   <link>https://digipols.com/publications/pub-2022-conspiratorial-narratives.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -346,7 +311,6 @@
 
 
 
-
  ]]></description>
   <category>Media and Social Media Monitoring</category>
   <guid>https://digipols.com/publications/pub-2022-cult-committee-multilingualism.html</guid>
@@ -364,12 +328,28 @@
 
 
 
-
  ]]></description>
   <category>Media and Social Media Monitoring</category>
   <guid>https://digipols.com/publications/pub-2022-emotional-user-experience.html</guid>
   <pubDate>Fri, 31 Dec 2021 22:00:00 GMT</pubDate>
   <media:content url="https://digipols.com/publications/images_publications/journal-article.png" medium="image" type="image/png" height="108" width="144"/>
+</item>
+<item>
+  <title>The European Union’s approach to multilingualism in its own communication policy</title>
+  <dc:creator>Mendez, C., Gazzola, M., Clement-Wilz, L., Triga, V., Mendez, F., Djouvas, C., Charalampous, A., and Bachtler, J.</dc:creator>
+  <link>https://digipols.com/publications/pub-2022-eu-multilingualism-report.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+ ]]></description>
+  <category>Media and Social Media Monitoring</category>
+  <guid>https://digipols.com/publications/pub-2022-eu-multilingualism-report.html</guid>
+  <pubDate>Fri, 31 Dec 2021 22:00:00 GMT</pubDate>
+  <media:content url="https://digipols.com/publications/images_publications/report.png" medium="image" type="image/png" height="108" width="144"/>
 </item>
 </channel>
 </rss>
