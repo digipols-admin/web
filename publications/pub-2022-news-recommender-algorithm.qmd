@@ -2,7 +2,10 @@
 title: "Modeling and Validating a News Recommender Algorithm in a Mainstream Medium-Sized News Organization: An Experimental Approach"
 author: "Spyridou, P., Djouvas, C., and Milioni, D."
 date: 2022-01-01
-description: "Future Internet, 14(10), 284. doi: 10.3390/fi14100284"
+description: "Future Internet, 14(10), 284"
+doi: "10.3390/fi14100284"
 categories: [Applied Political Communication]
 image: images_publications/journal-article.png
 ---
+
+**Link:** [https://doi.org/10.3390/fi14100284](https://doi.org/10.3390/fi14100284)

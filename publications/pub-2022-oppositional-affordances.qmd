@@ -2,7 +2,10 @@
 title: "The oppositional affordances of data activism"
 author: "Milioni, D., and Papa, V."
 date: 2022-01-01
-description: "Media International Australia, 183(1), 1–16. doi: 10.1177/1329878X221074795"
+description: "Media International Australia, 183(1), 1–16"
+doi: "10.1177/1329878X221074795"
 categories: [Media and Social Media Monitoring]
 image: images_publications/journal-article.png
 ---
+
+**Link:** [https://doi.org/10.1177/1329878X221074795](https://doi.org/10.1177/1329878X221074795)

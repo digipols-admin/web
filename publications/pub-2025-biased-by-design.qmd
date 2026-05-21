@@ -2,7 +2,10 @@
 title: "Biased by Design? Evaluating Bias and Behavioral Diversity in LLM Annotation of Real-World and Synthetic Hotel Reviews"
 author: "Voutsa, M.C., Tsapatsoulis, N., and Djouvas, C."
 date: 2025-01-01
-description: "AI, 6(8), 178. doi: 10.3390/ai6080178"
+description: "AI, 6(8), 178"
+doi: "10.3390/ai6080178"
 categories: [Public Opinion and Argument Mining]
 image: images_publications/journal-article.png
 ---
+
+**Link:** [https://doi.org/10.3390/ai6080178](https://doi.org/10.3390/ai6080178)

@@ -2,7 +2,10 @@
 title: "Does mode of administration impact the quality of data? Comparing a traditional survey versus an online survey via a Voting Advice Application"
 author: "Triga, V., and Manavopoulos, V."
 date: 2019-01-01
-description: "Survey Research Methods, 13, 181–194. doi: 10.18148/srm/2019.v13i2.7392"
+description: "Survey Research Methods, 13, 181–194"
+doi: "10.18148/srm/2019.v13i2.7392"
 categories: [Applied Political Communication]
 image: images_publications/journal-article.png
 ---
+
+**Link:** [https://doi.org/10.18148/srm/2019.v13i2.7392](https://doi.org/10.18148/srm/2019.v13i2.7392)

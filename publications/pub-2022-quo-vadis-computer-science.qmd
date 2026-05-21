@@ -2,7 +2,10 @@
 title: "Quo Vadis Computer Science? The topics of the influential papers during the period 2014–2021"
 author: "Tsapatsoulis, N., Partaourides, H., Christodoulou, C., and Djouvas, C."
 date: 2022-01-01
-description: "IEEE International Conference on Pervasive Intelligence and Computing (PICom 2022). doi: 10.1109/DASC/PiCom/CBDCom/Cy55231.2022.9927789"
+description: "IEEE International Conference on Pervasive Intelligence and Computing (PICom 2022)"
+doi: "10.1109/DASC/PiCom/CBDCom/Cy55231.2022.9927789"
 categories:
 image: images_publications/conference.png
 ---
+
+**Link:** [https://doi.org/10.1109/DASC/PiCom/CBDCom/Cy55231.2022.9927789](https://doi.org/10.1109/DASC/PiCom/CBDCom/Cy55231.2022.9927789)

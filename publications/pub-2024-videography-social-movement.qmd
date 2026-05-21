@@ -2,7 +2,10 @@
 title: "Videography in the service of Social Movement Visibility and Interaction Amidst the Pandemic: The case of the Support Art Workers' Initiative in Greece"
 author: "Constandinides, C., Papa, V., and Ioannou, M."
 date: 2024-01-01
-description: "Journal of Popular Communication. doi: 10.1080/15405702.2024.2393745"
+description: "Journal of Popular Communication"
+doi: "10.1080/15405702.2024.2393745"
 categories: [Applied Political Communication]
 image: images_publications/journal-article.png
 ---
+
+**Link:** [https://doi.org/10.1080/15405702.2024.2393745](https://doi.org/10.1080/15405702.2024.2393745)

@@ -2,7 +2,10 @@
 title: "Reviewing the impact of Facebook on civic participation: The mediating role of algorithmic curation and platform affordances"
 author: "Papa, V., and Ioannides, N."
 date: 2023-01-01
-description: "Journal of Communication Review. doi: 10.1080/10714421.2023.2186680"
+description: "Journal of Communication Review"
+doi: "10.1080/10714421.2023.2186680"
 categories: [Media and Social Media Monitoring]
 image: images_publications/journal-article.png
 ---
+
+**Link:** [https://doi.org/10.1080/10714421.2023.2186680](https://doi.org/10.1080/10714421.2023.2186680)

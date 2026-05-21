@@ -2,7 +2,10 @@
 title: "Parties and Change in Post-bailout Cyprus: The May 2016 Parliamentary Elections"
 author: "Triga, V."
 date: 2017-01-01
-description: "Southern European Society and Politics. doi: 10.1080/13608746.2017.1312768"
+description: "Southern European Society and Politics"
+doi: "10.1080/13608746.2017.1312768"
 categories: [Applied Political Communication]
 image: images_publications/journal-article.png
 ---
+
+**Link:** [https://doi.org/10.1080/13608746.2017.1312768](https://doi.org/10.1080/13608746.2017.1312768)

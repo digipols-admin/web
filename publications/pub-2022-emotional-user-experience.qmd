@@ -2,7 +2,10 @@
 title: "'What's up with ur emotions?' Untangling emotional user experience on Second Life and Facebook"
 author: "Photiadis, Th., and Papa, V."
 date: 2022-01-01
-description: "Behaviour & Information Technology, 1–14. doi: 10.1080/0144929X.2021.2013537"
+description: "Behaviour & Information Technology, 1–14"
+doi: "10.1080/0144929X.2021.2013537"
 categories: [Media and Social Media Monitoring]
 image: images_publications/journal-article.png
 ---
+
+**Link:** [https://doi.org/10.1080/0144929X.2021.2013537](https://doi.org/10.1080/0144929X.2021.2013537)

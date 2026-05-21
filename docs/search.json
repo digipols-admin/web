@@ -70,6 +70,97 @@
     "text": "This cluster develops techniques and tools for the analysis of public opinion. It includes both traditional forms of public-opinion research, such as surveys, and more recent big-data approaches to opinion mining. A complementary area is argument mining, which draws inspiration from computational linguistics.\n\nLead: N. Tsapatsoulis"
   },
   {
+    "objectID": "publications/pub-2025-datapoll.html",
+    "href": "publications/pub-2025-datapoll.html",
+    "title": "DataPoll: A Tool Facilitating Big Data Research in Social Sciences",
+    "section": "",
+    "text": "Link: https://doi.org/10.1109/TCSS.2024.3506582"
+  },
+  {
+    "objectID": "publications/pub-2024-waning-ideology-cyprus.html",
+    "href": "publications/pub-2024-waning-ideology-cyprus.html",
+    "title": "The Waning of Ideology? Presidential elections in the Republic of Cyprus, 5 February 2023",
+    "section": "",
+    "text": "Link: https://doi.org/10.1080/13608746.2024.2304445"
+  },
+  {
+    "objectID": "publications/pub-2024-public-value-regional-policy.html",
+    "href": "publications/pub-2024-public-value-regional-policy.html",
+    "title": "Creating public value in regional policy. Bringing citizens back in",
+    "section": "",
+    "text": "Link: https://doi.org/10.1080/14719037.2022.2126880"
+  },
+  {
+    "objectID": "publications/pub-2023-protest-greece-facebook.html",
+    "href": "publications/pub-2023-protest-greece-facebook.html",
+    "title": "The 10-year anniversary of intense protest in Greece and the role of Facebook",
+    "section": "",
+    "text": "Link: https://doi.org/10.1080/19331681.2023.2168818"
+  },
+  {
+    "objectID": "publications/pub-2023-facebook-google-journalism.html",
+    "href": "publications/pub-2023-facebook-google-journalism.html",
+    "title": "Do Facebook and Google care about journalism? Mapping the relationship between affordances of GNI/FJP tools and journalistic norms",
+    "section": "",
+    "text": "Link: https://doi.org/10.1080/21670811.2023.2211626"
+  },
+  {
+    "objectID": "publications/pub-2022-oppositional-affordances.html",
+    "href": "publications/pub-2022-oppositional-affordances.html",
+    "title": "The oppositional affordances of data activism",
+    "section": "",
+    "text": "Link: https://doi.org/10.1177/1329878X221074795"
+  },
+  {
+    "objectID": "publications/pub-2021-vote-switching-afd.html",
+    "href": "publications/pub-2021-vote-switching-afd.html",
+    "title": "Many losers– One winner? An examination of vote switching to the AfD in the 2017 German federal election using VAA data",
+    "section": "",
+    "text": "Link: https://doi.org/10.1177/1354068820914959"
+  },
+  {
+    "objectID": "publications/pub-2019-vaas-political-participation.html",
+    "href": "publications/pub-2019-vaas-political-participation.html",
+    "title": "The Impact of VAAs on (non-Voting) Aspects of Political Participation: Insights from Panel Data Collected During the 2017 German Elections Campaign",
+    "section": "",
+    "text": "Link: https://doi.org/10.1515/spp-2018-0008"
+  },
+  {
+    "objectID": "publications/pub-2019-mode-administration-data-quality.html",
+    "href": "publications/pub-2019-mode-administration-data-quality.html",
+    "title": "Does mode of administration impact the quality of data? Comparing a traditional survey versus an online survey via a Voting Advice Application",
+    "section": "",
+    "text": "Link: https://doi.org/10.18148/srm/2019.v13i2.7392"
+  },
+  {
+    "objectID": "publications/pub-2018-presidential-elections.html",
+    "href": "publications/pub-2018-presidential-elections.html",
+    "title": "Post-crisis normalisation? The 2018 Presidential Elections",
+    "section": "",
+    "text": "Link: https://doi.org/10.1080/13608746.2018.1511347"
+  },
+  {
+    "objectID": "publications/pub-2017-parliamentary-elections.html",
+    "href": "publications/pub-2017-parliamentary-elections.html",
+    "title": "Parties and Change in Post-bailout Cyprus: The May 2016 Parliamentary Elections",
+    "section": "",
+    "text": "Link: https://doi.org/10.1080/13608746.2017.1312768"
+  },
+  {
+    "objectID": "publications/pub-2014-referendums-european-union.html",
+    "href": "publications/pub-2014-referendums-european-union.html",
+    "title": "Referendums and the European Union: A comparative inquiry",
+    "section": "",
+    "text": "Link: https://doi.org/10.1017/CBO9781139524117"
+  },
+  {
+    "objectID": "publications/pub-2012-middle-answer-category-vaa.html",
+    "href": "publications/pub-2012-middle-answer-category-vaa.html",
+    "title": "‘Neither agree, nor disagree’: A critical analysis of the middle answer category in Voting Advice Applications",
+    "section": "",
+    "text": "Link: https://doi.org/10.1504/IJEG.2012.051306"
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -336,6 +427,97 @@
     "text": "Internal Interdisciplinary Research Programme (IRP) Team Funding, Large Language Models Empowering Market Orientation"
   },
   {
+    "objectID": "publications/pub-2018-vaa-balancing-tool.html",
+    "href": "publications/pub-2018-vaa-balancing-tool.html",
+    "title": "VAA Balancing Tool (Version 0.1)",
+    "section": "",
+    "text": "Link: https://doi.org/10.5281/zenodo.1464098"
+  },
+  {
+    "objectID": "publications/pub-2019-instagram-hashtags.html",
+    "href": "publications/pub-2019-instagram-hashtags.html",
+    "title": "Filtering Instagram hashtags through crowd tagging and the HITS algorithm",
+    "section": "",
+    "text": "Link: https://doi.org/10.1109/TCSS.2019.2914080"
+  },
+  {
+    "objectID": "publications/pub-2020-cohesion-media.html",
+    "href": "publications/pub-2020-cohesion-media.html",
+    "title": "EU Cohesion Policy under the Media Spotlight: Exploring Territorial and Temporal Patterns in News Coverage and Tone",
+    "section": "",
+    "text": "Link: https://doi.org/10.1111/jcms.13016"
+  },
+  {
+    "objectID": "publications/pub-2022-conspiratorial-narratives.html",
+    "href": "publications/pub-2022-conspiratorial-narratives.html",
+    "title": "Conspiratorial narratives on Facebook and their historical contextual associations: A case study from Cyprus",
+    "section": "",
+    "text": "Link: https://doi.org/10.1177/01968599221117235"
+  },
+  {
+    "objectID": "publications/pub-2022-emotional-user-experience.html",
+    "href": "publications/pub-2022-emotional-user-experience.html",
+    "title": "‘What’s up with ur emotions?’ Untangling emotional user experience on Second Life and Facebook",
+    "section": "",
+    "text": "Link: https://doi.org/10.1080/0144929X.2021.2013537"
+  },
+  {
+    "objectID": "publications/pub-2022-news-recommender-algorithm.html",
+    "href": "publications/pub-2022-news-recommender-algorithm.html",
+    "title": "Modeling and Validating a News Recommender Algorithm in a Mainstream Medium-Sized News Organization: An Experimental Approach",
+    "section": "",
+    "text": "Link: https://doi.org/10.3390/fi14100284"
+  },
+  {
+    "objectID": "publications/pub-2022-quo-vadis-computer-science.html",
+    "href": "publications/pub-2022-quo-vadis-computer-science.html",
+    "title": "Quo Vadis Computer Science? The topics of the influential papers during the period 2014–2021",
+    "section": "",
+    "text": "Link: https://doi.org/10.1109/DASC/PiCom/CBDCom/Cy55231.2022.9927789"
+  },
+  {
+    "objectID": "publications/pub-2023-facebook-civic-participation.html",
+    "href": "publications/pub-2023-facebook-civic-participation.html",
+    "title": "Reviewing the impact of Facebook on civic participation: The mediating role of algorithmic curation and platform affordances",
+    "section": "",
+    "text": "Link: https://doi.org/10.1080/10714421.2023.2186680"
+  },
+  {
+    "objectID": "publications/pub-2023-science-news-covid19.html",
+    "href": "publications/pub-2023-science-news-covid19.html",
+    "title": "The dissemination of science news in social media platforms during the COVID-19 crisis: Characteristics and selection criteria",
+    "section": "",
+    "text": "Link: https://doi.org/10.15581/003.36.1.35-46"
+  },
+  {
+    "objectID": "publications/pub-2024-slantwise-disengagement.html",
+    "href": "publications/pub-2024-slantwise-disengagement.html",
+    "title": "Slantwise Disengagement: Explaining Facebook Users’ Acts Beyond Resistance/Internalization of Domination Binary",
+    "section": "",
+    "text": "Link: https://doi.org/10.1177/13548565241227396"
+  },
+  {
+    "objectID": "publications/pub-2024-videography-social-movement.html",
+    "href": "publications/pub-2024-videography-social-movement.html",
+    "title": "Videography in the service of Social Movement Visibility and Interaction Amidst the Pandemic: The case of the Support Art Workers’ Initiative in Greece",
+    "section": "",
+    "text": "Link: https://doi.org/10.1080/15405702.2024.2393745"
+  },
+  {
+    "objectID": "publications/pub-2025-biased-by-design.html",
+    "href": "publications/pub-2025-biased-by-design.html",
+    "title": "Biased by Design? Evaluating Bias and Behavioral Diversity in LLM Annotation of Real-World and Synthetic Hotel Reviews",
+    "section": "",
+    "text": "Link: https://doi.org/10.3390/ai6080178"
+  },
+  {
+    "objectID": "publications/pub-2025-improving-issue-representation.html",
+    "href": "publications/pub-2025-improving-issue-representation.html",
+    "title": "Improving issue representation with candidate-level voting advice applications",
+    "section": "",
+    "text": "Link: https://doi.org/10.1111/1475-6765.70024"
+  },
+  {
     "objectID": "team.html",
     "href": "team.html",
     "title": "Team",
@@ -354,14 +536,14 @@
     "href": "team.html#coordinators",
     "title": "Team",
     "section": "Coordinators",
-    "text": "Coordinators\n\n\n\n\n\n\n\n\n\n\nVasiliki Triga\n\n\nAssociate Professor\n\n\nAssociate Professor, Department of Communication and Marketing, Cyprus University of Technology. Research interests: Political Communication, Media and Social Media…\n\n\n\n\n\n\n\n\n\n\n\n\n\nNikos Tsapatsoulis\n\n\nProfessor\n\n\nProfessor, Department of Communication and Marketing, Cyprus University of Technology. Research interests: Multimedia Information Retrieval, Web Data Mining, Recommender…\n\n\n\n\n\n\n\n\n\n\n\n\n\nConstantinos Tziouvas\n\n\nAssistant Professor\n\n\nAssistant Professor, Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: Big Data, Argument Mining, Social Media Analysis.\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Coordinators\n\n\n\n\n\n\n\n\n\n\nVasiliki Triga\n\n\nAssociate Professor\n\n\nAssociate Professor, Department of Communication and Marketing, Cyprus University of Technology. Research interests: Political Communication, Media and Social Media…\n\n\n\n\n\n\n\n\n\n\n\n\nNikos Tsapatsoulis\n\n\nProfessor\n\n\nProfessor, Department of Communication and Marketing, Cyprus University of Technology. Research interests: Multimedia Information Retrieval, Web Data Mining, Recommender…\n\n\n\n\n\n\n\n\n\n\n\n\nConstantinos Tziouvas\n\n\nAssistant Professor\n\n\nAssistant Professor, Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: Big Data, Argument Mining, Social Media Analysis.\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "team.html#research-associates",
     "href": "team.html#research-associates",
     "title": "Team",
     "section": "Research Associates",
-    "text": "Research Associates\n\n\n\n\n\n\n\n\n\n\nVenia Pappa\n\n\nAssistant Professor\n\n\nAssistant Professor in Journalism and Digital Media at the Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: new media…\n\n\n\n\n\n\n\n\n\n\n\n\n\nKostas Gemenis\n\n\nAssistant Professor\n\n\nAssistant Professor of Politics and the Internet, Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: Voting Advice…\n\n\n\n\n\n\n\n\n\n\n\n\n\nNikandros Ioannides\n\n\nResearch Associate\n\n\nPhD student at Pompeu Fabra University, Barcelona. Research interests: Contemporary Democracies, Party Politics, Political Participation, Voter-Party Congruence, Public…\n\n\n\n\n\n\n\n\n\n\n\n\n\nAntonis Charalampous\n\n\nResearch Associate\n\n\nPhD student, Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: Online Discourse Analysis, Argumentation, Social Media.\n\n\n\n\n\n\n\n\n\n\n\n\n\nVasilis Manavopoulos\n\n\nResearch Associate\n\n\nPhD student, Department of Communication and Internet Studies, Cyprus University of Technology.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarco Souropetsis\n\n\nResearch Associate\n\n\nPhD student, Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: Immersive technologies (AR/VR), gamification, and…\n\n\n\n\n\n\n\nNo matching items\n\n\n\n  ↳ Open positions\n  Interested in joining the lab?\n  \n    We periodically open positions for PhD candidates, postdoctoral researchers and researchers. Get in touch if your work touches digital politics, computational social science or Voting Advice Applications.\n  \n  Contact the lab →"
+    "text": "Research Associates\n\n\n\n\n\n\n\n\n\n\nVenia Pappa\n\n\nAssistant Professor\n\n\nAssistant Professor in Journalism and Digital Media at the Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: new media…\n\n\n\n\n\n\n\n\n\n\n\n\nKostas Gemenis\n\n\nAssistant Professor\n\n\nAssistant Professor of Politics and the Internet, Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: Voting Advice…\n\n\n\n\n\n\n\n\n\n\n\n\nNikandros Ioannides\n\n\nResearch Associate\n\n\nPhD student at Pompeu Fabra University, Barcelona. Research interests: Contemporary Democracies, Party Politics, Political Participation, Voter-Party Congruence, Public…\n\n\n\n\n\n\n\n\n\n\n\n\nAntonis Charalampous\n\n\nResearch Associate\n\n\nPhD student, Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: Online Discourse Analysis, Argumentation, Social Media.\n\n\n\n\n\n\n\n\n\n\n\n\nVasilis Manavopoulos\n\n\nResearch Associate\n\n\nPhD student, Department of Communication and Internet Studies, Cyprus University of Technology.\n\n\n\n\n\n\n\n\n\n\n\n\nMarco Souropetsis\n\n\nResearch Associate\n\n\nPhD student, Department of Communication and Internet Studies, Cyprus University of Technology. Research interests: Immersive technologies (AR/VR), gamification, and…\n\n\n\n\n\nNo matching items\n\n\n  ↳ Open positions\n  Interested in joining the lab?\n  \n    We periodically open positions for PhD candidates, postdoctoral researchers and researchers. Get in touch if your work touches digital politics, computational social science or Voting Advice Applications.\n  \n  Contact the lab →"
   },
   {
     "objectID": "team/gemenis.html",

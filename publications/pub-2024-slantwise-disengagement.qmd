@@ -2,7 +2,10 @@
 title: "Slantwise Disengagement: Explaining Facebook Users' Acts Beyond Resistance/Internalization of Domination Binary"
 author: "Papa, V., and Kouros, Th."
 date: 2024-01-01
-description: "Convergence: The International Journal into New Media Technologies. doi: 10.1177/13548565241227396"
+description: "Convergence: The International Journal into New Media Technologies"
+doi: "10.1177/13548565241227396"
 categories: [Media and Social Media Monitoring]
 image: images_publications/journal-article.png
 ---
+
+**Link:** [https://doi.org/10.1177/13548565241227396](https://doi.org/10.1177/13548565241227396)

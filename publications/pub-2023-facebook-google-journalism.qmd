@@ -2,7 +2,10 @@
 title: "Do Facebook and Google care about journalism? Mapping the relationship between affordances of GNI/FJP tools and journalistic norms"
 author: "Papa, V., and Kouros, Th."
 date: 2023-01-01
-description: "Digital Journalism. doi: 10.1080/21670811.2023.2211626"
+description: "Digital Journalism"
+doi: "10.1080/21670811.2023.2211626"
 categories: [Media and Social Media Monitoring]
 image: images_publications/journal-article.png
 ---
+
+**Link:** [https://doi.org/10.1080/21670811.2023.2211626](https://doi.org/10.1080/21670811.2023.2211626)

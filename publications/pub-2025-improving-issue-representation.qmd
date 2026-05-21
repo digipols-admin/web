@@ -2,7 +2,10 @@
 title: "Improving issue representation with candidate-level voting advice applications"
 author: "Germann, M., Mendez, F., Wheatley, J., Djouvas, C., Nezi, R., and Wall, M."
 date: 2025-01-01
-description: "European Journal of Political Research, 64(4), 2132–2145. doi: 10.1111/1475-6765.70024"
+description: "European Journal of Political Research, 64(4), 2132–2145"
+doi: "10.1111/1475-6765.70024"
 categories: [Applied Political Communication]
 image: images_publications/journal-article.png
 ---
+
+**Link:** [https://doi.org/10.1111/1475-6765.70024](https://doi.org/10.1111/1475-6765.70024)

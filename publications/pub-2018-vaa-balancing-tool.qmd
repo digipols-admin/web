@@ -2,7 +2,10 @@
 title: "VAA Balancing Tool (Version 0.1)"
 author: "Djouvas, C., and Mendez, F."
 date: 2018-01-01
-description: "Zenodo (Published Software). doi: 10.5281/zenodo.1464098"
+description: "Zenodo (Published Software)"
+doi: "10.5281/zenodo.1464098"
 categories: [Applied Political Communication]
 image: images_publications/placeholder.png
 ---
+
+**Link:** [https://doi.org/10.5281/zenodo.1464098](https://doi.org/10.5281/zenodo.1464098)
