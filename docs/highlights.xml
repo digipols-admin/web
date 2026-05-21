@@ -13,7 +13,7 @@
 <lastBuildDate>Fri, 29 May 2026 21:00:00 GMT</lastBuildDate>
 <item>
   <title>Choose4Cyprus</title>
-  <link>https://digipols.com/highlights/cy-vaa.html</link>
+  <link>https://digipols.com/highlights/cy-vaa-2026.html</link>
   <description><![CDATA[ 
 
 
@@ -25,7 +25,7 @@
 
  ]]></description>
   <category>News</category>
-  <guid>https://digipols.com/highlights/cy-vaa.html</guid>
+  <guid>https://digipols.com/highlights/cy-vaa-2026.html</guid>
   <pubDate>Fri, 29 May 2026 21:00:00 GMT</pubDate>
   <media:content url="https://digipols.com/highlights/images_highlights/cy-vaa.png" medium="image" type="image/png" height="223" width="144"/>
 </item>
@@ -46,6 +46,24 @@
   <guid>https://digipols.com/highlights/ro-vaa-2025.html</guid>
   <pubDate>Sun, 04 May 2025 21:00:00 GMT</pubDate>
   <media:content url="https://digipols.com/highlights/images_highlights/votulmeu-vaa-2025.png" medium="image" type="image/png" height="189" width="144"/>
+</item>
+<item>
+  <title>WhoGetsMyVote</title>
+  <link>https://digipols.com/highlights/uk-vaa-2024.html</link>
+  <description><![CDATA[ 
+
+
+
+<p><strong>WhoGetsMyVote</strong> is a state-of-the-art online voter information tool for the 2024 general election in Great Britain. The purpose of <strong>WhoGetsMyVote</strong> is to help citizens find information on how closely the policy platforms of political parties match their own policy preferences, and to enable them to have quick access to information about the policy positions of political parties.</p>
+<p><strong>WhoGetsMyVote</strong> represents a collaborative project involving researchers from various universities and research centres. The project is led by Dr Jon Wheatley (Oxford Brookes University), Dr Micha Germann (University of Bath), Dr Iulia Cioroianu (University of Bath), and Dr Matt Wall (Swansea University). The platform was designed by Fernando Mendez (University of Zurich) and Costas Tziouvas (Digipols, Cyrpus University of Technology). The VAA can be accessed online at <a href="https://whogetsmyvote.org/">https://whogetsmyvote.org/</a>.</p>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://digipols.com/highlights/uk-vaa-2024.html</guid>
+  <pubDate>Mon, 03 Jun 2024 21:00:00 GMT</pubDate>
+  <media:content url="https://digipols.com/highlights/images_highlights/uk-vaa-2024.png" medium="image" type="image/png" height="212" width="144"/>
 </item>
 </channel>
 </rss>

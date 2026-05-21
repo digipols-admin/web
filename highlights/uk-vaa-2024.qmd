@@ -1,0 +1,11 @@
+---
+title: "WhoGetsMyVote"
+date: 2024-06-04
+description: "Voting Advice Application for the 2024 UK general election."
+categories: [News]
+image: images_highlights/uk-vaa-2024.png
+---
+
+**WhoGetsMyVote** is a state-of-the-art online voter information tool for the 2024 general election in Great Britain. The purpose of **WhoGetsMyVote** is to help citizens find information on how closely the policy platforms of political parties match their own policy preferences, and to enable them to have quick access to information about the policy positions of political parties. 
+
+**WhoGetsMyVote** represents a collaborative project involving researchers from various universities and research centres. The project is led by Dr Jon Wheatley (Oxford Brookes University), Dr Micha Germann (University of Bath), Dr Iulia Cioroianu (University of Bath), and Dr Matt Wall (Swansea University). The platform was designed by Fernando Mendez (University of Zurich) and Costas Tziouvas (Digipols, Cyrpus University of Technology). The VAA can be accessed online at [https://whogetsmyvote.org/](https://whogetsmyvote.org/).

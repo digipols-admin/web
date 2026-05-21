@@ -175,25 +175,18 @@
     "text": "An overview of ongoing and completed research projects across our three research clusters."
   },
   {
-    "objectID": "highlights/ro-vaa-2025.html",
-    "href": "highlights/ro-vaa-2025.html",
-    "title": "VotulMeu",
+    "objectID": "highlights/uk-vaa-2024.html",
+    "href": "highlights/uk-vaa-2024.html",
+    "title": "WhoGetsMyVote",
     "section": "",
-    "text": "VotulMeu is a modern political profiling tool created for the May 2025 presidential elections. The purpose of this tool is to help voters identify the candidate who is closest to their own political preferences and to allow them to quickly access information about the candidates’ positions in the context of the upcoming elections.\nVotulMeu is carried out by the Center for the Study of Democracy within UBB Cluj, in partnership with researchers from universities abroad, and is coordinated by Dr. George Jiglău and Dr. Fernando Mendez (Centre for Democracy Studies Aarau, University of Zürich, and Dr. Costas Tziouvas from DigiPols at the Cyprus University of Technology. The VAA can be accessed online at https://votulmeu.eu."
+    "text": "WhoGetsMyVote is a state-of-the-art online voter information tool for the 2024 general election in Great Britain. The purpose of WhoGetsMyVote is to help citizens find information on how closely the policy platforms of political parties match their own policy preferences, and to enable them to have quick access to information about the policy positions of political parties.\nWhoGetsMyVote represents a collaborative project involving researchers from various universities and research centres. The project is led by Dr Jon Wheatley (Oxford Brookes University), Dr Micha Germann (University of Bath), Dr Iulia Cioroianu (University of Bath), and Dr Matt Wall (Swansea University). The platform was designed by Fernando Mendez (University of Zurich) and Costas Tziouvas (Digipols, Cyrpus University of Technology). The VAA can be accessed online at https://whogetsmyvote.org/."
   },
   {
-    "objectID": "highlights.html",
-    "href": "highlights.html",
-    "title": "Highlights",
+    "objectID": "highlights/cy-vaa-2026.html",
+    "href": "highlights/cy-vaa-2026.html",
+    "title": "Choose4Cyprus",
     "section": "",
-    "text": "Things happening at the lab - new grants, public talks, software releases, Forum gatherings and select press coverage."
-  },
-  {
-    "objectID": "highlights.html#news-project-launches-and-lab-events",
-    "href": "highlights.html#news-project-launches-and-lab-events",
-    "title": "Highlights",
-    "section": "",
-    "text": "Things happening at the lab - new grants, public talks, software releases, Forum gatherings and select press coverage."
+    "text": "The Choose4Cyprus is a voting advice application (VAA) developed by the DigiPols research lab at the University of Cyprus for the Cyprus legislative elections of May 2026. It allows voters to compare their policy preferences with those of the candidates and parties running in the election, and to identify which candidates and parties best represent their views. The VAA is based on a comprehensive dataset of policy positions collected from party manifestos, candidate interviews, and media reports. It uses a sophisticated matching algorithm to compare voter preferences with candidate positions and to generate a list of recommended candidates and parties. The VAA also includes a feature that allows voters to explore the policy positions of candidates and parties in more detail, and to learn more about their views on specific issues.\nThe Choose4Cyprus is a non-partisan tool that is not affiliated with any political party or candidate. It is intended to help voters make informed decisions by providing them with reliable and objective information about the policy positions of parties. The VAA can be accessed online at https://choose4cyprus.eu."
   },
   {
     "objectID": "about.html",
@@ -231,11 +224,25 @@
     "text": "Funding\nWork at DigiPols has been supported by Horizon Europe, the European Parliament, INTERREG, the Cyprus Research and Innovation Foundation and the Recovery and Resilience Plan of the Republic of Cyprus."
   },
   {
-    "objectID": "highlights/cy-vaa.html",
-    "href": "highlights/cy-vaa.html",
-    "title": "Choose4Cyprus",
+    "objectID": "highlights.html",
+    "href": "highlights.html",
+    "title": "Highlights",
     "section": "",
-    "text": "The Choose4Cyprus is a voting advice application (VAA) developed by the DigiPols research lab at the University of Cyprus for the Cyprus legislative elections of May 2026. It allows voters to compare their policy preferences with those of the candidates and parties running in the election, and to identify which candidates and parties best represent their views. The VAA is based on a comprehensive dataset of policy positions collected from party manifestos, candidate interviews, and media reports. It uses a sophisticated matching algorithm to compare voter preferences with candidate positions and to generate a list of recommended candidates and parties. The VAA also includes a feature that allows voters to explore the policy positions of candidates and parties in more detail, and to learn more about their views on specific issues.\nThe Choose4Cyprus is a non-partisan tool that is not affiliated with any political party or candidate. It is intended to help voters make informed decisions by providing them with reliable and objective information about the policy positions of parties. The VAA can be accessed online at https://choose4cyprus.eu."
+    "text": "Things happening at the lab - new grants, public talks, software releases, Forum gatherings and select press coverage."
+  },
+  {
+    "objectID": "highlights.html#news-project-launches-and-lab-events",
+    "href": "highlights.html#news-project-launches-and-lab-events",
+    "title": "Highlights",
+    "section": "",
+    "text": "Things happening at the lab - new grants, public talks, software releases, Forum gatherings and select press coverage."
+  },
+  {
+    "objectID": "highlights/ro-vaa-2025.html",
+    "href": "highlights/ro-vaa-2025.html",
+    "title": "VotulMeu",
+    "section": "",
+    "text": "VotulMeu is a modern political profiling tool created for the May 2025 presidential elections. The purpose of this tool is to help voters identify the candidate who is closest to their own political preferences and to allow them to quickly access information about the candidates’ positions in the context of the upcoming elections.\nVotulMeu is carried out by the Center for the Study of Democracy within UBB Cluj, in partnership with researchers from universities abroad, and is coordinated by Dr. George Jiglău and Dr. Fernando Mendez (Centre for Democracy Studies Aarau, University of Zürich, and Dr. Costas Tziouvas from DigiPols at the Cyprus University of Technology. The VAA can be accessed online at https://votulmeu.eu."
   },
   {
     "objectID": "index.html",
