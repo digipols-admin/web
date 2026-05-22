@@ -1,0 +1,11 @@
+---
+title: "Helping citizens to locate political parties in the policy space: A dataset for the 2014 elections to the European Parliament"
+author: "Gemenis, K., Mendez, F. and Wheatley, J."
+date: 2019-01-01
+description: "Research Data Journal for the Humanities and Social Sciences"
+doi: "10.1163/24523666-00401002"
+categories: [Applied Political Communication]
+image: images_publications/journal-article.png
+---
+
+**Link:** [https://doi.org/10.1163/24523666-00401002](https://doi.org/10.1163/24523666-00401002)

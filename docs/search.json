@@ -91,25 +91,39 @@
     "text": "Link: https://doi.org/10.1080/14719037.2022.2126880"
   },
   {
-    "objectID": "publications/pub-2023-protest-greece-facebook.html",
-    "href": "publications/pub-2023-protest-greece-facebook.html",
-    "title": "The 10-year anniversary of intense protest in Greece and the role of Facebook",
+    "objectID": "publications/pub-2023-science-news-covid19.html",
+    "href": "publications/pub-2023-science-news-covid19.html",
+    "title": "The dissemination of science news in social media platforms during the COVID-19 crisis: Characteristics and selection criteria",
     "section": "",
-    "text": "Link: https://doi.org/10.1080/19331681.2023.2168818"
+    "text": "Link: https://doi.org/10.15581/003.36.1.35-46"
   },
   {
-    "objectID": "publications/pub-2023-facebook-google-journalism.html",
-    "href": "publications/pub-2023-facebook-google-journalism.html",
-    "title": "Do Facebook and Google care about journalism? Mapping the relationship between affordances of GNI/FJP tools and journalistic norms",
+    "objectID": "publications/pub-2023-facebook-civic-participation.html",
+    "href": "publications/pub-2023-facebook-civic-participation.html",
+    "title": "Reviewing the impact of Facebook on civic participation: The mediating role of algorithmic curation and platform affordances",
     "section": "",
-    "text": "Link: https://doi.org/10.1080/21670811.2023.2211626"
+    "text": "Link: https://doi.org/10.1080/10714421.2023.2186680"
   },
   {
-    "objectID": "publications/pub-2022-oppositional-affordances.html",
-    "href": "publications/pub-2022-oppositional-affordances.html",
-    "title": "The oppositional affordances of data activism",
+    "objectID": "publications/pub-2022-quo-vadis-computer-science.html",
+    "href": "publications/pub-2022-quo-vadis-computer-science.html",
+    "title": "Quo Vadis Computer Science? The topics of the influential papers during the period 2014–2021",
     "section": "",
-    "text": "Link: https://doi.org/10.1177/1329878X221074795"
+    "text": "Link: https://doi.org/10.1109/DASC/PiCom/CBDCom/Cy55231.2022.9927789"
+  },
+  {
+    "objectID": "publications/pub-2022-news-recommender-algorithm.html",
+    "href": "publications/pub-2022-news-recommender-algorithm.html",
+    "title": "Modeling and Validating a News Recommender Algorithm in a Mainstream Medium-Sized News Organization: An Experimental Approach",
+    "section": "",
+    "text": "Link: https://doi.org/10.3390/fi14100284"
+  },
+  {
+    "objectID": "publications/pub-2022-emotional-user-experience.html",
+    "href": "publications/pub-2022-emotional-user-experience.html",
+    "title": "‘What’s up with ur emotions?’ Untangling emotional user experience on Second Life and Facebook",
+    "section": "",
+    "text": "Link: https://doi.org/10.1080/0144929X.2021.2013537"
   },
   {
     "objectID": "publications/pub-2021-vote-switching-afd.html",
@@ -119,18 +133,11 @@
     "text": "Link: https://doi.org/10.1177/1354068820914959"
   },
   {
-    "objectID": "publications/pub-2019-vaas-political-participation.html",
-    "href": "publications/pub-2019-vaas-political-participation.html",
-    "title": "The Impact of VAAs on (non-Voting) Aspects of Political Participation: Insights from Panel Data Collected During the 2017 German Elections Campaign",
+    "objectID": "publications/pub-2019-instagram-hashtags.html",
+    "href": "publications/pub-2019-instagram-hashtags.html",
+    "title": "Filtering Instagram hashtags through crowd tagging and the HITS algorithm",
     "section": "",
-    "text": "Link: https://doi.org/10.1515/spp-2018-0008"
-  },
-  {
-    "objectID": "publications/pub-2019-mode-administration-data-quality.html",
-    "href": "publications/pub-2019-mode-administration-data-quality.html",
-    "title": "Does mode of administration impact the quality of data? Comparing a traditional survey versus an online survey via a Voting Advice Application",
-    "section": "",
-    "text": "Link: https://doi.org/10.18148/srm/2019.v13i2.7392"
+    "text": "Link: https://doi.org/10.1109/TCSS.2019.2914080"
   },
   {
     "objectID": "publications/pub-2018-presidential-elections.html",
@@ -434,11 +441,25 @@
     "text": "Link: https://doi.org/10.5281/zenodo.1464098"
   },
   {
-    "objectID": "publications/pub-2019-instagram-hashtags.html",
-    "href": "publications/pub-2019-instagram-hashtags.html",
-    "title": "Filtering Instagram hashtags through crowd tagging and the HITS algorithm",
+    "objectID": "publications/pub-2019-helping-citizens-locate-parties.html",
+    "href": "publications/pub-2019-helping-citizens-locate-parties.html",
+    "title": "Helping citizens to locate political parties in the policy space: A dataset for the 2014 elections to the European Parliament",
     "section": "",
-    "text": "Link: https://doi.org/10.1109/TCSS.2019.2914080"
+    "text": "Link: https://doi.org/10.1163/24523666-00401002"
+  },
+  {
+    "objectID": "publications/pub-2019-mode-administration-data-quality.html",
+    "href": "publications/pub-2019-mode-administration-data-quality.html",
+    "title": "Does mode of administration impact the quality of data? Comparing a traditional survey versus an online survey via a Voting Advice Application",
+    "section": "",
+    "text": "Link: https://doi.org/10.18148/srm/2019.v13i2.7392"
+  },
+  {
+    "objectID": "publications/pub-2019-vaas-political-participation.html",
+    "href": "publications/pub-2019-vaas-political-participation.html",
+    "title": "The Impact of VAAs on (non-Voting) Aspects of Political Participation: Insights from Panel Data Collected During the 2017 German Elections Campaign",
+    "section": "",
+    "text": "Link: https://doi.org/10.1515/spp-2018-0008"
   },
   {
     "objectID": "publications/pub-2020-cohesion-media.html",
@@ -455,39 +476,25 @@
     "text": "Link: https://doi.org/10.1177/01968599221117235"
   },
   {
-    "objectID": "publications/pub-2022-emotional-user-experience.html",
-    "href": "publications/pub-2022-emotional-user-experience.html",
-    "title": "‘What’s up with ur emotions?’ Untangling emotional user experience on Second Life and Facebook",
+    "objectID": "publications/pub-2022-oppositional-affordances.html",
+    "href": "publications/pub-2022-oppositional-affordances.html",
+    "title": "The oppositional affordances of data activism",
     "section": "",
-    "text": "Link: https://doi.org/10.1080/0144929X.2021.2013537"
+    "text": "Link: https://doi.org/10.1177/1329878X221074795"
   },
   {
-    "objectID": "publications/pub-2022-news-recommender-algorithm.html",
-    "href": "publications/pub-2022-news-recommender-algorithm.html",
-    "title": "Modeling and Validating a News Recommender Algorithm in a Mainstream Medium-Sized News Organization: An Experimental Approach",
+    "objectID": "publications/pub-2023-facebook-google-journalism.html",
+    "href": "publications/pub-2023-facebook-google-journalism.html",
+    "title": "Do Facebook and Google care about journalism? Mapping the relationship between affordances of GNI/FJP tools and journalistic norms",
     "section": "",
-    "text": "Link: https://doi.org/10.3390/fi14100284"
+    "text": "Link: https://doi.org/10.1080/21670811.2023.2211626"
   },
   {
-    "objectID": "publications/pub-2022-quo-vadis-computer-science.html",
-    "href": "publications/pub-2022-quo-vadis-computer-science.html",
-    "title": "Quo Vadis Computer Science? The topics of the influential papers during the period 2014–2021",
+    "objectID": "publications/pub-2023-protest-greece-facebook.html",
+    "href": "publications/pub-2023-protest-greece-facebook.html",
+    "title": "The 10-year anniversary of intense protest in Greece and the role of Facebook",
     "section": "",
-    "text": "Link: https://doi.org/10.1109/DASC/PiCom/CBDCom/Cy55231.2022.9927789"
-  },
-  {
-    "objectID": "publications/pub-2023-facebook-civic-participation.html",
-    "href": "publications/pub-2023-facebook-civic-participation.html",
-    "title": "Reviewing the impact of Facebook on civic participation: The mediating role of algorithmic curation and platform affordances",
-    "section": "",
-    "text": "Link: https://doi.org/10.1080/10714421.2023.2186680"
-  },
-  {
-    "objectID": "publications/pub-2023-science-news-covid19.html",
-    "href": "publications/pub-2023-science-news-covid19.html",
-    "title": "The dissemination of science news in social media platforms during the COVID-19 crisis: Characteristics and selection criteria",
-    "section": "",
-    "text": "Link: https://doi.org/10.15581/003.36.1.35-46"
+    "text": "Link: https://doi.org/10.1080/19331681.2023.2168818"
   },
   {
     "objectID": "publications/pub-2024-slantwise-disengagement.html",

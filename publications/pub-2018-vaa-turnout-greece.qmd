@@ -1,0 +1,8 @@
+---
+title: "The impact of voting advice applications on electoral turnout: Evidence from Greece"
+author: "Gemenis, K."
+date: 2018-01-01
+description: "Statistics, Politics and Policy, 9: 161–179"
+categories: [Applied Political Communication]
+image: images_publications/journal-article.png
+---

@@ -1,0 +1,8 @@
+---
+title: "Getting out the vote with Voting Advice Applications"
+author: "Germann, M. and Gemenis, K."
+date: 2019-01-01
+description: "Political Communication, 36: 149–170"
+categories: [Applied Political Communication]
+image: images_publications/journal-article.png
+---

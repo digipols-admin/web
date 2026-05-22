@@ -1,0 +1,8 @@
+---
+title: "COVID-19 conspiracy beliefs and vaccination intentions among social media users"
+author: "Gemenis, K."
+date: 2022-01-01
+description: "Statistics, Politics and Policy, 13(3), 279–296"
+categories: [Public Opinion and Argument Mining]
+image: images_publications/journal-article.png
+---

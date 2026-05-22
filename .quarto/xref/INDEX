@@ -427,5 +427,23 @@
   },
   "highlights/uk-vaa-2024.qmd": {
     "uk-vaa-2024.html": "daeea5e3"
+  },
+  "publications/pub-2018-vaa-turnout-greece.qmd": {
+    "pub-2018-vaa-turnout-greece.html": "d782b7b1"
+  },
+  "publications/pub-2019-getting-out-the-vote-vaas.qmd": {
+    "pub-2019-getting-out-the-vote-vaas.html": "c6c3a478"
+  },
+  "publications/pub-2019-helping-citizens-locate-parties.qmd": {
+    "pub-2019-helping-citizens-locate-parties.html": "e342d9e6"
+  },
+  "publications/pub-2019-validating-wordscores.qmd": {
+    "pub-2019-validating-wordscores.html": "19be6182"
+  },
+  "publications/pub-2022-covid-conspiracy-beliefs.qmd": {
+    "pub-2022-covid-conspiracy-beliefs.html": "9d3491a2"
+  },
+  "publications/pub-2023-vaas-party-preferences.qmd": {
+    "pub-2023-vaas-party-preferences.html": "0540be4e"
   }
 }

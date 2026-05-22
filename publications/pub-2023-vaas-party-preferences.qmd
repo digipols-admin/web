@@ -1,0 +1,8 @@
+---
+title: "Do Voting Advice Applications affect party preferences? Evidence from field experiments in five European countries"
+author: "Germann, M., Mendez, F., and Gemenis, K."
+date: 2023-01-01
+description: "Political Communication, 40(5), 596–614"
+categories: [Applied Political Communication]
+image: images_publications/journal-article.png
+---

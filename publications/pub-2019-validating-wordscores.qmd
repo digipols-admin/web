@@ -1,0 +1,8 @@
+---
+title: "Validating Wordscores: The promises and pitfalls of computational text scaling"
+author: "Bruinsma, B. and Gemenis, K."
+date: 2019-01-01
+description: "Communication Methods and Measures, 13: 212–227"
+categories: [Public Opinion and Argument Mining]
+image: images_publications/journal-article.png
+---
