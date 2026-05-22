@@ -1,9 +1,13 @@
 ---
 title: "EUt+ EXTRAS - Experimentation to Transform Research Activities and Steering - European University of Technology"
-date: "2021"
-year: "2021-2024"
+sort_year: 2024
+year: "2021 – 2024"
+status: "Past"
 funder: "H2020-EU.5. - Science With and for Society"
-categories: [Media & Social Media Monitoring]
+categories: [Media & Social Media Monitoring, Past]
 ---
 
-EUt+ EXTRAS - Experimentation to Transform Research Activities and Steering - European University of Technology
+**Year:** 2021 – 2024
+**Status:** Past
+**Funder:** H2020-EU.5. — Science With and for Society
+**Research Cluster:** Media & Social Media Monitoring

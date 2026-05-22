@@ -1,9 +1,13 @@
 ---
 title: "We the Internet"
-date: "2020"
+sort_year: 2020
 year: "2020"
-funder: "European Comission"
-categories: [Applied Political Communication]
+status: "Past"
+funder: "European Commission"
+categories: [Applied Political Communication, Past]
 ---
 
-We the Internet
+**Year:** 2020
+**Status:** Past
+**Funder:** European Commission
+**Research Cluster:** Applied Political Communication

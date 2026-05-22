@@ -1,9 +1,13 @@
 ---
 title: "EEMC - European Election Monitoring Center"
-date: "2019"
+sort_year: 2019
 year: "2019"
-funder: "Funded by the European Parliament"
-categories: [Media & Social Media Monitoring]
+status: "Past"
+funder: "European Parliament"
+categories: [Media & Social Media Monitoring, Past]
 ---
 
-EEMC - European Election Monitoring Center
+**Year:** 2019
+**Status:** Past
+**Funder:** European Parliament
+**Research Cluster:** Media & Social Media Monitoring

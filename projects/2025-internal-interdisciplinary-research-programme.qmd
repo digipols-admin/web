@@ -1,9 +1,13 @@
 ---
 title: "Internal Interdisciplinary Research Programme (IRP) Team Funding, Large Language Models Empowering Market Orientation"
-date: "2025"
-year: "2025-2026"
+sort_year: 2026
+year: "2025 – 2026"
+status: "Ongoing"
 funder: "Cyprus University of Technology"
-categories: [Public Opinion & Argument Mining]
+categories: [Public Opinion & Argument Mining, Ongoing]
 ---
 
-Internal Interdisciplinary Research Programme (IRP) Team Funding, Large Language Models Empowering Market Orientation
+**Year:** 2025 – 2026
+**Status:** Ongoing
+**Funder:** Cyprus University of Technology
+**Research Cluster:** Public Opinion & Argument Mining

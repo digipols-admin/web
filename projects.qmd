@@ -5,11 +5,11 @@ toc: false
 listing:
   contents: projects
   type: table
-  sort: "date desc"
+  sort: "sort_year desc"
   categories: true
-  fields: [year, title, funder, categories]
+  fields: [status, title, funder, categories]
   field-display-names:
-    year: "Year"
+    status: "Status"
     funder: "Funding Body"
     title: "Project Title"
     categories: "Cluster"

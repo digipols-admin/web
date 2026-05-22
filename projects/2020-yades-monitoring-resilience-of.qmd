@@ -1,9 +1,13 @@
 ---
 title: "YADES - Monitoring resilience of cultural heritage areas against climate change"
-date: "2020"
-year: "2020-2025"
-funder: "H2020 -MSCA-RISE-2019"
-categories: [Media & Social Media Monitoring]
+sort_year: 2025
+year: "2020 – 2025"
+status: "Past"
+funder: "H2020-MSCA-RISE-2019"
+categories: [Media & Social Media Monitoring, Past]
 ---
 
-YADES - Monitoring resilience of cultural heritage areas against climate change
+**Year:** 2020 – 2025
+**Status:** Past
+**Funder:** H2020-MSCA-RISE-2019
+**Research Cluster:** Media & Social Media Monitoring

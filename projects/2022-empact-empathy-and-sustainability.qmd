@@ -1,9 +1,13 @@
 ---
 title: "EMPACT - Empathy and Sustainability: The Art of Thinking like a Mountain"
-date: "2022"
-year: "2022-2024"
+sort_year: 2024
+year: "2022 – 2024"
+status: "Past"
 funder: "CREA-CULT-2021-COOP-2"
-categories: [Media & Social Media Monitoring]
+categories: [Media & Social Media Monitoring, Past]
 ---
 
-EMPACT - Empathy and Sustainability: The Art of Thinking like a Mountain
+**Year:** 2022 – 2024
+**Status:** Past
+**Funder:** CREA-CULT-2021-COOP-2
+**Research Cluster:** Media & Social Media Monitoring

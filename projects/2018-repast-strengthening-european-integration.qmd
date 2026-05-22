@@ -1,9 +1,13 @@
 ---
 title: "RePast: Strengthening European integration through the Analysis of Conflict Discourses. Revisiting the Past, Anticipating the Future (G.A. no. 769252)"
-date: "2018"
-year: "2018-2021"
+sort_year: 2021
+year: "2018 – 2021"
+status: "Past"
 funder: "Horizon 2020, CULT-COOP-02-2017, European Commission"
-categories: [Applied Political Communication]
+categories: [Applied Political Communication, Past]
 ---
 
-RePast: Strengthening European integration through the Analysis of Conflict Discourses. Revisiting the Past, Anticipating the Future (G.A. no. 769252)
+**Year:** 2018 – 2021
+**Status:** Past
+**Funder:** Horizon 2020, CULT-COOP-02-2017, European Commission
+**Research Cluster:** Applied Political Communication

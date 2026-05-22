@@ -1,9 +1,13 @@
 ---
 title: "COHESIFY: The impact of Cohesion Policy on EU Identity (G.A. no. 693427)"
-date: "2018"
+sort_year: 2018
 year: "2018"
+status: "Past"
 funder: "Horizon 2020, REFLECTIVE-SOCIETY-2015, European Commission"
-categories: [Applied Political Communication]
+categories: [Applied Political Communication, Past]
 ---
 
-COHESIFY: The impact of Cohesion Policy on EU Identity (G.A. no. 693427)
+**Year:** 2018
+**Status:** Past
+**Funder:** Horizon 2020, REFLECTIVE-SOCIETY-2015, European Commission
+**Research Cluster:** Applied Political Communication

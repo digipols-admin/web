@@ -1,9 +1,13 @@
 ---
 title: "Mediterranean Digital Media Observatory MedDMO"
-date: "2022"
-year: "2022 - 2028"
+sort_year: 2028
+year: "2022 – 2028"
+status: "Ongoing"
 funder: "H2020 DIGITAL-2024-BESTUSE-TECH-07 (GA no. 101083756)"
-categories: [Media & Social Media Monitoring]
+categories: [Media & Social Media Monitoring, Ongoing]
 ---
 
-Mediterranean Digital Media Observatory MedDMO
+**Year:** 2022 – 2028
+**Status:** Ongoing
+**Funder:** H2020 DIGITAL-2024-BESTUSE-TECH-07 (GA no. 101083756)
+**Research Cluster:** Media & Social Media Monitoring

@@ -1,9 +1,13 @@
 ---
-title: "Marie Skłodowska-Curie –Post-doc Fellowships (H2020-MSCA-COFUND-2020), «ONISILOS»."
-date: "2023"
-year: "2023-2024"
+title: "Marie Skłodowska-Curie Post-doc Fellowships (H2020-MSCA-COFUND-2020), «ONISILOS»"
+sort_year: 2024
+year: "2023 – 2024"
+status: "Past"
 funder: "H2020-MSCA-COFUND-2020"
-categories: [Applied Political Communication]
+categories: [Applied Political Communication, Past]
 ---
 
-Marie Skłodowska-Curie –Post-doc Fellowships (H2020-MSCA-COFUND-2020), «ONISILOS».
+**Year:** 2023 – 2024
+**Status:** Past
+**Funder:** H2020-MSCA-COFUND-2020
+**Research Cluster:** Applied Political Communication

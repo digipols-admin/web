@@ -1,9 +1,13 @@
 ---
 title: "EurOMo 2025, Media Ownership Monitor System"
-date: "2025"
+sort_year: 2025
 year: "2025"
+status: "Ongoing"
 funder: "European Union's LC-03617323 - EurOMO 2025"
-categories: [Media & Social Media Monitoring]
+categories: [Media & Social Media Monitoring, Ongoing]
 ---
 
-EurOMo 2025, Media Ownership Monitor System
+**Year:** 2025
+**Status:** Ongoing
+**Funder:** European Union's LC-03617323 — EurOMO 2025
+**Research Cluster:** Media & Social Media Monitoring

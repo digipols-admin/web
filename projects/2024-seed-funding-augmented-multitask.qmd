@@ -1,9 +1,13 @@
 ---
 title: "Seed Funding: Augmented Multi-Task Argument Mining"
-date: "2024"
-year: "2024-2026"
+sort_year: 2026
+year: "2024 – 2026"
+status: "Ongoing"
 funder: "Cyprus University of Technology"
-categories: [Media & Social Media Monitoring]
+categories: [Media & Social Media Monitoring, Ongoing]
 ---
 
-Seed Funding: Augmented Multi-Task Argument Mining
+**Year:** 2024 – 2026
+**Status:** Ongoing
+**Funder:** Cyprus University of Technology
+**Research Cluster:** Media & Social Media Monitoring

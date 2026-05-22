@@ -1,9 +1,13 @@
 ---
 title: "Evaluation of the European Union Solidarity Fund 2002-2017"
-date: "2020"
+sort_year: 2020
 year: "2020"
+status: "Past"
 funder: "DG Regio Fund Tender (Contract No. 2017CE16AAD011)"
-categories: [Applied Political Communication]
+categories: [Applied Political Communication, Past]
 ---
 
-Evaluation of the European Union Solidarity Fund 2002-2017
+**Year:** 2020
+**Status:** Past
+**Funder:** DG Regio Fund Tender (Contract No. 2017CE16AAD011)
+**Research Cluster:** Applied Political Communication

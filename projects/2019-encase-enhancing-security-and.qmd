@@ -1,9 +1,13 @@
 ---
 title: "ENCASE - EnhaNcing seCurity and privacy in the Social wEb: a user centered approach for the protection of minors"
-date: "2019"
+sort_year: 2019
 year: "2019"
+status: "Past"
 funder: "H2020-MSCA-RISE-2015"
-categories: [Media & Social Media Monitoring]
+categories: [Media & Social Media Monitoring, Past]
 ---
 
-ENCASE - EnhaNcing seCurity and privacy in the Social wEb: a user centered approach for the protection of minors
+**Year:** 2019
+**Status:** Past
+**Funder:** H2020-MSCA-RISE-2015
+**Research Cluster:** Media & Social Media Monitoring

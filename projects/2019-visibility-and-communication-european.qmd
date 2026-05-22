@@ -1,9 +1,13 @@
 ---
 title: "Visibility and Communication - European Cohesion Policy in Online Media"
-date: "2019"
+sort_year: 2019
 year: "2019"
+status: "Past"
 funder: "European Parliament Tender (IP/B/REGO/IC/2019-009)"
-categories: [Applied Political Communication]
+categories: [Applied Political Communication, Past]
 ---
 
-Visibility and Communication - European Cohesion Policy in Online Media
+**Year:** 2019
+**Status:** Past
+**Funder:** European Parliament Tender (IP/B/REGO/IC/2019-009)
+**Research Cluster:** Applied Political Communication

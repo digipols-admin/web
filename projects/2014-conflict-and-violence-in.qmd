@@ -1,9 +1,13 @@
 ---
 title: "Conflict and Violence in Cypriot Television: New Journalistic Forms and Practices for Mediating Conflict and Violence in the Cypriot Public Sphere"
-date: "2014"
+sort_year: 2014
 year: "2014"
+status: "Past"
 funder: "Research Promotion Foundation (RPF)"
-categories: [Media & Social Media Monitoring]
+categories: [Media & Social Media Monitoring, Past]
 ---
 
-Conflict and Violence in Cypriot Television: New Journalistic Forms and Practices for Mediating Conflict and Violence in the Cypriot Public Sphere
+**Year:** 2014
+**Status:** Past
+**Funder:** Research Promotion Foundation (RPF)
+**Research Cluster:** Media & Social Media Monitoring

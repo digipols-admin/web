@@ -1,9 +1,13 @@
 ---
-title: "“Building the Universities of the Future through Social Innovation Education” (BUFSIE)"
-date: "2020"
-year: "2020-2023"
-funder: "Εrasmus+"
-categories: [Public Opinion & Argument Mining]
+title: "Building the Universities of the Future through Social Innovation Education (BUFSIE)"
+sort_year: 2023
+year: "2020 – 2023"
+status: "Past"
+funder: "Erasmus+"
+categories: [Public Opinion & Argument Mining, Past]
 ---
 
-“Building the Universities of the Future through Social Innovation Education” (BUFSIE)
+**Year:** 2020 – 2023
+**Status:** Past
+**Funder:** Erasmus+
+**Research Cluster:** Public Opinion & Argument Mining

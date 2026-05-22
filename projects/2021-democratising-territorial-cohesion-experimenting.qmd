@@ -1,9 +1,13 @@
 ---
 title: "Democratising Territorial Cohesion: Experimenting with deliberative citizen engagement and participatory budgeting in European regional and urban policies [DEMOTEC] (GA no. 962553)"
-date: "2021"
+sort_year: 2024
 year: "2021 – 2024"
+status: "Past"
 funder: "Horizon 2020, SOCIETAL CHALLENGES - Europe In A Changing World - Inclusive, Innovative And Reflective Societies, European Commission"
-categories: [Public Opinion & Argument Mining]
+categories: [Public Opinion & Argument Mining, Past]
 ---
 
-Democratising Territorial Cohesion: Experimenting with deliberative citizen engagement and participatory budgeting in European regional and urban policies [DEMOTEC] (GA no. 962553)
+**Year:** 2021 – 2024
+**Status:** Past
+**Funder:** Horizon 2020, SOCIETAL CHALLENGES — Europe In A Changing World — Inclusive, Innovative And Reflective Societies, European Commission
+**Research Cluster:** Public Opinion & Argument Mining

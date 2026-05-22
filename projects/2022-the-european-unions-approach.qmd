@@ -1,9 +1,13 @@
 ---
 title: "The European Union's Approach to Multilingualism in its Own Communication Policy"
-date: "2022"
+sort_year: 2022
 year: "2022"
+status: "Past"
 funder: "European Parliament DG Culture"
-categories: [Applied Political Communication]
+categories: [Applied Political Communication, Past]
 ---
 
-The European Union's Approach to Multilingualism in its Own Communication Policy
+**Year:** 2022
+**Status:** Past
+**Funder:** European Parliament DG Culture
+**Research Cluster:** Applied Political Communication

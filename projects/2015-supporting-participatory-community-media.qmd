@@ -1,9 +1,13 @@
 ---
-title: "“Supporting Participatory Community Media and Citizens Media literacy in Cyprus: The VoCy”."
-date: "2015"
+title: "Supporting Participatory Community Media and Citizens Media Literacy in Cyprus: The VoCy"
+sort_year: 2015
 year: "2015"
+status: "Past"
 funder: "Representation of the European Committee in Cyprus"
-categories: [Applied Political Communication]
+categories: [Applied Political Communication, Past]
 ---
 
-“Supporting Participatory Community Media and Citizens Media literacy in Cyprus: The VoCy”.
+**Year:** 2015
+**Status:** Past
+**Funder:** Representation of the European Committee in Cyprus
+**Research Cluster:** Applied Political Communication
